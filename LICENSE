@@ -27,6 +27,7 @@ http://tvku.live:8888/live/Rambo1/Trial123/929.ts
 #EXTINF:-1 tvg-ID="trans7.id" tvg-name="Trans 7" tvg-logo="-" group-title="Lokal",Trans 7
 http://tvku.live:8888/live/Rambo1/Trial123/35.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans 7 FHD" tvg-logo="-" group-title="Lokal",Trans 7 FHD
+http://tvku.live:8888/live/Rambo1/Trial123/930.ts
 #EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="Lokal",Kompas TV
 http://202.80.222.182:80/000001/2/ch00000090990000001730/1003.m3u8?IASHttpSessionId=OTT9499201908240205441202056&ztecid=ch00000090990000001730&bandwidth=1413530&ispcode=1&timeformat=Lokal&channel=ch00000090990000001730&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTUvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com?rizkizakaria-Kompas-TV-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="Lokal",RTV
