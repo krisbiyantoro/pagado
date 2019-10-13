@@ -777,6 +777,51 @@ http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=world
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Kids"
+#EXTINF:-1 tvg-ID="-" tvg-name="Spacetoon" tvg-logo="-" group-title="Kids",Spacetoon
+http://tvku.live:8888/live/Rambo1/Trial123/1541.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Baby First" tvg-logo="-" group-title="Kids",Baby First
+http://tvku.live:8888/live/Rambo1/Trial123/1204.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Dunia Anak" tvg-logo="-" group-title="Kids",Dunia Anak
+http://tvku.live:8888/live/Rambo1/Trial123/907.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Toonmax" tvg-logo="-" group-title="Kids",Toonmax
+http://tvku.live:8888/live/Rambo1/Trial123/1116.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney XD" tvg-logo="-" group-title="Kids",Disney XD
+http://tvku.live:8888/live/Rambo1/Trial123/104.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney US" tvg-logo="-" group-title="Kids",Disney US
+http://tvku.live:8888/live/Rambo1/Trial123/2336.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Duck TV" tvg-logo="-" group-title="Kids",Duck TV
+http://tvku.live:8888/live/Rambo1/Trial123/1854.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nick Toons" tvg-logo="-" group-title="Kids",Nick Toons
+http://tvku.live:8888/live/Rambo1/Trial123/335.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nickelodeon ID" tvg-logo="-" group-title="Kids",Nickelodeon ID
+http://tvku.live:8888/live/Rambo1/Trial123/962.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nick Jr ID" tvg-logo="-" group-title="Kids",Nick Jr ID
+http://tvku.live:8888/live/Rambo1/Trial123/522.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Dream Works HD" tvg-logo="-" group-title="Kids",Dream Works HD
+http://tvku.live:8888/live/Rambo1/Trial123/936.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney Channel ID" tvg-logo="-" group-title="Kids",Disney Channel ID
+http://tvku.live:8888/live/Rambo1/Trial123/306.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network ID HD" tvg-logo="-" group-title="Kids",Cartoon Network ID HD
+http://tvku.live:8888/live/Rambo1/Trial123/680.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network ID FHD" tvg-logo="-" group-title="Kids",Cartoon Network ID FHD
+http://tvku.live:8888/live/Rambo1/Trial123/1532.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Boomerang HD" tvg-logo="-" group-title="Kids",Boomerang HD
+http://tvku.live:8888/live/Rambo1/Trial123/305.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Baby TV" tvg-logo="-" group-title="Kids",Baby TV
+http://tvku.live:8888/live/Rambo1/Trial123/296.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Nick Jr 2" tvg-logo="-" group-title="Kids",Nick Jr 2
+http://tvku.live:8888/live/Rambo1/Trial123/341.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Disney Junior" tvg-logo="-" group-title="Kids",Disney Junior
+http://tvku.live:8888/live/Rambo1/Trial123/213.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Aniplus" tvg-logo="-" group-title="Kids",Aniplus
+http://tvku.live:8888/live/Rambo1/Trial123/2.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Animax" tvg-logo="-" group-title="Kids",Animax
+http://tvku.live:8888/live/Rambo1/Trial123/3.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="Animax Backup" tvg-logo="-" group-title="Kids",Animax Backup
+http://tvku.live:8888/live/Rambo1/Trial123/1196.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="CBeebies" tvg-logo="-" group-title="Kids",CBeebies
+http://tvku.live:8888/live/Rambo1/Trial123/491.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2VDagnB.png" group-title="Kids",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f7sDlZw.png" group-title="Kids",Duck TV
@@ -1387,35 +1432,11 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MK TV
 http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="24/7 Channel"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mRNgg80.jpg" group-title="24/7 Channel",Curious George
-https://dl.dropbox.com/s/9hvjobl263ew0ww/curiougeorge.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WTjnXEJ.jpg?1" group-title="24/7 Channel",Jackie Chan
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CfpXcOY.jpg" group-title="24/7 Channel",Larva
-https://dl.dropbox.com/s/pp78vvb789r4s18/larva.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fnPuhZz.jpg" group-title="24/7 Channel",Mr. Bean
-https://dl.dropbox.com/s/q8z7nk3xa6clmv3/bean.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4vLxUTa.jpg" group-title="24/7 Channel",Mr. Bean Cartoon
-https://dl.dropbox.com/s/pakwlc9kfak3ea6/beancartoon.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5v1bigC.jpg" group-title="24/7 Channel",Paw Patrol & Friends
-https://dl.dropbox.com/s/c8bhv2ammbz4z0z/paw.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="24/7 Channel",Shaolin
-http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CqehGE0.png" group-title="24/7 Channel",Spongebob Squarepants 1
-https://dl.dropbox.com/s/9ueq2470g5pyxle/spongebob.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QEwLJxX.jpg?1" group-title="24/7 Channel",Stephen Chow
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2x2MJ7b.jpg" group-title="24/7 Channel",Teen Titans Go!
-https://dl.dropbox.com/s/t96ockwf2kwgkq1/teentitansgo.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sLimTwP.jpg" group-title="24/7 Channel",Thomas & Friends
-https://dl.dropbox.com/s/4mqo8g8koh3bzwp/thomas.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/leB1pr9.jpg" group-title="24/7 Channel",Woody Woodpecker
-https://dl.dropbox.com/s/1963ch88mrs8le2/woodywoodpecker.m3u8?dl=0
-http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_0_.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="VoD"
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WTjnXEJ.jpg?1" group-title="VoD",Jackie Chan
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QEwLJxX.jpg?1" group-title="VoD",Stephen Chow
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="1 1 " tvg-logo="-" group-title="VoD",1 1 
 http://tvku.live:8888/movie/Rambo1/Trial123/103.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="1 2 New Year" tvg-logo="-" group-title="VoD",1 2 New Year
