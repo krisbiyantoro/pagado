@@ -127,16 +127,62 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:jgoch/chunklist.m3u8
 http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8?rizkizakaria-Sinema-Indonesia-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="Spacetoon.id" tvg-logo="https://i.imgur.com/GibhOyu.png" group-title="Lokal",Spacetoon
 http://210.210.155.35/x6bnqe/s/s80/S4/mnf.m3u8?rizkizakaria-Spacetoon-join-telegram=@iptvondemand
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/7oWS4TU.png" group-title="Lokal",TVRI Sports
-http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/V5y5TFx.png" group-title="Lokal",Super Soccer TV
-http://210.210.155.35/uq2663/h/h20/index.m3u8?rizkizakaria-SuperSoccer-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/wSWJ8Dd.png" group-title="Lokal",Dangdutz
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/2Nairw9.png" group-title="Lokal",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Fi9EVN.png" group-title="Lokal",Paytren TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kzY7oX4.png" group-title="Lokal",TV9 NU
+http://119.235.249.60:1935/tv9/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y5ICHan.png" group-title="Lokal",TV Edukasi
+https://dl.dropbox.com/s/w1tyayshkycb6wz/tvedukasi.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b7DOpCH.png" group-title="Lokal",TVRI
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="Lokal",ANTV
+http://210.210.155.35/qwr9ew/s/s102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hDd1ceo.png" group-title="Lokal",Idku
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="Lokal",Indosiar
+http://210.210.155.35/session/d492dd36-c614-11e9-9bba-c81f66f89318/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZoR5AMZ.png" group-title="Lokal",JITV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="Lokal",Kompas TV
+http://210.210.155.35/session/4b53914e-c61b-11e9-9eeb-b82a72d63267/qwr9ew/s/s104/index.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="Lokal",Metro TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8??rizkizakaria/Metro-TV-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vny9oOl.png" group-title="Lokal",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="Lokal",Rajawali TV
+http://210.210.155.35/session/6f0d2f46-c61b-11e9-a62b-b82a72d63267/qwr9ew/s/s12/index.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="Lokal",SCTV
+http://210.210.155.35/session/bf1a407a-c614-11e9-8b92-b82a72d63267/qwr9ew/s/s103/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="Lokal",Trans7
+http://210.210.155.35/session/0062e3ca-c615-11e9-b6d9-c81f66f89318/qwr9ew/s/s101/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/2642q4E.png" group-title="Lokal",TransTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="Lokal",TV One
+http://rr2.dens.tv/s/s105/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zWSTSHZ.png" group-title="Lokal",Antara TV
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jEXEBQL.png" group-title="Lokal",Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/38iwIO7.png" group-title="Lokal",Bandung TV
+https://dl.dropbox.com/s/f1tfae1xwu0cuwd/bandungtv.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KEa5y9g.png" group-title="Lokal",Celebes TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h6AbSTo.png" group-title="Lokal",JakTV
+http://202.80.222.167:80/000001/2/ch00000090990000001695/1003.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FGj0kmR.png" group-title="Lokal",JTV
+http://202.80.222.175:80/000001/2/ch00000090990000001731/1003.m3u8?IASHttpSessionId=OTT2925201908240232241377834&ztecid=ch00000090990000001731&bandwidth=1413530&ispcode=1&timeformat=Lokal&channel=ch00000090990000001731&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTQvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Lokal",Mugos
+http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7zDyS4U.png" group-title="Lokal",MyTV
+https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="News",Join Us on Telegram | t.me/iptvondemand
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="News"
 #EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="News",Kompas TV
 http://202.80.222.182:80/000001/2/ch00000090990000001730/1003.m3u8?IASHttpSessionId=OTT9499201908240205441202056&ztecid=ch00000090990000001730&bandwidth=1413530&ispcode=1&timeformat=Lokal&channel=ch00000090990000001730&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTUvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com?rizkizakaria-Kompas-TV-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="News",TV One
@@ -155,10 +201,14 @@ http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomai
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8?rizkizakaria-INEWS-TV-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/Z10JtuD.jpg?1" group-title="News",Berita Satu
 http://203.153.218.26:9981/stream/channelid/1497104774?ticket=22F0C987FAA4AD2CB22ABEE791F6A4D0B463A246&profile=pass
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="News",Berita Satu
+http://210.210.155.35/session/23e03cf8-c615-11e9-8e41-c81f66f89318/uq2663/h/h41/S4/mnf.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/ARhqwUf.png" group-title="News",Berita Satu World
 http://203.153.218.26:9981/stream/channelid/885612247?ticket=F7084409A9A3970765C87FF3FB2B92AA9A811DE3&profile=pass
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="News",CNN Indonesia
 http://203.153.218.26:9981/stream/channelid/180919192?ticket=AF04CEF62C93986F4789FE62CD79B090FA49DA59&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="News",CNN Indonesia
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=27D47B05A3B1D7A749F4510B5FD549EC5C552A2A&profile=pass
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/Gp34Vlp.png" group-title="News",Jakarta Globe
 http://edge.linknetott.swiftserve.com:80/live/BsNew/amlst:bsenglish/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbc.id"  tvg-logo="https://i.imgur.com/JmNMK4g.png" group-title="News",CNBC Indonesia
@@ -215,194 +265,32 @@ http://210.210.155.35/qwr9ew/s/s24/index.m3u8?rizkizakaria-TV5-Monde-Asia-join-t
 http://210.210.155.35/qwr9ew/s/s47/index.m3u8?rizkizakaria-UATV-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/VkObLMe.png" group-title="News",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8?rizkizakaria-VOA-join-telegram=@iptvondemand
-
-
-#EXTINF:-1 tvg-id="I216.32281.schedulesdirect.org" tvg-logo="https://i.imgur.com/ehzozeE.png" group-title="Sports",NBA
-http://185.246.209.109:8080/NBA9/index.m3u8
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="Lokal",ANTV
-http://210.210.155.35/qwr9ew/s/s102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hDd1ceo.png" group-title="Lokal",Idku
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="Lokal",Indosiar
-http://210.210.155.35/session/d492dd36-c614-11e9-9bba-c81f66f89318/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZoR5AMZ.png" group-title="Lokal",JITV
-http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="Lokal",Kompas TV
-http://210.210.155.35/session/4b53914e-c61b-11e9-9eeb-b82a72d63267/qwr9ew/s/s104/index.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="Lokal",Metro TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8??rizkizakaria/Metro-TV-join-telegram=@iptvondemand
-#EXTINF:-1 tvg-id="NetTV.id" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vny9oOl.png" group-title="Lokal",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="Lokal",Rajawali TV
-http://210.210.155.35/session/6f0d2f46-c61b-11e9-a62b-b82a72d63267/qwr9ew/s/s12/index.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="Lokal",SCTV
-http://210.210.155.35/session/bf1a407a-c614-11e9-8b92-b82a72d63267/qwr9ew/s/s103/index.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="Lokal",Trans7
-http://210.210.155.35/session/0062e3ca-c615-11e9-b6d9-c81f66f89318/qwr9ew/s/s101/index.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/2642q4E.png" group-title="Lokal",TransTV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="Lokal",TV One
-http://rr2.dens.tv/s/s105/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zWSTSHZ.png" group-title="Lokal",Antara TV
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2VDagnB.png" group-title="Kids",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jEXEBQL.png" group-title="Lokal",Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/38iwIO7.png" group-title="Lokal",Bandung TV
-https://dl.dropbox.com/s/f1tfae1xwu0cuwd/bandungtv.m3u8?dl=0
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="News",Berita Satu
-http://210.210.155.35/session/23e03cf8-c615-11e9-8e41-c81f66f89318/uq2663/h/h41/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KEa5y9g.png" group-title="Lokal",Celebes TV
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f7sDlZw.png" group-title="Kids",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-logo="https://i.imgur.com/etFjDoa.png" group-title="News",DW (English)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 tvg-id="I512.60961.schedulesdirect.org" tvg-logo="https://i.imgur.com/rbiqxxR.png" group-title="News",France 24
 http://210.210.155.35/qwr9ew/s/s22/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TZ3AZiA.png" group-title="Kids",Horee
-https://dl.dropbox.com/s/yux8ql649nxd5ha/horee.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eW5jriK.png" group-title="Movies",IMC
-https://dl.dropbox.com/s/0nn2z871jh2vfxg/imc.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h6AbSTo.png" group-title="Lokal",JakTV
-http://202.80.222.167:80/000001/2/ch00000090990000001695/1003.m3u8?IASHttpSessionId=SLB242142019082402281920833852&ztecid=ch00000090990000001695&bandwidth=1239209&ispcode=1&timeformat=Lokal&channel=ch00000090990000001695&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwODAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FGj0kmR.png" group-title="Lokal",JTV
-http://202.80.222.175:80/000001/2/ch00000090990000001731/1003.m3u8?IASHttpSessionId=OTT2925201908240232241377834&ztecid=ch00000090990000001731&bandwidth=1413530&ispcode=1&timeformat=Lokal&channel=ch00000090990000001731&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTQvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Lokal",Mugos
-http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7zDyS4U.png" group-title="Lokal",MyTV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GVKmSKP.png" group-title="News",News Asia
 http://210.210.155.35/uq2663/h/h29/index.m3u8?rizkizakaria/NewsAsia-join-telegram=@iptvondemand
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Fi9EVN.png" group-title="Lokal",Paytren TV
-http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kzY7oX4.png" group-title="Lokal",TV9 NU
-http://119.235.249.60:1935/tv9/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/y5ICHan.png" group-title="Lokal",TV Edukasi
-https://dl.dropbox.com/s/w1tyayshkycb6wz/tvedukasi.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/b7DOpCH.png" group-title="Lokal",TVRI
-https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bT2KtHA.png" group-title="Religi",U Channel
-http://rr2.dens.tv/s/s41/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6aJECJ.png" group-title="News",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net:80/aljazeera/english2/index4147.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UseYWXT.png" group-title="Religi",Al Quran Kareem
-http://210.210.155.35/qwr9ew/s/s28/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6wciIO7.png" group-title="Religi",DMI
-http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vAJZxkM.png" group-title="Religi",Muhammadiyah TV
-http://202.80.222.174/000001/2/ch00000090990000001813/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Prf5SNx.png" group-title="Religi",Rodja TV
-http://210.210.155.35/qwr9ew/s/s14/index.m3u8
-#EXTINF:-1 tvg-id="I690.28452.schedulesdirect.org" tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="Entertainment",Arirang
-http://190.2.154.164:80/TV0801
-#EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://i.imgur.com/BmMPl7b.png" group-title="Kids",Animax
-http://210.210.155.35/dr9445/h/h144/index.m3u8
-#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/9A3vJHu.png" group-title="Entertainment",AXN
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/index.m3u8 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S4tAfgm.png" group-title="Movies",Bioskop Indonesia
-https://dl.dropbox.com/s/3wd86dtevt6n4gw/bioskopindonesia.m3u8?dl=0
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Entertainment",Blue Ant Entertaiment
-http://210.210.155.35/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="Movies",Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QDxws2R.png" group-title="Kids",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://i.imgur.com/f9JjLMQ.png" group-title="Movies",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/zYeuqW9.png" group-title="Movies",Cinema World
-http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="News",CNN Indonesia
-http://203.153.218.28:9981/stream/channelid/1328589592?ticket=27D47B05A3B1D7A749F4510B5FD549EC5C552A2A&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O1HPiv7.png" group-title="Religi",Daai TV
-http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pJ7Mp6u.png" group-title="Entertainment",Diva TV
-http://45.126.83.51/uq2663/h/h11/index2.m3u8
-#EXTINF:-1 tvg-id="disneychannel.id" tvg-logo="https://i.imgur.com/S6QDK34.png" group-title="Kids",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=B15859441EB3E7895A9B03F0B97507D8149507A0&profile=pass
-#EXTINF:-1 tvg-id="disneyjunior.id" tvg-logo="https://i.imgur.com/ZXaRN1y.png" group-title="Kids",Disney Junior ID
-http://103.47.132.164:80/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z4dLHlP.png" group-title="Entertainment",Dongnan TV
-http://223.110.241.130:6610/cntv/live1/dongnanstv/dongnanstv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XUBa6KV.png" group-title="Kids",Dunia anak
-https://dl.dropbox.com/s/a4tf21xgft4ghkb/duniaanak.m3u8?dl=0
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/sLRyMFz.png" group-title="Sports",Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O2UgYeq.png" group-title="Musics",MTV Asia
-http://190.2.154.164/TV0676
-#EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/EY3Tald.png" group-title="Lifestyle",E!
-http://210.210.155.35/uq2663/h/h10/index.m3u8?rizkizakaria-E-join-telegram=@iptvondemand
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="Movies",Flik
-https://dl.dropbox.com/s/pfi49oocgx0k3t9/flik.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDOdcXd.png" group-title="Movies",Galaxy
-https://dl.dropbox.com/s/3hrk3he15z6pyje/galaxy.m3u8?dl=0
-#EXTINF:-1 tvg-id="KIX.id" tvg-logo="https://i.imgur.com/yqqe3C5.png" group-title="Entertainment",KIX
-http://210.210.155.35/uq2663/h/h07/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/92HDzot.png" group-title="Kids",Nick Junior
-http://190.2.154.164/TV0654
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YOU2MbP.png" group-title="Kids",Nickelodeon
-http://190.2.154.164/TV0655
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ia4XJWn.png" group-title="Entertainment",Panda TV
-http://fms.cntv.lxdns.com/live/flv/channel91.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YA1AXpH.png" group-title="Musics",Prambors
-https://dl.dropbox.com/s/y2acb7nism7f3y8/prambors.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/670u3yq.png" group-title="Entertainment",SBS IN
-https://dl.dropbox.com/s/4ftehrjbqka8obr/sbs.m3u8?dl=0
-#EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-logo="https://i.imgur.com/8013xbr.png" group-title="Entertainment",Waku Waku Japan
-https://dl.dropbox.com/s/z11t9kkdlc076ym/wakuwaku.m3u8?dl=0
-#EXTINF:-1 tvg-id="WarnerTV.id" tvg-logo="https://i.imgur.com/hQaBwFq.png" group-title="Entertainment",Warner
-https://dl.dropbox.com/s/ikn9htkl6htn82q/warner.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bU09VB9.png" group-title="Kids",Aniplus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/ZPJaz46.png" group-title="News",Bloomberg
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OKJhq2H.png" group-title="News",CCTV4
 http://210.210.155.35/qwr9ew/s/s19/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7uPKpZf.png" group-title="Sports",Egg Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-id="I508.82432.schedulesdirect.org" tvg-logo="https://i.imgur.com/hAKQCbA.png" group-title="News",Euronews
 http://210.210.155.35/qwr9ew/s/s15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMTlrIx.png" group-title="Lifestyle",Fashion One
-https://dl.dropbox.com/s/bm0lm5d1l9hgq4v/fashionone.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Lifestyle",FashionTV
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5P9XBTy.png" group-title="Entertainment",K-Plus
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UnlikcH.png" group-title="Entertainment",NHK world Japan
-http://210.210.155.35/uq2663/h/h23/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ta1M9wY.png" group-title="Entertainment",Shenzhen TV
-http://111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Entertainment",Sony GEM
-http://rr.dens.tv/h/h19/index.m3u8
-#EXTINF:-1 tvg-id="SonyOne.id" tvg-logo="https://i.imgur.com/ffue1bz.png" group-title="Entertainment",Sony One
-http://45.126.83.51/uq2663/h/h143/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GibhOyu.png" group-title="Kids",Spacetoon Plus
-https://dl.dropbox.com/s/n7tml9v1xbkmqfl/spacetoonplus.m3u8?dl=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HIBk9Yp.png" group-title="Musics",T Music
-https://dl.dropbox.com/s/o4095douulhxukq/tmusic.m3u8?dl=0
-#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/mQI2gyp.png" group-title="Movies",Thrilll
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4JVZk8Q.png" group-title="Lifestyle",TLC
-http://80.80.160.168/live/2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SaOTIpP.png" group-title="News",TV5Monde
 http://210.210.155.35/qwr9ew/s/s24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3jygBGk.png" group-title="Entertainment",TVN
-http://190.2.154.164:80/TV0800
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4LEMQG4.png" group-title="Movies",TVN Movies
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvk9XDk.png" group-title="Entertainment",Xing Kong
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sVqhAup.png" group-title="Movies",Zee Bioskop
-http://rr2.dens.tv/s/s32/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yS94M0X.png" group-title="Entertainment",Zhejiang TV
-http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Lifestyle"
+#EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/EY3Tald.png" group-title="Lifestyle",E!
+http://210.210.155.35/uq2663/h/h10/index.m3u8?rizkizakaria-E-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="afc.id" tvg-logo="https://i.imgur.com/SpUvTmu.png" group-title="Lifestyle",Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=ECA7CCC0E97969AF75820D9971228C677309CAA8&profile=pass
+http://tvku.live:8888/live/Rambo1/Trial123/807.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Lifestyle",FashionTV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8http://203.153.218.28:9981/stream/channelid/1092664456?ticket=ECA7CCC0E97969AF75820D9971228C677309CAA8&profile=pass
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4JVZk8Q.png" group-title="Lifestyle",TLC
+http://80.80.160.168/live/2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Sports"
 #EXTINF:-1 tvg-ID="-" tvg-name="Liga 1 Indonesia" tvg-logo="-" group-title="Sports",Usee Sport
@@ -666,13 +554,21 @@ http://tvku.live:8888/live/Rambo1/Trial123/2594.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Eir Sport 2" tvg-logo="-" group-title="Sports",Eir Sport 2
 http://tvku.live:8888/live/Rambo1/Trial123/2595.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Movies",Join Us on Telegram 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Movie"
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="Movie",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinema World" tvg-logo="-" group-title="Movie",Cinema World
 http://tvku.live:8888/live/Rambo1/Trial123/1194.ts
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/zYeuqW9.png" group-title="Movie",Cinema World (alt)
+http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Chinese Movies Legend" tvg-logo="-" group-title="Movie",Star Chinese Movies Legend
 http://tvku.live:8888/live/Rambo1/Trial123/1859.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="CCM" tvg-logo="-" group-title="Movie",CCM
 http://tvku.live:8888/live/Rambo1/Trial123/2118.ts
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://i.imgur.com/f9JjLMQ.png" group-title="Movie",Celestial Movies (alt)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-ID="-" tvg-name="Celestial Movies" tvg-logo="-" group-title="Movie",Celestial Movies
+http://tvku.live:8888/live/Rambo1/Trial123/5.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Premiere" tvg-logo="-" group-title="Movie",Premiere
 http://tvku.live:8888/live/Rambo1/Trial123/2137.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Movies HD" tvg-logo="-" group-title="Movie",FOX Movies HD
@@ -719,6 +615,9 @@ http://tvku.live:8888/live/Rambo1/Trial123/873.ts
 http://tvku.live:8888/live/Rambo1/Trial123/1498.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Red by HBO HD" tvg-logo="-" group-title="Movie",Red by HBO HD
 http://tvku.live:8888/live/Rambo1/Trial123/874.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eW5jriK.png" group-title="Movie",IMC
+https://dl.dropbox.com/s/0nn2z871jh2vfxg/imc.m3u8?dl=0
+IASHttpSessionId=SLB242142019082402281920833852&ztecid=ch00000090990000001695&bandwidth=1239209&ispcode=1&timeformat=Lokal&channel=ch00000090990000001695&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwODAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinemax HD" tvg-logo="-" group-title="Movie",Cinemax HD
 http://tvku.live:8888/live/Rambo1/Trial123/796.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinemax FHD" tvg-logo="-" group-title="Movie",Cinemax FHD
@@ -741,24 +640,68 @@ http://tvku.live:8888/live/Rambo1/Trial123/1698.ts
 http://tvku.live:8888/live/Rambo1/Trial123/1487.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Bioskop Indonesia" tvg-logo="-" group-title="Movie",Bioskop Indonesia
 http://tvku.live:8888/live/Rambo1/Trial123/908.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S4tAfgm.png" group-title="Movie",Bioskop Indonesia (alt)
+https://dl.dropbox.com/s/3wd86dtevt6n4gw/bioskopindonesia.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="Movie",Flik
+https://dl.dropbox.com/s/pfi49oocgx0k3t9/flik.m3u8?dl=0
 #EXTINF:-1 tvg-ID="-" tvg-name="Flik HD" tvg-logo="-" group-title="Movie",Flik HD
 http://tvku.live:8888/live/Rambo1/Trial123/1497.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="HITS" tvg-logo="-" group-title="Movie",HITS
 http://tvku.live:8888/live/Rambo1/Trial123/1195.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Thrill" tvg-logo="-" group-title="Movie",Thrill
 http://tvku.live:8888/live/Rambo1/Trial123/4.ts
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/mQI2gyp.png" group-title="Movie",Thrilll (alt)
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="KIX" tvg-logo="-" group-title="Movie",KIX
 http://tvku.live:8888/live/Rambo1/Trial123/8.ts
-#EXTINF:-1 tvg-ID="-" tvg-name="Celestial Movies" tvg-logo="-" group-title="Movie",Celestial Movies
-http://tvku.live:8888/live/Rambo1/Trial123/5.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="AXN" tvg-logo="-" group-title="Movie",AXN
 http://tvku.live:8888/live/Rambo1/Trial123/9.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Star World" tvg-logo="-" group-title="Movie",Star World
 http://tvku.live:8888/live/Rambo1/Trial123/381.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Zee Bioskop" tvg-logo="-" group-title="Movie",Zee Bioskop
 http://tvku.live:8888/live/Rambo1/Trial123/7.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sVqhAup.png" group-title="Movie",Zee Bioskop (alt)
+http://rr2.dens.tv/s/s32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDOdcXd.png" group-title="Movie",Galaxy
+https://dl.dropbox.com/s/3hrk3he15z6pyje/galaxy.m3u8?dl=0
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Entertainment",Join Us on Telegram | t.me/iptvondemand
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Entertainment"
+#EXTINF:-1 tvg-id="I690.28452.schedulesdirect.org" tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="Entertainment",Arirang
+http://190.2.154.164:80/TV0801
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/9A3vJHu.png" group-title="Entertainment",AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/index.m3u8 
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Entertainment",Blue Ant Entertaiment
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pJ7Mp6u.png" group-title="Entertainment",Diva TV
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z4dLHlP.png" group-title="Entertainment",Dongnan TV
+http://223.110.241.130:6610/cntv/live1/dongnanstv/dongnanstv
+#EXTINF:-1 tvg-id="KIX.id" tvg-logo="https://i.imgur.com/yqqe3C5.png" group-title="Entertainment",KIX
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ia4XJWn.png" group-title="Entertainment",Panda TV
+http://fms.cntv.lxdns.com/live/flv/channel91.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/670u3yq.png" group-title="Entertainment",SBS IN
+https://dl.dropbox.com/s/4ftehrjbqka8obr/sbs.m3u8?dl=0
+#EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-logo="https://i.imgur.com/8013xbr.png" group-title="Entertainment",Waku Waku Japan
+https://dl.dropbox.com/s/z11t9kkdlc076ym/wakuwaku.m3u8?dl=0
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-logo="https://i.imgur.com/hQaBwFq.png" group-title="Entertainment",Warner
+https://dl.dropbox.com/s/ikn9htkl6htn82q/warner.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5P9XBTy.png" group-title="Entertainment",K-Plus
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UnlikcH.png" group-title="Entertainment",NHK world Japan
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ta1M9wY.png" group-title="Entertainment",Shenzhen TV
+http://111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Entertainment",Sony GEM
+http://rr.dens.tv/h/h19/index.m3u8
+#EXTINF:-1 tvg-id="SonyOne.id" tvg-logo="https://i.imgur.com/ffue1bz.png" group-title="Entertainment",Sony One
+http://45.126.83.51/uq2663/h/h143/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3jygBGk.png" group-title="Entertainment",TVN
+http://190.2.154.164:80/TV0800
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvk9XDk.png" group-title="Entertainment",Xing Kong
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yS94M0X.png" group-title="Entertainment",Zhejiang TV
+http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.imgur.com/liPArd5.jpg?1" group-title="Entertainment",&TV
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 #EXTINF:-1 tvg-id="I690.28452.schedulesdirect.org" tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="Entertainment",Arirang
@@ -843,8 +786,31 @@ http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/oUWpCAk.jpg" group-title="Entertainment",Zee World
 http://pockettv.xyz/api/zee.m3u8?c=world
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Kids",Join Us on Telegram | t.me/iptvondemand
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Kids"
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2VDagnB.png" group-title="Kids",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f7sDlZw.png" group-title="Kids",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TZ3AZiA.png" group-title="Kids",Horee
+https://dl.dropbox.com/s/yux8ql649nxd5ha/horee.m3u8?dl=0
+#EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://i.imgur.com/BmMPl7b.png" group-title="Kids",Animax
+http://210.210.155.35/dr9445/h/h144/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QDxws2R.png" group-title="Kids",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
+#EXTINF:-1 tvg-id="disneychannel.id" tvg-logo="https://i.imgur.com/S6QDK34.png" group-title="Kids",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=B15859441EB3E7895A9B03F0B97507D8149507A0&profile=pass
+#EXTINF:-1 tvg-id="disneyjunior.id" tvg-logo="https://i.imgur.com/ZXaRN1y.png" group-title="Kids",Disney Junior ID
+http://103.47.132.164:80/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XUBa6KV.png" group-title="Kids",Dunia anak
+https://dl.dropbox.com/s/a4tf21xgft4ghkb/duniaanak.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/92HDzot.png" group-title="Kids",Nick Junior
+http://190.2.154.164/TV0654
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YOU2MbP.png" group-title="Kids",Nickelodeon
+http://190.2.154.164/TV0655
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bU09VB9.png" group-title="Kids",Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GibhOyu.png" group-title="Kids",Spacetoon Plus
+https://dl.dropbox.com/s/n7tml9v1xbkmqfl/spacetoonplus.m3u8?dl=0
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/5rlrNDe.jpg" group-title="Kids",Anibox
 http://122.129.115.21:1935/edgedol/_definst_/tao113/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/1kdp1J3.jpg?1" group-title="Kids",Anime TV
@@ -994,8 +960,13 @@ http://live.chosun.gscdn.com:80/live/_definst_/tvchosun3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Korea",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Musics",Join Us on Telegram | t.me/iptvondemand
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Musics"
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YA1AXpH.png" group-title="Musics",Prambors
+https://dl.dropbox.com/s/y2acb7nism7f3y8/prambors.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O2UgYeq.png" group-title="Musics",MTV Asia
+http://190.2.154.164/TV0676
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HIBk9Yp.png" group-title="Musics",T Music
+https://dl.dropbox.com/s/o4095douulhxukq/tmusic.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cILBWUA.png" group-title="Musics",New Pallapa
 https://dl.dropbox.com/s/1js1sw9s2u2n2ap/pallapa.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Hu6D6Yy.jpg" group-title="Musics",DCDC Official
@@ -1070,9 +1041,8 @@ http://ott-cdn.ucom.am:80/s24/index.m3u8
 http://185.246.209.109:8080/CNN/tracks-v1a1/mono.m3u8?rizkizakaria-CNN-Int-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="15192" tvg-logo="https://i.imgur.com/c9dAWbu.png?1" group-title="UK",CNN International
 http://www.sansat.net:25461/6yong314/N8r3cqKaXE/8204
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Japan",Join Us on Telegram | t.me/iptvondemand
-
-
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/8lAqxAf.jpg?1" group-title="Japan",BS Channel
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/T5A0qXt.png" group-title="Japan",Family Gekijo
@@ -1091,7 +1061,25 @@ http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Astro Malaysia",Join Us on Telegram 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Astro Malaysia"
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YuG5Ggj.png" group-title="Astro Malaysia",TV1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
+#EXTINF:-1 tvg-ID="-" tvg-name="TV1" tvg-logo="-" group-title=" Astro Malaysia",TV1 (alt)
+http://tvku.live:8888/live/Rambo1/Trial123/2262.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RpuAW3O.jpg" group-title="Astro Malaysia",TV2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
+#EXTINF:-1 tvg-ID="-" tvg-name="TV2" tvg-logo="-" group-title="Astro Malaysia",TV2 (alt)
+http://tvku.live:8888/live/Rambo1/Trial123/2263.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k6ccchy.png" group-title="Astro Malaysia",TV3
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWBaq9lRtWE5kAmo2S3Bi8c)/dm/3/x6qp375/d/live-3.m3u8
+#EXTINF:-1 tvg-ID="-" tvg-name="TV3" tvg-logo="-" group-title="Astro Malaysia",TV3 (alt)
+http://tvku.live:8888/live/Rambo1/Trial123/2264.ts
+#EXTINF:-1 tvg-ID="-" tvg-name="TV8" tvg-logo="-" group-title="Astro Malaysia",TV8
+http://tvku.live:8888/live/Rambo1/Trial123/2333.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/96xTYue.png" group-title="Astro Malaysia",TV9
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZE46XvW5xWVCObQrhplZpM)/dm/3/x6qqja6/s/live-3.m3u8
+#EXTINF:-1 tvg-ID="-" tvg-name="TV9" tvg-logo="-" group-title="Astro Malaysia",TV9 (alt)
+http://tvku.live:8888/live/Rambo1/Trial123/950.ts 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pDKZJ0Q.jpg" group-title="Astro Malaysia",1News
 http://rtm2mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1sBFJPh.png" group-title="Astro Malaysia",8TV
@@ -1124,14 +1112,6 @@ http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
 http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/media-udhb3nkl6_b1096000_10191.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/KfQDOEq.png?1" group-title="Astro Malaysia",RTM Sports
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YuG5Ggj.png" group-title="Astro Malaysia",TV1
-http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RpuAW3O.jpg" group-title="Astro Malaysia",TV2
-http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k6ccchy.png" group-title="Astro Malaysia",TV3
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWBaq9lRtWE5kAmo2S3Bi8c)/dm/3/x6qp375/d/live-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/96xTYue.png" group-title="Astro Malaysia",TV9
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZE46XvW5xWVCObQrhplZpM)/dm/3/x6qqja6/s/live-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BSjyDaR.png?1" group-title="Astro Malaysia",Drama Sangat
 https://stream-04.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0olhhXs_t7Re5xluJUUJHYY)/dm/3/x6zvnex/s/live-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RTQDUI8.png" group-title="Astro Malaysia",TV Ikim
@@ -1139,7 +1119,19 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Astro Malaysia",tvN [MY]
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Religi",Join Us on Telegram | t.me/iptvondemand
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Religi"
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O1HPiv7.png" group-title="Religi",Daai TV
+http://210.210.155.35/session/f8839692-c617-11e9-b949-c81f66f89318/qwr9ew/s/s13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bT2KtHA.png" group-title="Religi",U Channel
+http://rr2.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UseYWXT.png" group-title="Religi",Al Quran Kareem
+http://210.210.155.35/qwr9ew/s/s28/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6wciIO7.png" group-title="Religi",DMI
+http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vAJZxkM.png" group-title="Religi",Muhammadiyah TV
+http://202.80.222.174/000001/2/ch00000090990000001813/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Prf5SNx.png" group-title="Religi",Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/index.m3u8
 #EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/ahsan.png" group-title="Religi",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/DnEQCsN.png" group-title="Religi",Akhyar TV
@@ -1211,7 +1203,6 @@ http://119.235.249.60:1935/tv9/live/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 #EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/wesal.png" group-title="Religi",Wesal TV
 http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
-
 
 
 #EXTINF:1 tvg-id="" tvg-logo="" group-title="Thailand",69 TV
@@ -1303,7 +1294,7 @@ http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="" group-title="Thailand",YOU CHANNEL
 http://stream.rs.co.th/you-hi/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="India",Join Us on Telegram | t.me/iptvondemand
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="India"
 d
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NXjlqVE.jpg?1" group-title="India",&Flix
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
@@ -1333,7 +1324,6 @@ http://130.185.150.79:1935/trunk/ZEE-CINEMA/playlist.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/oUWpCAk.jpg" group-title="India",Zee World
 http://pockettv.xyz/api/zee.m3u8?c=world
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="NINMEDIA",Join Us on Telegram | t.me/iptvondemand
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",KITANESIA
@@ -1401,7 +1391,8 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MK TV
 http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="24/7 Channel",Join Us on Telegram
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="24/7 Channel"
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mRNgg80.jpg" group-title="24/7 Channel",Curious George
 https://dl.dropbox.com/s/9hvjobl263ew0ww/curiougeorge.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WTjnXEJ.jpg?1" group-title="24/7 Channel",Jackie Chan
@@ -1427,3 +1418,423 @@ https://dl.dropbox.com/s/4mqo8g8koh3bzwp/thomas.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/leB1pr9.jpg" group-title="24/7 Channel",Woody Woodpecker
 https://dl.dropbox.com/s/1963ch88mrs8le2/woodywoodpecker.m3u8?dl=0
 http://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_0_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="VoD"
+#EXTINF:-1 tvg-ID="-" tvg-name="1 1 " tvg-logo="-" group-title="VoD",1 1 
+http://tvku.live:8888/movie/Rambo1/Trial123/103.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="1 2 New Year" tvg-logo="-" group-title="VoD",1 2 New Year
+http://tvku.live:8888/movie/Rambo1/Trial123/104.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="1 Buck (2017) " tvg-logo="-" group-title="VoD",1 Buck (2017) 
+http://tvku.live:8888/movie/Rambo1/Trial123/105.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="1 Mile To You (2017)" tvg-logo="-" group-title="VoD",1 Mile To You (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/106.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="10  (1979)" tvg-logo="-" group-title="VoD",10  (1979)
+http://tvku.live:8888/movie/Rambo1/Trial123/112.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="10 Cloverfield Lane " tvg-logo="-" group-title="VoD",10 Cloverfield Lane 
+http://tvku.live:8888/movie/Rambo1/Trial123/113.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="10 Minutes Gone " tvg-logo="-" group-title="VoD",10 Minutes Gone 
+http://tvku.live:8888/movie/Rambo1/Trial123/114.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="10 Things I Hate About You " tvg-logo="-" group-title="VoD",10 Things I Hate About You 
+http://tvku.live:8888/movie/Rambo1/Trial123/115.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="10 Years " tvg-logo="-" group-title="VoD",10 Years 
+http://tvku.live:8888/movie/Rambo1/Trial123/116.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="10+10" tvg-logo="-" group-title="VoD",10+10
+http://tvku.live:8888/movie/Rambo1/Trial123/119.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="10,000 B.C. " tvg-logo="-" group-title="VoD",10,000 B.C. 
+http://tvku.live:8888/movie/Rambo1/Trial123/117.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="10.0 Earthquake " tvg-logo="-" group-title="VoD",10.0 Earthquake 
+http://tvku.live:8888/movie/Rambo1/Trial123/118.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="100 Bloody Acres" tvg-logo="-" group-title="VoD",100 Bloody Acres
+http://tvku.live:8888/movie/Rambo1/Trial123/123.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="100 Bullets " tvg-logo="-" group-title="VoD",100 Bullets 
+http://tvku.live:8888/movie/Rambo1/Trial123/124.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="100 Streets" tvg-logo="-" group-title="VoD",100 Streets
+http://tvku.live:8888/movie/Rambo1/Trial123/125.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="100 Yards" tvg-logo="-" group-title="VoD",100 Yards
+http://tvku.live:8888/movie/Rambo1/Trial123/126.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="101 Dalmatians " tvg-logo="-" group-title="VoD",101 Dalmatians 
+http://tvku.live:8888/movie/Rambo1/Trial123/127.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="101 Dalmatians II Patchs London Adventure " tvg-logo="-" group-title="VoD",101 Dalmatians II Patchs London Adventure 
+http://tvku.live:8888/movie/Rambo1/Trial123/128.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="11 14" tvg-logo="-" group-title="VoD",11 14
+http://tvku.live:8888/movie/Rambo1/Trial123/120.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="12 Angry Men " tvg-logo="-" group-title="VoD",12 Angry Men 
+http://tvku.live:8888/movie/Rambo1/Trial123/121.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="12 Rounds 3 Lockdown" tvg-logo="-" group-title="VoD",12 Rounds 3 Lockdown
+http://tvku.live:8888/movie/Rambo1/Trial123/122.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="2012" tvg-logo="-" group-title="VoD",2012
+http://tvku.live:8888/movie/Rambo1/Trial123/131.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="2036 Nexus Dawn" tvg-logo="-" group-title="VoD",2036 Nexus Dawn
+http://tvku.live:8888/movie/Rambo1/Trial123/132.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="3 Days to Kill " tvg-logo="-" group-title="VoD",3 Days to Kill 
+http://tvku.live:8888/movie/Rambo1/Trial123/107.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="3 From Hell " tvg-logo="-" group-title="VoD",3 From Hell 
+http://tvku.live:8888/movie/Rambo1/Trial123/108.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="3 Idiots " tvg-logo="-" group-title="VoD",3 Idiots 
+http://tvku.live:8888/movie/Rambo1/Trial123/109.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="5 Centimeters Per Second " tvg-logo="-" group-title="VoD",5 Centimeters Per Second 
+http://tvku.live:8888/movie/Rambo1/Trial123/110.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="500 Days Of Summer" tvg-logo="-" group-title="VoD",500 Days Of Summer
+http://tvku.live:8888/movie/Rambo1/Trial123/129.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="500 MPH Storm " tvg-logo="-" group-title="VoD",500 MPH Storm 
+http://tvku.live:8888/movie/Rambo1/Trial123/130.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="6 Days" tvg-logo="-" group-title="VoD",6 Days
+http://tvku.live:8888/movie/Rambo1/Trial123/111.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Beautiful Planet " tvg-logo="-" group-title="VoD",A Beautiful Planet 
+http://tvku.live:8888/movie/Rambo1/Trial123/133.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Brief History Of Time (1991) " tvg-logo="-" group-title="VoD",A Brief History Of Time (1991) 
+http://tvku.live:8888/movie/Rambo1/Trial123/134.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Ghost Story" tvg-logo="-" group-title="VoD",A Ghost Story
+http://tvku.live:8888/movie/Rambo1/Trial123/135.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Nightmare on Elm Street" tvg-logo="-" group-title="VoD",A Nightmare on Elm Street
+http://tvku.live:8888/movie/Rambo1/Trial123/136.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Nightmare on Elm Street 2 Freddys Revenge " tvg-logo="-" group-title="VoD",A Nightmare on Elm Street 2 Freddys Revenge 
+http://tvku.live:8888/movie/Rambo1/Trial123/137.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Nightmare on Elm Street 3 Dream Warriors" tvg-logo="-" group-title="VoD",A Nightmare on Elm Street 3 Dream Warriors
+http://tvku.live:8888/movie/Rambo1/Trial123/138.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Tale Of Two Sisters " tvg-logo="-" group-title="VoD",A Tale Of Two Sisters 
+http://tvku.live:8888/movie/Rambo1/Trial123/139.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Taxi Driver" tvg-logo="-" group-title="VoD",A Taxi Driver
+http://tvku.live:8888/movie/Rambo1/Trial123/140.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="A Thin Line Between Love And Hate" tvg-logo="-" group-title="VoD",A Thin Line Between Love And Hate
+http://tvku.live:8888/movie/Rambo1/Trial123/141.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Aaah! Zombies!! " tvg-logo="-" group-title="VoD",Aaah! Zombies!! 
+http://tvku.live:8888/movie/Rambo1/Trial123/142.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Abe & Phil's Last Poker Game " tvg-logo="-" group-title="VoD",Abe & Phil's Last Poker Game 
+http://tvku.live:8888/movie/Rambo1/Trial123/143.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Ace Ventura Pet Detective Jr. " tvg-logo="-" group-title="VoD",Ace Ventura Pet Detective Jr. 
+http://tvku.live:8888/movie/Rambo1/Trial123/144.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Ace Ventura: Pet Detective" tvg-logo="-" group-title="VoD",Ace Ventura: Pet Detective
+http://tvku.live:8888/movie/Rambo1/Trial123/145.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Ace Ventura: When Nature Calls " tvg-logo="-" group-title="VoD",Ace Ventura: When Nature Calls 
+http://tvku.live:8888/movie/Rambo1/Trial123/146.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="After The Wedding" tvg-logo="-" group-title="VoD",After The Wedding
+http://tvku.live:8888/movie/Rambo1/Trial123/147.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="AfterDeath " tvg-logo="-" group-title="VoD",AfterDeath 
+http://tvku.live:8888/movie/Rambo1/Trial123/148.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Age of Dinosaurs" tvg-logo="-" group-title="VoD",Age of Dinosaurs
+http://tvku.live:8888/movie/Rambo1/Trial123/149.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="American Pie " tvg-logo="-" group-title="VoD",American Pie 
+http://tvku.live:8888/movie/Rambo1/Trial123/151.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="American Pie - Reunion" tvg-logo="-" group-title="VoD",American Pie - Reunion
+http://tvku.live:8888/movie/Rambo1/Trial123/150.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="American Pie 2" tvg-logo="-" group-title="VoD",American Pie 2
+http://tvku.live:8888/movie/Rambo1/Trial123/152.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="American Pie Presents The Book of Love" tvg-logo="-" group-title="VoD",American Pie Presents The Book of Love
+http://tvku.live:8888/movie/Rambo1/Trial123/153.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Anaconda" tvg-logo="-" group-title="VoD",Anaconda
+http://tvku.live:8888/movie/Rambo1/Trial123/154.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Appleseed " tvg-logo="-" group-title="VoD",Appleseed 
+http://tvku.live:8888/movie/Rambo1/Trial123/155.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="April Story" tvg-logo="-" group-title="VoD",April Story
+http://tvku.live:8888/movie/Rambo1/Trial123/156.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Aquaman " tvg-logo="-" group-title="VoD",Aquaman 
+http://tvku.live:8888/movie/Rambo1/Trial123/157.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="August Osage County" tvg-logo="-" group-title="VoD",August Osage County
+http://tvku.live:8888/movie/Rambo1/Trial123/158.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="August Rush" tvg-logo="-" group-title="VoD",August Rush
+http://tvku.live:8888/movie/Rambo1/Trial123/159.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bad Boys " tvg-logo="-" group-title="VoD",Bad Boys 
+http://tvku.live:8888/movie/Rambo1/Trial123/160.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bad Boys II " tvg-logo="-" group-title="VoD",Bad Boys II 
+http://tvku.live:8888/movie/Rambo1/Trial123/161.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bad Grandmas " tvg-logo="-" group-title="VoD",Bad Grandmas 
+http://tvku.live:8888/movie/Rambo1/Trial123/162.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bad Times At The El Royale " tvg-logo="-" group-title="VoD",Bad Times At The El Royale 
+http://tvku.live:8888/movie/Rambo1/Trial123/163.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Below Her Mouth " tvg-logo="-" group-title="VoD",Below Her Mouth 
+http://tvku.live:8888/movie/Rambo1/Trial123/164.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Ben 10 Destroy All Aliens " tvg-logo="-" group-title="VoD",Ben 10 Destroy All Aliens 
+http://tvku.live:8888/movie/Rambo1/Trial123/165.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Ben-Hur " tvg-logo="-" group-title="VoD",Ben-Hur 
+http://tvku.live:8888/movie/Rambo1/Trial123/166.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Big Momma's House " tvg-logo="-" group-title="VoD",Big Momma's House 
+http://tvku.live:8888/movie/Rambo1/Trial123/167.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Big Momma's House 2 " tvg-logo="-" group-title="VoD",Big Momma's House 2 
+http://tvku.live:8888/movie/Rambo1/Trial123/169.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Big Mommas Like Father, Like Son " tvg-logo="-" group-title="VoD",Big Mommas Like Father, Like Son 
+http://tvku.live:8888/movie/Rambo1/Trial123/170.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bleach" tvg-logo="-" group-title="VoD",Bleach
+http://tvku.live:8888/movie/Rambo1/Trial123/171.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bleach The Movie 2 The Diamond Dust Rebellion " tvg-logo="-" group-title="VoD",Bleach The Movie 2 The Diamond Dust Rebellion 
+http://tvku.live:8888/movie/Rambo1/Trial123/172.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Boogie Nights " tvg-logo="-" group-title="VoD",Boogie Nights 
+http://tvku.live:8888/movie/Rambo1/Trial123/168.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bruce Almighty" tvg-logo="-" group-title="VoD",Bruce Almighty
+http://tvku.live:8888/movie/Rambo1/Trial123/173.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Bullet to the Head " tvg-logo="-" group-title="VoD",Bullet to the Head 
+http://tvku.live:8888/movie/Rambo1/Trial123/174.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Chocolate" tvg-logo="-" group-title="VoD",Chocolate
+http://tvku.live:8888/movie/Rambo1/Trial123/175.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Chocolate Strawberry Vanilla " tvg-logo="-" group-title="VoD",Chocolate Strawberry Vanilla 
+http://tvku.live:8888/movie/Rambo1/Trial123/176.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Crazy Stupid Love " tvg-logo="-" group-title="VoD",Crazy Stupid Love 
+http://tvku.live:8888/movie/Rambo1/Trial123/177.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Creepshow" tvg-logo="-" group-title="VoD",Creepshow
+http://tvku.live:8888/movie/Rambo1/Trial123/178.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Creepshow 2 " tvg-logo="-" group-title="VoD",Creepshow 2 
+http://tvku.live:8888/movie/Rambo1/Trial123/179.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Daredevil Directors Cut" tvg-logo="-" group-title="VoD",Daredevil Directors Cut
+http://tvku.live:8888/movie/Rambo1/Trial123/180.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Daughters Of The Sexual Revolution The Untold Story Of The Dallas Cowboys Cheerleaders " tvg-logo="-" group-title="VoD",Daughters Of The Sexual Revolution The Untold Story Of The Dallas Cowboys Cheerleaders 
+http://tvku.live:8888/movie/Rambo1/Trial123/181.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Death Spa " tvg-logo="-" group-title="VoD",Death Spa 
+http://tvku.live:8888/movie/Rambo1/Trial123/182.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Elektra DIRECTORS CUT" tvg-logo="-" group-title="VoD",Elektra DIRECTORS CUT
+http://tvku.live:8888/movie/Rambo1/Trial123/183.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Fast & Furious Presents Hobbs & Shaw " tvg-logo="-" group-title="VoD",Fast & Furious Presents Hobbs & Shaw 
+http://tvku.live:8888/movie/Rambo1/Trial123/184.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="God Bless The Broken Road " tvg-logo="-" group-title="VoD",God Bless The Broken Road 
+http://tvku.live:8888/movie/Rambo1/Trial123/185.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hancock" tvg-logo="-" group-title="VoD",Hancock
+http://tvku.live:8888/movie/Rambo1/Trial123/186.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hansel and Gretel Witch Hunters" tvg-logo="-" group-title="VoD",Hansel and Gretel Witch Hunters
+http://tvku.live:8888/movie/Rambo1/Trial123/187.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hell Baby" tvg-logo="-" group-title="VoD",Hell Baby
+http://tvku.live:8888/movie/Rambo1/Trial123/188.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hellboy " tvg-logo="-" group-title="VoD",Hellboy 
+http://tvku.live:8888/movie/Rambo1/Trial123/189.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hellboy The Golden Army" tvg-logo="-" group-title="VoD",Hellboy The Golden Army
+http://tvku.live:8888/movie/Rambo1/Trial123/190.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Her Stolen Past (2018)" tvg-logo="-" group-title="VoD",Her Stolen Past (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/191.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Her Worst Nightmare " tvg-logo="-" group-title="VoD",Her Worst Nightmare 
+http://tvku.live:8888/movie/Rambo1/Trial123/192.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hercules " tvg-logo="-" group-title="VoD",Hercules 
+http://tvku.live:8888/movie/Rambo1/Trial123/193.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hereditary" tvg-logo="-" group-title="VoD",Hereditary
+http://tvku.live:8888/movie/Rambo1/Trial123/194.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Horrible Bosses 2" tvg-logo="-" group-title="VoD",Horrible Bosses 2
+http://tvku.live:8888/movie/Rambo1/Trial123/195.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hotel Artemis" tvg-logo="-" group-title="VoD",Hotel Artemis
+http://tvku.live:8888/movie/Rambo1/Trial123/196.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Hotel Mumbai" tvg-logo="-" group-title="VoD",Hotel Mumbai
+http://tvku.live:8888/movie/Rambo1/Trial123/197.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="I'll See You in My Dreams " tvg-logo="-" group-title="VoD",I'll See You in My Dreams 
+http://tvku.live:8888/movie/Rambo1/Trial123/198.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Independence Day" tvg-logo="-" group-title="VoD",Independence Day
+http://tvku.live:8888/movie/Rambo1/Trial123/199.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Interstellar" tvg-logo="-" group-title="VoD",Interstellar
+http://tvku.live:8888/movie/Rambo1/Trial123/1.mkv
+#EXTINF:-1 tvg-ID="-" tvg-name="Island Zero " tvg-logo="-" group-title="VoD",Island Zero 
+http://tvku.live:8888/movie/Rambo1/Trial123/201.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="It" tvg-logo="-" group-title="VoD",It
+http://tvku.live:8888/movie/Rambo1/Trial123/202.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Jack Reacher Never Go Back " tvg-logo="-" group-title="VoD",Jack Reacher Never Go Back 
+http://tvku.live:8888/movie/Rambo1/Trial123/203.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Jack the Giant Slayer" tvg-logo="-" group-title="VoD",Jack the Giant Slayer
+http://tvku.live:8888/movie/Rambo1/Trial123/204.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Jackals " tvg-logo="-" group-title="VoD",Jackals 
+http://tvku.live:8888/movie/Rambo1/Trial123/205.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Johnny English" tvg-logo="-" group-title="VoD",Johnny English
+http://tvku.live:8888/movie/Rambo1/Trial123/206.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Johnny English Strikes Again" tvg-logo="-" group-title="VoD",Johnny English Strikes Again
+http://tvku.live:8888/movie/Rambo1/Trial123/207.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Jurassic Galaxy " tvg-logo="-" group-title="VoD",Jurassic Galaxy 
+http://tvku.live:8888/movie/Rambo1/Trial123/208.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Jurassic Park " tvg-logo="-" group-title="VoD",Jurassic Park 
+http://tvku.live:8888/movie/Rambo1/Trial123/209.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Jurassic Park III " tvg-logo="-" group-title="VoD",Jurassic Park III 
+http://tvku.live:8888/movie/Rambo1/Trial123/210.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Jurassic Park The Lost World " tvg-logo="-" group-title="VoD",Jurassic Park The Lost World 
+http://tvku.live:8888/movie/Rambo1/Trial123/211.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Matrix (1999)" tvg-logo="-" group-title="VoD",The Matrix (1999)
+http://tvku.live:8888/movie/Rambo1/Trial123/7.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Maze Runner (2014)" tvg-logo="-" group-title="VoD",The Maze Runner (2014)
+http://tvku.live:8888/movie/Rambo1/Trial123/8.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Mechanic (2011)" tvg-logo="-" group-title="VoD",The Mechanic (2011)
+http://tvku.live:8888/movie/Rambo1/Trial123/9.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Meg (2018)" tvg-logo="-" group-title="VoD",The Meg (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/10.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Messenger (2019)" tvg-logo="-" group-title="VoD",The Messenger (2019)
+http://tvku.live:8888/movie/Rambo1/Trial123/11.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Monkey King 3 (2018) " tvg-logo="-" group-title="VoD",The Monkey King 3 (2018) 
+http://tvku.live:8888/movie/Rambo1/Trial123/12.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Mountain Between Us (2017" tvg-logo="-" group-title="VoD",The Mountain Between Us (2017
+http://tvku.live:8888/movie/Rambo1/Trial123/13.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Mummy (2017)" tvg-logo="-" group-title="VoD",The Mummy (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/14.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Mummy Resurrected (2014)" tvg-logo="-" group-title="VoD",The Mummy Resurrected (2014)
+http://tvku.live:8888/movie/Rambo1/Trial123/15.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Night Comes For Us (2018)" tvg-logo="-" group-title="VoD",The Night Comes For Us (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/16.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Notebook (2004)" tvg-logo="-" group-title="VoD",The Notebook (2004)
+http://tvku.live:8888/movie/Rambo1/Trial123/17.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Nun (2018)" tvg-logo="-" group-title="VoD",The Nun (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/18.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Nutcracker And The Four Realms (2018) " tvg-logo="-" group-title="VoD",The Nutcracker And The Four Realms (2018) 
+http://tvku.live:8888/movie/Rambo1/Trial123/19.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Other Side Of The Door (2016) " tvg-logo="-" group-title="VoD",The Other Side Of The Door (2016) 
+http://tvku.live:8888/movie/Rambo1/Trial123/20.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Package (2018)" tvg-logo="-" group-title="VoD",The Package (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/21.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Party's Just Beginning (2018)" tvg-logo="-" group-title="VoD",The Party's Just Beginning (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/22.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Pastor And The Pro (2018)" tvg-logo="-" group-title="VoD",The Pastor And The Pro (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/23.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Predator (2018)" tvg-logo="-" group-title="VoD",The Predator (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/24.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Raid 2 (2014)" tvg-logo="-" group-title="VoD",The Raid 2 (2014)
+http://tvku.live:8888/movie/Rambo1/Trial123/25.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Redeemed And The Dominant Fittest On Earth (2018) " tvg-logo="-" group-title="VoD",The Redeemed And The Dominant Fittest On Earth (2018) 
+http://tvku.live:8888/movie/Rambo1/Trial123/26.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Revenant (2015)" tvg-logo="-" group-title="VoD",The Revenant (2015)
+http://tvku.live:8888/movie/Rambo1/Trial123/27.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Scorpion King Book Of Souls (2018)" tvg-logo="-" group-title="VoD",The Scorpion King Book Of Souls (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/28.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Secret Life Of Pets 2 (2019)" tvg-logo="-" group-title="VoD",The Secret Life Of Pets 2 (2019)
+http://tvku.live:8888/movie/Rambo1/Trial123/29.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Shameless (2015) " tvg-logo="-" group-title="VoD",The Shameless (2015) 
+http://tvku.live:8888/movie/Rambo1/Trial123/30.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Shape Of Water (2017)" tvg-logo="-" group-title="VoD",The Shape Of Water (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/31.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The SpongeBob Movie Sponge Out of Water (2015)" tvg-logo="-" group-title="VoD",The SpongeBob Movie Sponge Out of Water (2015)
+http://tvku.live:8888/movie/Rambo1/Trial123/32.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Star (2017)" tvg-logo="-" group-title="VoD",The Star (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/33.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Student And Mister Henri (2015) " tvg-logo="-" group-title="VoD",The Student And Mister Henri (2015) 
+http://tvku.live:8888/movie/Rambo1/Trial123/34.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Tale (2018)" tvg-logo="-" group-title="VoD",The Tale (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/35.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Tale Of Iya (2013)" tvg-logo="-" group-title="VoD",The Tale Of Iya (2013)
+http://tvku.live:8888/movie/Rambo1/Trial123/36.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Thousand Faces Of Dunjia (2017)" tvg-logo="-" group-title="VoD",The Thousand Faces Of Dunjia (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/37.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Transporter Refueled (2015) " tvg-logo="-" group-title="VoD",The Transporter Refueled (2015) 
+http://tvku.live:8888/movie/Rambo1/Trial123/38.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Visit (2015) " tvg-logo="-" group-title="VoD",The Visit (2015) 
+http://tvku.live:8888/movie/Rambo1/Trial123/39.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Wolverine (2013) " tvg-logo="-" group-title="VoD",The Wolverine (2013) 
+http://tvku.live:8888/movie/Rambo1/Trial123/40.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="The Zookeeper's Wife (2017)" tvg-logo="-" group-title="VoD",The Zookeeper's Wife (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/41.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Thelma (2017)" tvg-logo="-" group-title="VoD",Thelma (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/42.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Then Came You (2018)" tvg-logo="-" group-title="VoD",Then Came You (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/43.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Thor (2011)" tvg-logo="-" group-title="VoD",Thor (2011)
+http://tvku.live:8888/movie/Rambo1/Trial123/44.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Thor Ragnarok (2017)" tvg-logo="-" group-title="VoD",Thor Ragnarok (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/45.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Thor The Dark World (2013) " tvg-logo="-" group-title="VoD",Thor The Dark World (2013) 
+http://tvku.live:8888/movie/Rambo1/Trial123/46.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Three Billboards Outside Ebbing, Missouri (2017) " tvg-logo="-" group-title="VoD",Three Billboards Outside Ebbing, Missouri (2017) 
+http://tvku.live:8888/movie/Rambo1/Trial123/47.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Time Jumpers (2018) " tvg-logo="-" group-title="VoD",Time Jumpers (2018) 
+http://tvku.live:8888/movie/Rambo1/Trial123/48.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Tinker Bell and the Legend of the NeverBeast (2014) " tvg-logo="-" group-title="VoD",Tinker Bell and the Legend of the NeverBeast (2014) 
+http://tvku.live:8888/movie/Rambo1/Trial123/49.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Tiny Giants 3D (2014) " tvg-logo="-" group-title="VoD",Tiny Giants 3D (2014) 
+http://tvku.live:8888/movie/Rambo1/Trial123/50.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Titanic (1997) " tvg-logo="-" group-title="VoD",Titanic (1997) 
+http://tvku.live:8888/movie/Rambo1/Trial123/51.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="To All The Boys I've Loved Before (2018)" tvg-logo="-" group-title="VoD",To All The Boys I've Loved Before (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/52.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Tomb Rider 2018" tvg-logo="-" group-title="VoD",Tomb Rider 2018
+http://tvku.live:8888/movie/Rambo1/Trial123/55.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Tone Deaf" tvg-logo="-" group-title="VoD",Tone Deaf
+http://tvku.live:8888/movie/Rambo1/Trial123/56.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Toys Story 4" tvg-logo="-" group-title="VoD",Toys Story 4
+http://tvku.live:8888/movie/Rambo1/Trial123/54.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Train To Busan (2016) " tvg-logo="-" group-title="VoD",Train To Busan (2016) 
+http://tvku.live:8888/movie/Rambo1/Trial123/53.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Trainwreck" tvg-logo="-" group-title="VoD",Trainwreck
+http://tvku.live:8888/movie/Rambo1/Trial123/57.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Transformers Age of Extinction" tvg-logo="-" group-title="VoD",Transformers Age of Extinction
+http://tvku.live:8888/movie/Rambo1/Trial123/58.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Transformers The Last Knight (2017) " tvg-logo="-" group-title="VoD",Transformers The Last Knight (2017) 
+http://tvku.live:8888/movie/Rambo1/Trial123/59.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Transpecos " tvg-logo="-" group-title="VoD",Transpecos 
+http://tvku.live:8888/movie/Rambo1/Trial123/60.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Tremors A Cold Day In Hell " tvg-logo="-" group-title="VoD",Tremors A Cold Day In Hell 
+http://tvku.live:8888/movie/Rambo1/Trial123/61.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Triassic World " tvg-logo="-" group-title="VoD",Triassic World 
+http://tvku.live:8888/movie/Rambo1/Trial123/62.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Trolls " tvg-logo="-" group-title="VoD",Trolls 
+http://tvku.live:8888/movie/Rambo1/Trial123/63.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Truth Or Dare" tvg-logo="-" group-title="VoD",Truth Or Dare
+http://tvku.live:8888/movie/Rambo1/Trial123/64.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Twilight" tvg-logo="-" group-title="VoD",Twilight
+http://tvku.live:8888/movie/Rambo1/Trial123/65.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Twister" tvg-logo="-" group-title="VoD",Twister
+http://tvku.live:8888/movie/Rambo1/Trial123/66.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Two Tails " tvg-logo="-" group-title="VoD",Two Tails 
+http://tvku.live:8888/movie/Rambo1/Trial123/67.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Underworld Awakening" tvg-logo="-" group-title="VoD",Underworld Awakening
+http://tvku.live:8888/movie/Rambo1/Trial123/68.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Underworld Blood Wars (2016" tvg-logo="-" group-title="VoD",Underworld Blood Wars (2016
+http://tvku.live:8888/movie/Rambo1/Trial123/69.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Uri The Surgical Strike (2019) " tvg-logo="-" group-title="VoD",Uri The Surgical Strike (2019) 
+http://tvku.live:8888/movie/Rambo1/Trial123/70.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Valerian And The City Of A Thousand Planets (2017)" tvg-logo="-" group-title="VoD",Valerian And The City Of A Thousand Planets (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/71.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Venom" tvg-logo="-" group-title="VoD",Venom
+http://tvku.live:8888/movie/Rambo1/Trial123/72.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Walking with Dinosaurs 3D " tvg-logo="-" group-title="VoD",Walking with Dinosaurs 3D 
+http://tvku.live:8888/movie/Rambo1/Trial123/73.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="War For The Planet Of The Apes (2017) " tvg-logo="-" group-title="VoD",War For The Planet Of The Apes (2017) 
+http://tvku.live:8888/movie/Rambo1/Trial123/74.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Warcraft " tvg-logo="-" group-title="VoD",Warcraft 
+http://tvku.live:8888/movie/Rambo1/Trial123/75.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Warrior's Gate " tvg-logo="-" group-title="VoD",Warrior's Gate 
+http://tvku.live:8888/movie/Rambo1/Trial123/76.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Wave Of Crimes" tvg-logo="-" group-title="VoD",Wave Of Crimes
+http://tvku.live:8888/movie/Rambo1/Trial123/77.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="We Are What We Are " tvg-logo="-" group-title="VoD",We Are What We Are 
+http://tvku.live:8888/movie/Rambo1/Trial123/78.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Weight" tvg-logo="-" group-title="VoD",Weight
+http://tvku.live:8888/movie/Rambo1/Trial123/79.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Welcome to the Jungle " tvg-logo="-" group-title="VoD",Welcome to the Jungle 
+http://tvku.live:8888/movie/Rambo1/Trial123/80.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Western" tvg-logo="-" group-title="VoD",Western
+http://tvku.live:8888/movie/Rambo1/Trial123/81.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="What Happened To Monday " tvg-logo="-" group-title="VoD",What Happened To Monday 
+http://tvku.live:8888/movie/Rambo1/Trial123/82.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="What Lies Upstream" tvg-logo="-" group-title="VoD",What Lies Upstream
+http://tvku.live:8888/movie/Rambo1/Trial123/83.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="What Maisie Knew " tvg-logo="-" group-title="VoD",What Maisie Knew 
+http://tvku.live:8888/movie/Rambo1/Trial123/84.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="What They Had" tvg-logo="-" group-title="VoD",What They Had
+http://tvku.live:8888/movie/Rambo1/Trial123/85.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="What We Do in the Shadows " tvg-logo="-" group-title="VoD",What We Do in the Shadows 
+http://tvku.live:8888/movie/Rambo1/Trial123/86.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="What Will People Say " tvg-logo="-" group-title="VoD",What Will People Say 
+http://tvku.live:8888/movie/Rambo1/Trial123/87.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="What's For Dinner, Mom " tvg-logo="-" group-title="VoD",What's For Dinner, Mom 
+http://tvku.live:8888/movie/Rambo1/Trial123/88.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Wheely " tvg-logo="-" group-title="VoD",Wheely 
+http://tvku.live:8888/movie/Rambo1/Trial123/89.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="When Angels Sleep" tvg-logo="-" group-title="VoD",When Angels Sleep
+http://tvku.live:8888/movie/Rambo1/Trial123/90.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Where Hands Touch " tvg-logo="-" group-title="VoD",Where Hands Touch 
+http://tvku.live:8888/movie/Rambo1/Trial123/91.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Whiplash" tvg-logo="-" group-title="VoD",Whiplash
+http://tvku.live:8888/movie/Rambo1/Trial123/92.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Why Him " tvg-logo="-" group-title="VoD",Why Him 
+http://tvku.live:8888/movie/Rambo1/Trial123/93.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Wild Card " tvg-logo="-" group-title="VoD",Wild Card 
+http://tvku.live:8888/movie/Rambo1/Trial123/94.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Wild Rose " tvg-logo="-" group-title="VoD",Wild Rose 
+http://tvku.live:8888/movie/Rambo1/Trial123/95.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Wonder Woman" tvg-logo="-" group-title="VoD",Wonder Woman
+http://tvku.live:8888/movie/Rambo1/Trial123/96.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Wonderstruck " tvg-logo="-" group-title="VoD",Wonderstruck 
+http://tvku.live:8888/movie/Rambo1/Trial123/97.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="World War Z" tvg-logo="-" group-title="VoD",World War Z
+http://tvku.live:8888/movie/Rambo1/Trial123/98.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Wrath of the Titans " tvg-logo="-" group-title="VoD",Wrath of the Titans 
+http://tvku.live:8888/movie/Rambo1/Trial123/99.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="X Men Days of Future Past " tvg-logo="-" group-title="VoD",X Men Days of Future Past 
+http://tvku.live:8888/movie/Rambo1/Trial123/100.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Yesterday " tvg-logo="-" group-title="VoD",Yesterday 
+http://tvku.live:8888/movie/Rambo1/Trial123/101.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Your Name (kimino nawa)" tvg-logo="-" group-title="VoD",Your Name (kimino nawa)
+http://tvku.live:8888/movie/Rambo1/Trial123/102.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Youth (2017)" tvg-logo="-" group-title="VoD",Youth (2017)
+http://tvku.live:8888/movie/Rambo1/Trial123/5.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Yucatán (2018)" tvg-logo="-" group-title="VoD",Yucatán (2018)
+http://tvku.live:8888/movie/Rambo1/Trial123/4.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Zero Days (2016)" tvg-logo="-" group-title="VoD",Zero Days (2016)
+http://tvku.live:8888/movie/Rambo1/Trial123/3.mp4
+#EXTINF:-1 tvg-ID="-" tvg-name="Zootopia (2016)" tvg-logo="-" group-title="VoD",Zootopia (2016)
+http://tvku.live:8888/movie/Rambo1/Trial123/2.mp4
