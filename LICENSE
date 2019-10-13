@@ -282,16 +282,6 @@ http://210.210.155.35/qwr9ew/s/s15/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SaOTIpP.png" group-title="News",TV5Monde
 http://210.210.155.35/qwr9ew/s/s24/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Lifestyle"
-#EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/EY3Tald.png" group-title="Lifestyle",E!
-http://210.210.155.35/uq2663/h/h10/index.m3u8?rizkizakaria-E-join-telegram=@iptvondemand
-#EXTINF:-1 tvg-id="afc.id" tvg-logo="https://i.imgur.com/SpUvTmu.png" group-title="Lifestyle",Asian Food Channel
-http://tvku.live:8888/live/Rambo1/Trial123/807.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Lifestyle",FashionTV
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8http://203.153.218.28:9981/stream/channelid/1092664456?ticket=ECA7CCC0E97969AF75820D9971228C677309CAA8&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4JVZk8Q.png" group-title="Lifestyle",TLC
-http://80.80.160.168/live/2/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Sports"
 #EXTINF:-1 tvg-ID="-" tvg-name="Liga 1 Indonesia" tvg-logo="-" group-title="Sports",Usee Sport
 http://tvku.live:8888/live/Rambo1/Trial123/1185.ts
@@ -901,6 +891,12 @@ http://tvku.live:8888/live/Rambo1/Trial123/1446.ts
 http://tvku.live:8888/live/Rambo1/Trial123/455.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic People Backup" tvg-logo="-" group-title="Knowledge",National Geographic People Backup
 http://tvku.live:8888/live/Rambo1/Trial123/1447.ts
+#EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/EY3Tald.png" group-title="Knowledge",E!
+http://210.210.155.35/uq2663/h/h10/index.m3u8?rizkizakaria-E-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="afc.id" tvg-logo="https://i.imgur.com/SpUvTmu.png" group-title="Knowledge",Asian Food Channel
+http://tvku.live:8888/live/Rambo1/Trial123/807.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4JVZk8Q.png" group-title="Knowledge",TLC
+http://80.80.160.168/live/2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Korea",Join Us on Telegram | t.me/iptvondemand
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/criMP2X.png" group-title="Korea",CBS TV
