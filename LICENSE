@@ -19,7 +19,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="Lokal",SCTV HD
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NET TV" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV
-http://tvku.live:8888/live/Rambo1/Trial123/24.ts
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NET TV FHD" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV FHD
 http://tvku.live:8888/live/Rambo1/Trial123/78.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans TV" tvg-logo="-" group-title="Lokal",Trans TV
