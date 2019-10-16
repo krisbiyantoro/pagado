@@ -21,15 +21,15 @@ http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NET TV" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NET TV FHD" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV FHD
-http://tvku.live:8888/live/Rambo1/Trial123/78.ts
+http://tvku.live:8888/live/Syafii07/MS737/78.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans TV" tvg-logo="-" group-title="Lokal",Trans TV
-http://tvku.live:8888/live/Rambo1/Trial123/34.ts
+http://tvku.live:8888/live/Syafii07/MS737/34.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans TV FHD" tvg-logo="-" group-title="Lokal",Trans TV FHD
-http://tvku.live:8888/live/Rambo1/Trial123/929.ts
+http://tvku.live:8888/live/Syafii07/MS737/929.ts
 #EXTINF:-1 tvg-ID="trans7.id" tvg-name="Trans 7" tvg-logo="-" group-title="Lokal",Trans 7
-http://tvku.live:8888/live/Rambo1/Trial123/35.ts
+http://tvku.live:8888/live/Syafii07/MS737/35.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans 7 FHD" tvg-logo="-" group-title="Lokal",Trans 7 FHD
-http://tvku.live:8888/live/Rambo1/Trial123/930.ts
+http://tvku.live:8888/live/Syafii07/MS737/930.ts
 #EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="Lokal",Kompas TV
 http://202.80.222.182:80/000001/2/ch00000090990000001730/1003.m3u8?IASHttpSessionId=OTT9499201908240205441202056&ztecid=ch00000090990000001730&bandwidth=1413530&ispcode=1&timeformat=Lokal&channel=ch00000090990000001730&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTUvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com?rizkizakaria-Kompas-TV-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="Lokal",RTV
@@ -286,13 +286,13 @@ http://210.210.155.35/qwr9ew/s/s24/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Sports"
 #EXTINF:-1 tvg-ID="-" tvg-name="Liga 1 Indonesia" tvg-logo="-" group-title="Sports",Usee Sport
-http://tvku.live:8888/live/Rambo1/Trial123/1185.ts
+http://tvku.live:8888/live/Syafii07/MS737/1185.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="USEE Sport 2" tvg-logo="-" group-title="Sports",USEE Sport 2
-http://tvku.live:8888/live/Rambo1/Trial123/2408.ts
+http://tvku.live:8888/live/Syafii07/MS737/2408.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Champions TV 1" tvg-logo="-" group-title="Sports",Champions TV 1
-http://tvku.live:8888/live/Rambo1/Trial123/2407.ts
+http://tvku.live:8888/live/Syafii07/MS737/2407.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Champions TV 2" tvg-logo="-" group-title="Sports",Champions TV 2
-http://tvku.live:8888/live/Rambo1/Trial123/2409.ts
+http://tvku.live:8888/live/Syafii07/MS737/2409.ts
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/7oWS4TU.png" group-title="Sports",TVRI Sports
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/NgXHaof.png" group-title="Sports",SportOne
@@ -300,21 +300,21 @@ http://203.153.218.26:9981/stream/channelid/896549830?ticket=850CB8B4F21CDAC9C37
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/V5y5TFx.png" group-title="Sports",Super Soccer TV
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sports 1 (live event only)" tvg-logo="-" group-title="Sports",Astro Super Sports 1 (live event only)
-http://tvku.live:8888/live/Rambo1/Trial123/2151.ts
+http://tvku.live:8888/live/Syafii07/MS737/2151.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sport 1 Backup" tvg-logo="-" group-title="Sports",Astro Super Sport 1 Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2948.ts
+http://tvku.live:8888/live/Syafii07/MS737/2948.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sports 2 (live event only)" tvg-logo="-" group-title="Sports",Astro Super Sports 2 (live event only)
-http://tvku.live:8888/live/Rambo1/Trial123/2152.ts
+http://tvku.live:8888/live/Syafii07/MS737/2152.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sport 2 Backup" tvg-logo="-" group-title="Sports",Astro Super Sport 2 Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2949.ts
+http://tvku.live:8888/live/Syafii07/MS737/2949.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sports 3" tvg-logo="-" group-title="Sports",Astro Super Sports 3
-http://tvku.live:8888/live/Rambo1/Trial123/2153.ts
+http://tvku.live:8888/live/Syafii07/MS737/2153.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sport 3 Backup" tvg-logo="-" group-title="Sports",Astro Super Sport 3 Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2950.ts
+http://tvku.live:8888/live/Syafii07/MS737/2950.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sports 4" tvg-logo="-" group-title="Sports",Astro Super Sports 4
-http://tvku.live:8888/live/Rambo1/Trial123/2154.ts
+http://tvku.live:8888/live/Syafii07/MS737/2154.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sport 4 Backup" tvg-logo="-" group-title="Sports",Astro Super Sport 4 Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2951.ts
+http://tvku.live:8888/live/Syafii07/MS737/2951.ts
 #EXTINF:-1 tvg-id="TenHD.in" tvg-logo="https://i.imgur.com/iFzRQ1A.png?1" group-title="Sports",Sony Ten 1
 http://103.77.252.58:8081/live/ten1/chunks.m3u8
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/PXSjkjt.jpg?1" group-title="Sports",Sony Ten 2
@@ -324,334 +324,334 @@ http://103.77.252.58:8081/live/ten2/chunks.m3u8
 #EXTINF:-1 tvg-id="TenCricket.in" tvg-logo="https://i.imgur.com/gT6yuwr.jpg" group-title="Sports",Sony Six
 http://103.77.252.58:8081/live/sonysix/chunks.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sony Ten 3 HD Airtel" tvg-logo="-" group-title="Sports",Sony Ten 3 HD Airtel
-http://tvku.live:8888/live/Rambo1/Trial123/623.ts
+http://tvku.live:8888/live/Syafii07/MS737/623.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="NBCSN HD" tvg-logo="-" group-title="Sports",NBCSN HD
-http://tvku.live:8888/live/Rambo1/Trial123/2402.ts
+http://tvku.live:8888/live/Syafii07/MS737/2402.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sport 1 ID" tvg-logo="-" group-title="Sports",BeIN Sport 1 ID
-http://tvku.live:8888/live/Rambo1/Trial123/728.ts
+http://tvku.live:8888/live/Syafii07/MS737/728.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sport 2 ID" tvg-logo="-" group-title="Sports",BeIN Sport 2 ID
-http://tvku.live:8888/live/Rambo1/Trial123/729.ts
+http://tvku.live:8888/live/Syafii07/MS737/729.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 1" tvg-logo="-" group-title="Sports",BeIN Sports 1
-http://tvku.live:8888/live/Rambo1/Trial123/10.ts
+http://tvku.live:8888/live/Syafii07/MS737/10.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 1 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 1 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2986.ts
+http://tvku.live:8888/live/Syafii07/MS737/2986.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 2" tvg-logo="-" group-title="Sports",BeIN Sports 2
-http://tvku.live:8888/live/Rambo1/Trial123/11.ts
+http://tvku.live:8888/live/Syafii07/MS737/11.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 2 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 2 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2985.ts
+http://tvku.live:8888/live/Syafii07/MS737/2985.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 3" tvg-logo="-" group-title="Sports",BeIN Sports 3
-http://tvku.live:8888/live/Rambo1/Trial123/12.ts
+http://tvku.live:8888/live/Syafii07/MS737/12.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 3 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 3 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2984.ts
+http://tvku.live:8888/live/Syafii07/MS737/2984.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 4" tvg-logo="-" group-title="Sports",BeIN Sports 4
-http://tvku.live:8888/live/Rambo1/Trial123/217.ts
+http://tvku.live:8888/live/Syafii07/MS737/217.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 4 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 4 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2983.ts
+http://tvku.live:8888/live/Syafii07/MS737/2983.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 5" tvg-logo="-" group-title="Sports",BeIN Sports 5
-http://tvku.live:8888/live/Rambo1/Trial123/218.ts
+http://tvku.live:8888/live/Syafii07/MS737/218.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 5 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 5 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2982.ts
+http://tvku.live:8888/live/Syafii07/MS737/2982.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 6" tvg-logo="-" group-title="Sports",BeIN Sports 6
-http://tvku.live:8888/live/Rambo1/Trial123/219.ts
+http://tvku.live:8888/live/Syafii07/MS737/219.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 6 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 6 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2981.ts
+http://tvku.live:8888/live/Syafii07/MS737/2981.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 7" tvg-logo="-" group-title="Sports",BeIN Sports 7
-http://tvku.live:8888/live/Rambo1/Trial123/220.ts
+http://tvku.live:8888/live/Syafii07/MS737/220.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 7 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 7 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2980.ts
+http://tvku.live:8888/live/Syafii07/MS737/2980.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 8" tvg-logo="-" group-title="Sports",BeIN Sports 8
-http://tvku.live:8888/live/Rambo1/Trial123/221.ts
+http://tvku.live:8888/live/Syafii07/MS737/221.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 8 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 8 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2979.ts
+http://tvku.live:8888/live/Syafii07/MS737/2979.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 9" tvg-logo="-" group-title="Sports",BeIN Sports 9
-http://tvku.live:8888/live/Rambo1/Trial123/222.ts
+http://tvku.live:8888/live/Syafii07/MS737/222.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 9 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 9 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2978.ts
+http://tvku.live:8888/live/Syafii07/MS737/2978.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 10" tvg-logo="-" group-title="Sports",BeIN Sports 10
-http://tvku.live:8888/live/Rambo1/Trial123/253.ts
+http://tvku.live:8888/live/Syafii07/MS737/253.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 10 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 10 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2977.ts
+http://tvku.live:8888/live/Syafii07/MS737/2977.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 11" tvg-logo="-" group-title="Sports",BeIN Sports 11
-http://tvku.live:8888/live/Rambo1/Trial123/254.ts
+http://tvku.live:8888/live/Syafii07/MS737/254.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 11 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 11 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2976.ts
+http://tvku.live:8888/live/Syafii07/MS737/2976.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 12" tvg-logo="-" group-title="Sports",BeIN Sports 12
-http://tvku.live:8888/live/Rambo1/Trial123/255.ts
+http://tvku.live:8888/live/Syafii07/MS737/255.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 12 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 12 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2975.ts
+http://tvku.live:8888/live/Syafii07/MS737/2975.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 1" tvg-logo="-" group-title="Sports",Fox Sports 1
-http://tvku.live:8888/live/Rambo1/Trial123/51.ts
+http://tvku.live:8888/live/Syafii07/MS737/51.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 1 HD Backup" tvg-logo="-" group-title="Sports",Fox Sports 1 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/1475.ts
+http://tvku.live:8888/live/Syafii07/MS737/1475.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 2" tvg-logo="-" group-title="Sports",Fox Sports 2
-http://tvku.live:8888/live/Rambo1/Trial123/102.ts
+http://tvku.live:8888/live/Syafii07/MS737/102.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 2 HD Backup" tvg-logo="-" group-title="Sports",Fox Sports 2 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/1476.ts
+http://tvku.live:8888/live/Syafii07/MS737/1476.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 3" tvg-logo="-" group-title="Sports",Fox Sports 3
-http://tvku.live:8888/live/Rambo1/Trial123/101.ts
+http://tvku.live:8888/live/Syafii07/MS737/101.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 3 HD Backup" tvg-logo="-" group-title="Sports",Fox Sports 3 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/1477.ts
+http://tvku.live:8888/live/Syafii07/MS737/1477.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports F1" tvg-logo="-" group-title="Sports",Sky Sports F1
-http://tvku.live:8888/live/Rambo1/Trial123/1507.ts
+http://tvku.live:8888/live/Syafii07/MS737/1507.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Arena Sport 1" tvg-logo="-" group-title="Sports",Arena Sport 1
-http://tvku.live:8888/live/Rambo1/Trial123/965.ts
+http://tvku.live:8888/live/Syafii07/MS737/965.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Arena Sport 2" tvg-logo="-" group-title="Sports",Arena Sport 2
-http://tvku.live:8888/live/Rambo1/Trial123/966.ts
+http://tvku.live:8888/live/Syafii07/MS737/966.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Arena Sport 3" tvg-logo="-" group-title="Sports",Arena Sport 3
-http://tvku.live:8888/live/Rambo1/Trial123/967.ts
+http://tvku.live:8888/live/Syafii07/MS737/967.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Arena Sport 4" tvg-logo="-" group-title="Sports",Arena Sport 4
-http://tvku.live:8888/live/Rambo1/Trial123/968.ts
+http://tvku.live:8888/live/Syafii07/MS737/968.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Sport 1 HD" tvg-logo="-" group-title="Sports",Star Sport 1 HD
-http://tvku.live:8888/live/Rambo1/Trial123/1183.ts
+http://tvku.live:8888/live/Syafii07/MS737/1183.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Sport 2" tvg-logo="-" group-title="Sports",Star Sport 2
-http://tvku.live:8888/live/Rambo1/Trial123/1184.ts
+http://tvku.live:8888/live/Syafii07/MS737/1184.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Dazn 1" tvg-logo="-" group-title="Sports",Dazn 1
-http://tvku.live:8888/live/Rambo1/Trial123/619.ts
+http://tvku.live:8888/live/Syafii07/MS737/619.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Dazn 2" tvg-logo="-" group-title="Sports",Dazn 2
-http://tvku.live:8888/live/Rambo1/Trial123/621.ts
+http://tvku.live:8888/live/Syafii07/MS737/621.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="PPTV HD" tvg-logo="-" group-title="Sports",PPTV HD
-http://tvku.live:8888/live/Rambo1/Trial123/605.ts
+http://tvku.live:8888/live/Syafii07/MS737/605.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Eurosport 1" tvg-logo="-" group-title="Sports",Eurosport 1
-http://tvku.live:8888/live/Rambo1/Trial123/2224.ts
+http://tvku.live:8888/live/Syafii07/MS737/2224.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Eurosport 2" tvg-logo="-" group-title="Sports",Eurosport 2
-http://tvku.live:8888/live/Rambo1/Trial123/2225.ts
+http://tvku.live:8888/live/Syafii07/MS737/2225.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="MLB Network" tvg-logo="-" group-title="Sports",MLB Network
-http://tvku.live:8888/live/Rambo1/Trial123/2260.ts
+http://tvku.live:8888/live/Syafii07/MS737/2260.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN LaLiga" tvg-logo="-" group-title="Sports",BeIN LaLiga
-http://tvku.live:8888/live/Rambo1/Trial123/416.ts
+http://tvku.live:8888/live/Syafii07/MS737/416.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BT Sport 1" tvg-logo="-" group-title="Sports",BT Sport 1
-http://tvku.live:8888/live/Rambo1/Trial123/319.ts
+http://tvku.live:8888/live/Syafii07/MS737/319.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BT Sport 2" tvg-logo="-" group-title="Sports",BT Sport 2
-http://tvku.live:8888/live/Rambo1/Trial123/320.ts
+http://tvku.live:8888/live/Syafii07/MS737/320.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BT Sport 3" tvg-logo="-" group-title="Sports",BT Sport 3
-http://tvku.live:8888/live/Rambo1/Trial123/321.ts
+http://tvku.live:8888/live/Syafii07/MS737/321.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 2 HD Backup" tvg-logo="-" group-title="Sports",UK: BT Sport 2 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2988.ts
+http://tvku.live:8888/live/Syafii07/MS737/2988.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 3 HD Backup" tvg-logo="-" group-title="Sports",UK: BT Sport 3 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2987.ts
+http://tvku.live:8888/live/Syafii07/MS737/2987.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 1 HD Backup" tvg-logo="-" group-title="Sports",UK: BT Sport 1 HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/2989.ts
+http://tvku.live:8888/live/Syafii07/MS737/2989.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 1 HD Backup 2" tvg-logo="-" group-title="Sports",UK: BT Sport 1 HD Backup 2
-http://tvku.live:8888/live/Rambo1/Trial123/2992.ts
+http://tvku.live:8888/live/Syafii07/MS737/2992.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 2 HD Backup 2" tvg-logo="-" group-title="Sports",UK: BT Sport 2 HD Backup 2
-http://tvku.live:8888/live/Rambo1/Trial123/2991.ts
+http://tvku.live:8888/live/Syafii07/MS737/2991.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 3 HD Backup 2" tvg-logo="-" group-title="Sports",UK: BT Sport 3 HD Backup 2
-http://tvku.live:8888/live/Rambo1/Trial123/2990.ts
+http://tvku.live:8888/live/Syafii07/MS737/2990.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 12" tvg-logo="-" group-title="Sports",ZA: SuperSport 12
-http://tvku.live:8888/live/Rambo1/Trial123/2663.ts
+http://tvku.live:8888/live/Syafii07/MS737/2663.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 12 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 12 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2944.ts
+http://tvku.live:8888/live/Syafii07/MS737/2944.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 11" tvg-logo="-" group-title="Sports",ZA: SuperSport 11
-http://tvku.live:8888/live/Rambo1/Trial123/2664.ts
+http://tvku.live:8888/live/Syafii07/MS737/2664.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 11 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 11 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2945.ts
+http://tvku.live:8888/live/Syafii07/MS737/2945.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 10" tvg-logo="-" group-title="Sports",ZA: SuperSport 10
-http://tvku.live:8888/live/Rambo1/Trial123/2665.ts
+http://tvku.live:8888/live/Syafii07/MS737/2665.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 10 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 10 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2946.ts
+http://tvku.live:8888/live/Syafii07/MS737/2946.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 9" tvg-logo="-" group-title="Sports",ZA: SuperSport 9
-http://tvku.live:8888/live/Rambo1/Trial123/2666.ts
+http://tvku.live:8888/live/Syafii07/MS737/2666.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 9 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 9 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2936.ts
+http://tvku.live:8888/live/Syafii07/MS737/2936.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 8" tvg-logo="-" group-title="Sports",ZA: SuperSport 8
-http://tvku.live:8888/live/Rambo1/Trial123/2667.ts
+http://tvku.live:8888/live/Syafii07/MS737/2667.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 8 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 8 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2937.ts
+http://tvku.live:8888/live/Syafii07/MS737/2937.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 7" tvg-logo="-" group-title="Sports",ZA: SuperSport 7
-http://tvku.live:8888/live/Rambo1/Trial123/2668.ts
+http://tvku.live:8888/live/Syafii07/MS737/2668.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 7 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 7 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2938.ts
+http://tvku.live:8888/live/Syafii07/MS737/2938.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 6" tvg-logo="-" group-title="Sports",ZA: SuperSport 6
-http://tvku.live:8888/live/Rambo1/Trial123/2669.ts
+http://tvku.live:8888/live/Syafii07/MS737/2669.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 6 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 6 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2939.ts
+http://tvku.live:8888/live/Syafii07/MS737/2939.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 5" tvg-logo="-" group-title="Sports",ZA: SuperSport 5
-http://tvku.live:8888/live/Rambo1/Trial123/2670.ts
+http://tvku.live:8888/live/Syafii07/MS737/2670.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 5 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 5 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2940.ts
+http://tvku.live:8888/live/Syafii07/MS737/2940.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 4" tvg-logo="-" group-title="Sports",ZA: SuperSport 4
-http://tvku.live:8888/live/Rambo1/Trial123/2671.ts
+http://tvku.live:8888/live/Syafii07/MS737/2671.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 4 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 4 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2941.ts
+http://tvku.live:8888/live/Syafii07/MS737/2941.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 3" tvg-logo="-" group-title="Sports",ZA: SuperSport 3
-http://tvku.live:8888/live/Rambo1/Trial123/2672.ts
+http://tvku.live:8888/live/Syafii07/MS737/2672.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 3 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 3 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2942.ts
+http://tvku.live:8888/live/Syafii07/MS737/2942.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 2" tvg-logo="-" group-title="Sports",ZA: SuperSport 2
-http://tvku.live:8888/live/Rambo1/Trial123/2673.ts
+http://tvku.live:8888/live/Syafii07/MS737/2673.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 2 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 2 BACKUP
-http://tvku.live:8888/live/Rambo1/Trial123/2943.ts
+http://tvku.live:8888/live/Syafii07/MS737/2943.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 1" tvg-logo="-" group-title="Sports",ZA: SuperSport 1
-http://tvku.live:8888/live/Rambo1/Trial123/2674.ts
+http://tvku.live:8888/live/Syafii07/MS737/2674.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 1 HD" tvg-logo="-" group-title="Sports",TSN 1 HD
-http://tvku.live:8888/live/Rambo1/Trial123/2596.ts
+http://tvku.live:8888/live/Syafii07/MS737/2596.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 2 HD" tvg-logo="-" group-title="Sports",TSN 2 HD
-http://tvku.live:8888/live/Rambo1/Trial123/2597.ts
+http://tvku.live:8888/live/Syafii07/MS737/2597.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 3 HD" tvg-logo="-" group-title="Sports",TSN 3 HD
-http://tvku.live:8888/live/Rambo1/Trial123/2598.ts
+http://tvku.live:8888/live/Syafii07/MS737/2598.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 4 HD" tvg-logo="-" group-title="Sports",TSN 4 HD
-http://tvku.live:8888/live/Rambo1/Trial123/2599.ts
+http://tvku.live:8888/live/Syafii07/MS737/2599.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 5 HD" tvg-logo="-" group-title="Sports",TSN 5 HD
-http://tvku.live:8888/live/Rambo1/Trial123/2600.ts
+http://tvku.live:8888/live/Syafii07/MS737/2600.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="MU TV" tvg-logo="-" group-title="Sports",MU TV
-http://tvku.live:8888/live/Rambo1/Trial123/400.ts
+http://tvku.live:8888/live/Syafii07/MS737/400.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BT Sport ESPN" tvg-logo="-" group-title="Sports",BT Sport ESPN
-http://tvku.live:8888/live/Rambo1/Trial123/399.ts
+http://tvku.live:8888/live/Syafii07/MS737/399.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="ESL Indonesia" tvg-logo="-" group-title="Sports",ESL Indonesia
-http://tvku.live:8888/live/Rambo1/Trial123/1988.ts
+http://tvku.live:8888/live/Syafii07/MS737/1988.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Fight Sports" tvg-logo="-" group-title="Sports",Fight Sports
-http://tvku.live:8888/live/Rambo1/Trial123/784.ts
+http://tvku.live:8888/live/Syafii07/MS737/784.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FIGHT BOX" tvg-logo="-" group-title="Sports",FIGHT BOX
-http://tvku.live:8888/live/Rambo1/Trial123/501.ts
+http://tvku.live:8888/live/Syafii07/MS737/501.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Box Nation" tvg-logo="-" group-title="Sports",Box Nation
-http://tvku.live:8888/live/Rambo1/Trial123/499.ts
+http://tvku.live:8888/live/Syafii07/MS737/499.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="WWE Network" tvg-logo="-" group-title="Sports",WWE Network
-http://tvku.live:8888/live/Rambo1/Trial123/299.ts
+http://tvku.live:8888/live/Syafii07/MS737/299.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="UFC FHD" tvg-logo="-" group-title="Sports",UFC FHD
-http://tvku.live:8888/live/Rambo1/Trial123/2401.ts
+http://tvku.live:8888/live/Syafii07/MS737/2401.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Real Madrid TV" tvg-logo="-" group-title="Sports",Real Madrid TV
-http://tvku.live:8888/live/Rambo1/Trial123/244.ts
+http://tvku.live:8888/live/Syafii07/MS737/244.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="NBA HD" tvg-logo="-" group-title="Sports",NBA HD
-http://tvku.live:8888/live/Rambo1/Trial123/243.ts
+http://tvku.live:8888/live/Syafii07/MS737/243.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Setanta Sport" tvg-logo="-" group-title="Sports",Setanta Sport
-http://tvku.live:8888/live/Rambo1/Trial123/1199.ts
+http://tvku.live:8888/live/Syafii07/MS737/1199.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Setanta Sports +" tvg-logo="-" group-title="Sports",Setanta Sports +
-http://tvku.live:8888/live/Rambo1/Trial123/2223.ts
+http://tvku.live:8888/live/Syafii07/MS737/2223.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Premier League HD" tvg-logo="-" group-title="Sports",Sky Sports Premier League HD
-http://tvku.live:8888/live/Rambo1/Trial123/2585.ts
+http://tvku.live:8888/live/Syafii07/MS737/2585.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports News HD" tvg-logo="-" group-title="Sports",Sky Sports News HD
-http://tvku.live:8888/live/Rambo1/Trial123/2586.ts
+http://tvku.live:8888/live/Syafii07/MS737/2586.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Mix HD" tvg-logo="-" group-title="Sports",Sky Sports Mix HD
-http://tvku.live:8888/live/Rambo1/Trial123/2587.ts
+http://tvku.live:8888/live/Syafii07/MS737/2587.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Main Events" tvg-logo="-" group-title="Sports",Sky Sports Main Events
-http://tvku.live:8888/live/Rambo1/Trial123/2588.ts
+http://tvku.live:8888/live/Syafii07/MS737/2588.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Golf HD" tvg-logo="-" group-title="Sports",Sky Sports Golf HD
-http://tvku.live:8888/live/Rambo1/Trial123/2589.ts
+http://tvku.live:8888/live/Syafii07/MS737/2589.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports F1 HD" tvg-logo="-" group-title="Sports",Sky Sports F1 HD
-http://tvku.live:8888/live/Rambo1/Trial123/2590.ts
+http://tvku.live:8888/live/Syafii07/MS737/2590.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Cricket HD" tvg-logo="-" group-title="Sports",Sky Sports Cricket HD
-http://tvku.live:8888/live/Rambo1/Trial123/2591.ts
+http://tvku.live:8888/live/Syafii07/MS737/2591.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Arena HD" tvg-logo="-" group-title="Sports",Sky Sports Arena HD
-http://tvku.live:8888/live/Rambo1/Trial123/2592.ts
+http://tvku.live:8888/live/Syafii07/MS737/2592.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Action HD" tvg-logo="-" group-title="Sports",Sky Sports Action HD
-http://tvku.live:8888/live/Rambo1/Trial123/2593.ts
+http://tvku.live:8888/live/Syafii07/MS737/2593.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sports Net World HD" tvg-logo="-" group-title="Sports",Sports Net World HD
-http://tvku.live:8888/live/Rambo1/Trial123/2601.ts
+http://tvku.live:8888/live/Syafii07/MS737/2601.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sports Net One HD" tvg-logo="-" group-title="Sports",Sports Net One HD
-http://tvku.live:8888/live/Rambo1/Trial123/2602.ts
+http://tvku.live:8888/live/Syafii07/MS737/2602.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="NFL Channel HD US" tvg-logo="-" group-title="Sports",NFL Channel HD US
-http://tvku.live:8888/live/Rambo1/Trial123/2604.ts
+http://tvku.live:8888/live/Syafii07/MS737/2604.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Eir Sport 1" tvg-logo="-" group-title="Sports",Eir Sport 1
-http://tvku.live:8888/live/Rambo1/Trial123/2594.ts
+http://tvku.live:8888/live/Syafii07/MS737/2594.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Eir Sport 2" tvg-logo="-" group-title="Sports",Eir Sport 2
-http://tvku.live:8888/live/Rambo1/Trial123/2595.ts
+http://tvku.live:8888/live/Syafii07/MS737/2595.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Movie"
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="Movie",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinema World" tvg-logo="-" group-title="Movie",Cinema World
-http://tvku.live:8888/live/Rambo1/Trial123/1194.ts
+http://tvku.live:8888/live/Syafii07/MS737/1194.ts
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/zYeuqW9.png" group-title="Movie",Cinema World (alt)
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Chinese Movies Legend" tvg-logo="-" group-title="Movie",Star Chinese Movies Legend
-http://tvku.live:8888/live/Rambo1/Trial123/1859.ts
+http://tvku.live:8888/live/Syafii07/MS737/1859.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="CCM" tvg-logo="-" group-title="Movie",CCM
-http://tvku.live:8888/live/Rambo1/Trial123/2118.ts
+http://tvku.live:8888/live/Syafii07/MS737/2118.ts
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://i.imgur.com/f9JjLMQ.png" group-title="Movie",Celestial Movies (alt)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Celestial Movies" tvg-logo="-" group-title="Movie",Celestial Movies
-http://tvku.live:8888/live/Rambo1/Trial123/5.ts
+http://tvku.live:8888/live/Syafii07/MS737/5.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Premiere" tvg-logo="-" group-title="Movie",Premiere
-http://tvku.live:8888/live/Rambo1/Trial123/2137.ts
+http://tvku.live:8888/live/Syafii07/MS737/2137.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Movies HD" tvg-logo="-" group-title="Movie",FOX Movies HD
-http://tvku.live:8888/live/Rambo1/Trial123/98.ts
+http://tvku.live:8888/live/Syafii07/MS737/98.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Movies HD Backup" tvg-logo="-" group-title="Movie",FOX Movies HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/978.ts
+http://tvku.live:8888/live/Syafii07/MS737/978.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Movies FHD" tvg-logo="-" group-title="Movie",FOX Movies FHD
-http://tvku.live:8888/live/Rambo1/Trial123/1205.ts
+http://tvku.live:8888/live/Syafii07/MS737/1205.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Action Movies HD" tvg-logo="-" group-title="Movie",FOX Action Movies HD
-http://tvku.live:8888/live/Rambo1/Trial123/99.ts
+http://tvku.live:8888/live/Syafii07/MS737/99.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Action Movies HD Backup" tvg-logo="-" group-title="Movie",FOX Action Movies HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/979.ts
+http://tvku.live:8888/live/Syafii07/MS737/979.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Action Movies FHD" tvg-logo="-" group-title="Movie",FOX Action Movies FHD
-http://tvku.live:8888/live/Rambo1/Trial123/1478.ts
+http://tvku.live:8888/live/Syafii07/MS737/1478.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Action Movies" tvg-logo="-" group-title="Movie",FOX Action Movies
-http://tvku.live:8888/live/Rambo1/Trial123/1125.ts
+http://tvku.live:8888/live/Syafii07/MS737/1125.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Family Movies ID" tvg-logo="-" group-title="Movie",FOX Family Movies ID
-http://tvku.live:8888/live/Rambo1/Trial123/100.ts
+http://tvku.live:8888/live/Syafii07/MS737/100.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Family Movies EN" tvg-logo="-" group-title="Movie",FOX Family Movies EN
-http://tvku.live:8888/live/Rambo1/Trial123/1493.ts
+http://tvku.live:8888/live/Syafii07/MS737/1493.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Crime HD" tvg-logo="-" group-title="Movie",FOX Crime HD
-http://tvku.live:8888/live/Rambo1/Trial123/763.ts
+http://tvku.live:8888/live/Syafii07/MS737/763.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Crime HD Backup" tvg-logo="-" group-title="Movie",FOX Crime HD Backup
-http://tvku.live:8888/live/Rambo1/Trial123/1483.ts
+http://tvku.live:8888/live/Syafii07/MS737/1483.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Life HD" tvg-logo="-" group-title="Movie",FOX Life HD
-http://tvku.live:8888/live/Rambo1/Trial123/94.ts
+http://tvku.live:8888/live/Syafii07/MS737/94.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX HD" tvg-logo="-" group-title="Movie",FOX HD
-http://tvku.live:8888/live/Rambo1/Trial123/95.ts
+http://tvku.live:8888/live/Syafii07/MS737/95.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="FX HD" tvg-logo="-" group-title="Movie",FX HD
-http://tvku.live:8888/live/Rambo1/Trial123/776.ts
+http://tvku.live:8888/live/Syafii07/MS737/776.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Diva HD" tvg-logo="-" group-title="Movie",Diva HD
-http://tvku.live:8888/live/Rambo1/Trial123/841.ts
+http://tvku.live:8888/live/Syafii07/MS737/841.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO HD" tvg-logo="-" group-title="Movie",HBO HD
-http://tvku.live:8888/live/Rambo1/Trial123/210.ts
+http://tvku.live:8888/live/Syafii07/MS737/210.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO FHD" tvg-logo="-" group-title="Movie",HBO FHD
-http://tvku.live:8888/live/Rambo1/Trial123/1496.ts
+http://tvku.live:8888/live/Syafii07/MS737/1496.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO Hits HD" tvg-logo="-" group-title="Movie",HBO Hits HD
-http://tvku.live:8888/live/Rambo1/Trial123/591.ts
+http://tvku.live:8888/live/Syafii07/MS737/591.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO Family HD" tvg-logo="-" group-title="Movie",HBO Family HD
-http://tvku.live:8888/live/Rambo1/Trial123/592.ts
+http://tvku.live:8888/live/Syafii07/MS737/592.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO Signature HD" tvg-logo="-" group-title="Movie",HBO Signature HD
-http://tvku.live:8888/live/Rambo1/Trial123/873.ts
+http://tvku.live:8888/live/Syafii07/MS737/873.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO Signature FHD" tvg-logo="-" group-title="Movie",HBO Signature FHD
-http://tvku.live:8888/live/Rambo1/Trial123/1498.ts
+http://tvku.live:8888/live/Syafii07/MS737/1498.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Red by HBO HD" tvg-logo="-" group-title="Movie",Red by HBO HD
-http://tvku.live:8888/live/Rambo1/Trial123/874.ts
+http://tvku.live:8888/live/Syafii07/MS737/874.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eW5jriK.png" group-title="Movie",IMC
 https://dl.dropbox.com/s/0nn2z871jh2vfxg/imc.m3u8?dl=0
 IASHttpSessionId=SLB242142019082402281920833852&ztecid=ch00000090990000001695&bandwidth=1239209&ispcode=1&timeformat=Lokal&channel=ch00000090990000001695&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwODAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinemax HD" tvg-logo="-" group-title="Movie",Cinemax HD
-http://tvku.live:8888/live/Rambo1/Trial123/796.ts
+http://tvku.live:8888/live/Syafii07/MS737/796.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinemax FHD" tvg-logo="-" group-title="Movie",Cinemax FHD
-http://tvku.live:8888/live/Rambo1/Trial123/2156.ts
+http://tvku.live:8888/live/Syafii07/MS737/2156.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="LifeTime" tvg-logo="-" group-title="Movie",LifeTime
-http://tvku.live:8888/live/Rambo1/Trial123/866.ts
+http://tvku.live:8888/live/Syafii07/MS737/866.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Warner TV ID HD" tvg-logo="-" group-title="Movie",Warner TV ID HD
-http://tvku.live:8888/live/Rambo1/Trial123/1533.ts
+http://tvku.live:8888/live/Syafii07/MS737/1533.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Warner TV" tvg-logo="-" group-title="Movie",Warner TV
-http://tvku.live:8888/live/Rambo1/Trial123/865.ts
+http://tvku.live:8888/live/Syafii07/MS737/865.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Chinese Movies HD" tvg-logo="-" group-title="Movie",Star Chinese Movies HD
-http://tvku.live:8888/live/Rambo1/Trial123/780.ts
+http://tvku.live:8888/live/Syafii07/MS737/780.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Blue Ant Extreme" tvg-logo="-" group-title="Movie",Blue Ant Extreme
-http://tvku.live:8888/live/Rambo1/Trial123/811.ts
+http://tvku.live:8888/live/Syafii07/MS737/811.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Hits Movie" tvg-logo="-" group-title="Movie",Hits Movie
-http://tvku.live:8888/live/Rambo1/Trial123/957.ts
+http://tvku.live:8888/live/Syafii07/MS737/957.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Sinema Indonesia" tvg-logo="-" group-title="Movie",Sinema Indonesia
-http://tvku.live:8888/live/Rambo1/Trial123/1698.ts
+http://tvku.live:8888/live/Syafii07/MS737/1698.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="J'Go HD" tvg-logo="-" group-title="Movie",J'Go HD
-http://tvku.live:8888/live/Rambo1/Trial123/1487.ts
+http://tvku.live:8888/live/Syafii07/MS737/1487.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Bioskop Indonesia" tvg-logo="-" group-title="Movie",Bioskop Indonesia
-http://tvku.live:8888/live/Rambo1/Trial123/908.ts
+http://tvku.live:8888/live/Syafii07/MS737/908.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S4tAfgm.png" group-title="Movie",Bioskop Indonesia (alt)
 https://dl.dropbox.com/s/3wd86dtevt6n4gw/bioskopindonesia.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="Movie",Flik
 https://dl.dropbox.com/s/pfi49oocgx0k3t9/flik.m3u8?dl=0
 #EXTINF:-1 tvg-ID="-" tvg-name="Flik HD" tvg-logo="-" group-title="Movie",Flik HD
-http://tvku.live:8888/live/Rambo1/Trial123/1497.ts
+http://tvku.live:8888/live/Syafii07/MS737/1497.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="HITS" tvg-logo="-" group-title="Movie",HITS
-http://tvku.live:8888/live/Rambo1/Trial123/1195.ts
+http://tvku.live:8888/live/Syafii07/MS737/1195.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Thrill" tvg-logo="-" group-title="Movie",Thrill
-http://tvku.live:8888/live/Rambo1/Trial123/4.ts
+http://tvku.live:8888/live/Syafii07/MS737/4.ts
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/mQI2gyp.png" group-title="Movie",Thrilll (alt)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="KIX" tvg-logo="-" group-title="Movie",KIX
-http://tvku.live:8888/live/Rambo1/Trial123/8.ts
+http://tvku.live:8888/live/Syafii07/MS737/8.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="AXN" tvg-logo="-" group-title="Movie",AXN
-http://tvku.live:8888/live/Rambo1/Trial123/9.ts
+http://tvku.live:8888/live/Syafii07/MS737/9.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Star World" tvg-logo="-" group-title="Movie",Star World
-http://tvku.live:8888/live/Rambo1/Trial123/381.ts
+http://tvku.live:8888/live/Syafii07/MS737/381.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Zee Bioskop" tvg-logo="-" group-title="Movie",Zee Bioskop
-http://tvku.live:8888/live/Rambo1/Trial123/7.ts
+http://tvku.live:8888/live/Syafii07/MS737/7.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sVqhAup.png" group-title="Movie",Zee Bioskop (alt)
 http://rr2.dens.tv/s/s32/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDOdcXd.png" group-title="Movie",Galaxy
@@ -780,49 +780,49 @@ http://pockettv.xyz/api/zee.m3u8?c=world
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Kids"
 #EXTINF:-1 tvg-ID="-" tvg-name="Spacetoon" tvg-logo="-" group-title="Kids",Spacetoon
-http://tvku.live:8888/live/Rambo1/Trial123/1541.ts
+http://tvku.live:8888/live/Syafii07/MS737/1541.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Baby First" tvg-logo="-" group-title="Kids",Baby First
-http://tvku.live:8888/live/Rambo1/Trial123/1204.ts
+http://tvku.live:8888/live/Syafii07/MS737/1204.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Dunia Anak" tvg-logo="-" group-title="Kids",Dunia Anak
-http://tvku.live:8888/live/Rambo1/Trial123/907.ts
+http://tvku.live:8888/live/Syafii07/MS737/907.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Toonmax" tvg-logo="-" group-title="Kids",Toonmax
-http://tvku.live:8888/live/Rambo1/Trial123/1116.ts
+http://tvku.live:8888/live/Syafii07/MS737/1116.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Disney XD" tvg-logo="-" group-title="Kids",Disney XD
-http://tvku.live:8888/live/Rambo1/Trial123/104.ts
+http://tvku.live:8888/live/Syafii07/MS737/104.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Disney US" tvg-logo="-" group-title="Kids",Disney US
-http://tvku.live:8888/live/Rambo1/Trial123/2336.ts
+http://tvku.live:8888/live/Syafii07/MS737/2336.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Duck TV" tvg-logo="-" group-title="Kids",Duck TV
-http://tvku.live:8888/live/Rambo1/Trial123/1854.ts
+http://tvku.live:8888/live/Syafii07/MS737/1854.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Nick Toons" tvg-logo="-" group-title="Kids",Nick Toons
-http://tvku.live:8888/live/Rambo1/Trial123/335.ts
+http://tvku.live:8888/live/Syafii07/MS737/335.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Nickelodeon ID" tvg-logo="-" group-title="Kids",Nickelodeon ID
-http://tvku.live:8888/live/Rambo1/Trial123/962.ts
+http://tvku.live:8888/live/Syafii07/MS737/962.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Nick Jr ID" tvg-logo="-" group-title="Kids",Nick Jr ID
-http://tvku.live:8888/live/Rambo1/Trial123/522.ts
+http://tvku.live:8888/live/Syafii07/MS737/522.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Dream Works HD" tvg-logo="-" group-title="Kids",Dream Works HD
-http://tvku.live:8888/live/Rambo1/Trial123/936.ts
+http://tvku.live:8888/live/Syafii07/MS737/936.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Disney Channel ID" tvg-logo="-" group-title="Kids",Disney Channel ID
-http://tvku.live:8888/live/Rambo1/Trial123/306.ts
+http://tvku.live:8888/live/Syafii07/MS737/306.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network ID HD" tvg-logo="-" group-title="Kids",Cartoon Network ID HD
-http://tvku.live:8888/live/Rambo1/Trial123/680.ts
+http://tvku.live:8888/live/Syafii07/MS737/680.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network ID FHD" tvg-logo="-" group-title="Kids",Cartoon Network ID FHD
-http://tvku.live:8888/live/Rambo1/Trial123/1532.ts
+http://tvku.live:8888/live/Syafii07/MS737/1532.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Boomerang HD" tvg-logo="-" group-title="Kids",Boomerang HD
-http://tvku.live:8888/live/Rambo1/Trial123/305.ts
+http://tvku.live:8888/live/Syafii07/MS737/305.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Baby TV" tvg-logo="-" group-title="Kids",Baby TV
-http://tvku.live:8888/live/Rambo1/Trial123/296.ts
+http://tvku.live:8888/live/Syafii07/MS737/296.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Nick Jr 2" tvg-logo="-" group-title="Kids",Nick Jr 2
-http://tvku.live:8888/live/Rambo1/Trial123/341.ts
+http://tvku.live:8888/live/Syafii07/MS737/341.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Disney Junior" tvg-logo="-" group-title="Kids",Disney Junior
-http://tvku.live:8888/live/Rambo1/Trial123/213.ts
+http://tvku.live:8888/live/Syafii07/MS737/213.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Aniplus" tvg-logo="-" group-title="Kids",Aniplus
-http://tvku.live:8888/live/Rambo1/Trial123/2.ts
+http://tvku.live:8888/live/Syafii07/MS737/2.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Animax" tvg-logo="-" group-title="Kids",Animax
-http://tvku.live:8888/live/Rambo1/Trial123/3.ts
+http://tvku.live:8888/live/Syafii07/MS737/3.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Animax Backup" tvg-logo="-" group-title="Kids",Animax Backup
-http://tvku.live:8888/live/Rambo1/Trial123/1196.ts
+http://tvku.live:8888/live/Syafii07/MS737/1196.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="CBeebies" tvg-logo="-" group-title="Kids",CBeebies
-http://tvku.live:8888/live/Rambo1/Trial123/491.ts
+http://tvku.live:8888/live/Syafii07/MS737/491.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2VDagnB.png" group-title="Kids",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -903,45 +903,45 @@ http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Knowledge"
 #EXTINF:-1 tvg-ID="-" tvg-name="Animal Planet HD" tvg-logo="-" group-title="Knowledge",Animal Planet HD
-http://tvku.live:8888/live/Rambo1/Trial123/358.ts
+http://tvku.live:8888/live/Syafii07/MS737/358.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="BBC Earth" tvg-logo="-" group-title="Knowledge",BBC Earth
-http://tvku.live:8888/live/Rambo1/Trial123/385.ts
+http://tvku.live:8888/live/Syafii07/MS737/385.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Crime Investigation" tvg-logo="-" group-title="Knowledge",Crime Investigation
-http://tvku.live:8888/live/Rambo1/Trial123/332.ts
+http://tvku.live:8888/live/Syafii07/MS737/332.ts
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/jSbJlZh.png" group-title="Knowledge",Crime Investigation [ID]
 http://210.186.80.171:9000/0.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Agfbih8.png" group-title="Knowledge",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Channel HD" tvg-logo="-" group-title="Knowledge",Discovery Channel HD
-http://tvku.live:8888/live/Rambo1/Trial123/165.ts
+http://tvku.live:8888/live/Syafii07/MS737/165.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Asia" tvg-logo="-" group-title="Knowledge",Discovery Asia
-http://tvku.live:8888/live/Rambo1/Trial123/779.ts
+http://tvku.live:8888/live/Syafii07/MS737/779.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Science HD" tvg-logo="-" group-title="Knowledge",Discovery Science HD
-http://tvku.live:8888/live/Rambo1/Trial123/408.ts
+http://tvku.live:8888/live/Syafii07/MS737/408.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Shed" tvg-logo="-" group-title="Knowledge",Discovery Shed
-http://tvku.live:8888/live/Rambo1/Trial123/333.ts
+http://tvku.live:8888/live/Syafii07/MS737/333.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Turbo" tvg-logo="-" group-title="Knowledge",Discovery Turbo
-http://tvku.live:8888/live/Rambo1/Trial123/462.ts
+http://tvku.live:8888/live/Syafii07/MS737/462.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="History HD" tvg-logo="-" group-title="Knowledge",History HD
-http://tvku.live:8888/live/Rambo1/Trial123/718.ts
+http://tvku.live:8888/live/Syafii07/MS737/718.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Channel HD" tvg-logo="-" group-title="Knowledge",National Geographic Channel HD
-http://tvku.live:8888/live/Rambo1/Trial123/96.ts
+http://tvku.live:8888/live/Syafii07/MS737/96.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Channel SD" tvg-logo="-" group-title="Knowledge",National Geographic Channel SD
-http://tvku.live:8888/live/Rambo1/Trial123/1504.ts
+http://tvku.live:8888/live/Syafii07/MS737/1504.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Channel Backup" tvg-logo="-" group-title="Knowledge",National Geographic Channel Backup
-http://tvku.live:8888/live/Rambo1/Trial123/1445.ts
+http://tvku.live:8888/live/Syafii07/MS737/1445.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Wild HD" tvg-logo="-" group-title="Knowledge",National Geographic Wild HD
-http://tvku.live:8888/live/Rambo1/Trial123/97.ts
+http://tvku.live:8888/live/Syafii07/MS737/97.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Wild Backup" tvg-logo="-" group-title="Knowledge",National Geographic Wild Backup
-http://tvku.live:8888/live/Rambo1/Trial123/1446.ts
+http://tvku.live:8888/live/Syafii07/MS737/1446.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic People" tvg-logo="-" group-title="Knowledge",National Geographic People
-http://tvku.live:8888/live/Rambo1/Trial123/455.ts
+http://tvku.live:8888/live/Syafii07/MS737/455.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic People Backup" tvg-logo="-" group-title="Knowledge",National Geographic People Backup
-http://tvku.live:8888/live/Rambo1/Trial123/1447.ts
+http://tvku.live:8888/live/Syafii07/MS737/1447.ts
 #EXTINF:-1 tvg-id="eentertainment.id" tvg-logo="https://i.imgur.com/EY3Tald.png" group-title="Knowledge",E!
 http://210.210.155.35/uq2663/h/h10/index.m3u8?rizkizakaria-E-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="afc.id" tvg-logo="https://i.imgur.com/SpUvTmu.png" group-title="Knowledge",Asian Food Channel
-http://tvku.live:8888/live/Rambo1/Trial123/807.ts
+http://tvku.live:8888/live/Syafii07/MS737/807.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4JVZk8Q.png" group-title="Knowledge",TLC
 http://80.80.160.168/live/2/live.m3u8
 
@@ -1108,21 +1108,21 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YuG5Ggj.png" group-title="Astro Malaysia",TV1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TV1" tvg-logo="-" group-title="Astro Malaysia",TV1 (alt)
-http://tvku.live:8888/live/Rambo1/Trial123/2262.ts
+http://tvku.live:8888/live/Syafii07/MS737/2262.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RpuAW3O.jpg" group-title="Astro Malaysia",TV2
 http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TV2" tvg-logo="-" group-title="Astro Malaysia",TV2 (alt)
-http://tvku.live:8888/live/Rambo1/Trial123/2263.ts
+http://tvku.live:8888/live/Syafii07/MS737/2263.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k6ccchy.png" group-title="Astro Malaysia",TV3
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWBaq9lRtWE5kAmo2S3Bi8c)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TV3" tvg-logo="-" group-title="Astro Malaysia",TV3 (alt)
-http://tvku.live:8888/live/Rambo1/Trial123/2264.ts
+http://tvku.live:8888/live/Syafii07/MS737/2264.ts
 #EXTINF:-1 tvg-ID="-" tvg-name="TV8" tvg-logo="-" group-title="Astro Malaysia",TV8
-http://tvku.live:8888/live/Rambo1/Trial123/2333.ts
+http://tvku.live:8888/live/Syafii07/MS737/2333.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/96xTYue.png" group-title="Astro Malaysia",TV9
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZE46XvW5xWVCObQrhplZpM)/dm/3/x6qqja6/s/live-3.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TV9" tvg-logo="-" group-title="Astro Malaysia",TV9 (alt)
-http://tvku.live:8888/live/Rambo1/Trial123/950.ts 
+http://tvku.live:8888/live/Syafii07/MS737/950.ts 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pDKZJ0Q.jpg" group-title="Astro Malaysia",1News
 http://rtm2mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1sBFJPh.png" group-title="Astro Malaysia",8TV
@@ -1440,420 +1440,420 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QEwLJxX.jpg?1" group-title="VoD",Stephen Chow
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="1 1 " tvg-logo="-" group-title="VoD",1 1 
-http://tvku.live:8888/movie/Rambo1/Trial123/103.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/103.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="1 2 New Year" tvg-logo="-" group-title="VoD",1 2 New Year
-http://tvku.live:8888/movie/Rambo1/Trial123/104.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/104.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="1 Buck (2017) " tvg-logo="-" group-title="VoD",1 Buck (2017) 
-http://tvku.live:8888/movie/Rambo1/Trial123/105.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/105.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="1 Mile To You (2017)" tvg-logo="-" group-title="VoD",1 Mile To You (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/106.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/106.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="10  (1979)" tvg-logo="-" group-title="VoD",10  (1979)
-http://tvku.live:8888/movie/Rambo1/Trial123/112.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/112.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="10 Cloverfield Lane " tvg-logo="-" group-title="VoD",10 Cloverfield Lane 
-http://tvku.live:8888/movie/Rambo1/Trial123/113.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/113.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="10 Minutes Gone " tvg-logo="-" group-title="VoD",10 Minutes Gone 
-http://tvku.live:8888/movie/Rambo1/Trial123/114.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/114.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="10 Things I Hate About You " tvg-logo="-" group-title="VoD",10 Things I Hate About You 
-http://tvku.live:8888/movie/Rambo1/Trial123/115.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/115.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="10 Years " tvg-logo="-" group-title="VoD",10 Years 
-http://tvku.live:8888/movie/Rambo1/Trial123/116.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/116.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="10+10" tvg-logo="-" group-title="VoD",10+10
-http://tvku.live:8888/movie/Rambo1/Trial123/119.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/119.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="10,000 B.C. " tvg-logo="-" group-title="VoD",10,000 B.C. 
-http://tvku.live:8888/movie/Rambo1/Trial123/117.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/117.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="10.0 Earthquake " tvg-logo="-" group-title="VoD",10.0 Earthquake 
-http://tvku.live:8888/movie/Rambo1/Trial123/118.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/118.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="100 Bloody Acres" tvg-logo="-" group-title="VoD",100 Bloody Acres
-http://tvku.live:8888/movie/Rambo1/Trial123/123.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/123.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="100 Bullets " tvg-logo="-" group-title="VoD",100 Bullets 
-http://tvku.live:8888/movie/Rambo1/Trial123/124.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/124.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="100 Streets" tvg-logo="-" group-title="VoD",100 Streets
-http://tvku.live:8888/movie/Rambo1/Trial123/125.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/125.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="100 Yards" tvg-logo="-" group-title="VoD",100 Yards
-http://tvku.live:8888/movie/Rambo1/Trial123/126.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/126.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="101 Dalmatians " tvg-logo="-" group-title="VoD",101 Dalmatians 
-http://tvku.live:8888/movie/Rambo1/Trial123/127.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/127.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="101 Dalmatians II Patchs London Adventure " tvg-logo="-" group-title="VoD",101 Dalmatians II Patchs London Adventure 
-http://tvku.live:8888/movie/Rambo1/Trial123/128.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/128.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="11 14" tvg-logo="-" group-title="VoD",11 14
-http://tvku.live:8888/movie/Rambo1/Trial123/120.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/120.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="12 Angry Men " tvg-logo="-" group-title="VoD",12 Angry Men 
-http://tvku.live:8888/movie/Rambo1/Trial123/121.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/121.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="12 Rounds 3 Lockdown" tvg-logo="-" group-title="VoD",12 Rounds 3 Lockdown
-http://tvku.live:8888/movie/Rambo1/Trial123/122.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/122.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="2012" tvg-logo="-" group-title="VoD",2012
-http://tvku.live:8888/movie/Rambo1/Trial123/131.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/131.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="2036 Nexus Dawn" tvg-logo="-" group-title="VoD",2036 Nexus Dawn
-http://tvku.live:8888/movie/Rambo1/Trial123/132.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/132.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="3 Days to Kill " tvg-logo="-" group-title="VoD",3 Days to Kill 
-http://tvku.live:8888/movie/Rambo1/Trial123/107.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/107.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="3 From Hell " tvg-logo="-" group-title="VoD",3 From Hell 
-http://tvku.live:8888/movie/Rambo1/Trial123/108.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/108.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="3 Idiots " tvg-logo="-" group-title="VoD",3 Idiots 
-http://tvku.live:8888/movie/Rambo1/Trial123/109.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/109.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="5 Centimeters Per Second " tvg-logo="-" group-title="VoD",5 Centimeters Per Second 
-http://tvku.live:8888/movie/Rambo1/Trial123/110.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/110.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="500 Days Of Summer" tvg-logo="-" group-title="VoD",500 Days Of Summer
-http://tvku.live:8888/movie/Rambo1/Trial123/129.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/129.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="500 MPH Storm " tvg-logo="-" group-title="VoD",500 MPH Storm 
-http://tvku.live:8888/movie/Rambo1/Trial123/130.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/130.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="6 Days" tvg-logo="-" group-title="VoD",6 Days
-http://tvku.live:8888/movie/Rambo1/Trial123/111.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/111.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Beautiful Planet " tvg-logo="-" group-title="VoD",A Beautiful Planet 
-http://tvku.live:8888/movie/Rambo1/Trial123/133.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/133.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Brief History Of Time (1991) " tvg-logo="-" group-title="VoD",A Brief History Of Time (1991) 
-http://tvku.live:8888/movie/Rambo1/Trial123/134.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/134.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Ghost Story" tvg-logo="-" group-title="VoD",A Ghost Story
-http://tvku.live:8888/movie/Rambo1/Trial123/135.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/135.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Nightmare on Elm Street" tvg-logo="-" group-title="VoD",A Nightmare on Elm Street
-http://tvku.live:8888/movie/Rambo1/Trial123/136.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/136.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Nightmare on Elm Street 2 Freddys Revenge " tvg-logo="-" group-title="VoD",A Nightmare on Elm Street 2 Freddys Revenge 
-http://tvku.live:8888/movie/Rambo1/Trial123/137.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/137.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Nightmare on Elm Street 3 Dream Warriors" tvg-logo="-" group-title="VoD",A Nightmare on Elm Street 3 Dream Warriors
-http://tvku.live:8888/movie/Rambo1/Trial123/138.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/138.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Tale Of Two Sisters " tvg-logo="-" group-title="VoD",A Tale Of Two Sisters 
-http://tvku.live:8888/movie/Rambo1/Trial123/139.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/139.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Taxi Driver" tvg-logo="-" group-title="VoD",A Taxi Driver
-http://tvku.live:8888/movie/Rambo1/Trial123/140.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/140.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="A Thin Line Between Love And Hate" tvg-logo="-" group-title="VoD",A Thin Line Between Love And Hate
-http://tvku.live:8888/movie/Rambo1/Trial123/141.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/141.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Aaah! Zombies!! " tvg-logo="-" group-title="VoD",Aaah! Zombies!! 
-http://tvku.live:8888/movie/Rambo1/Trial123/142.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/142.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Abe & Phil's Last Poker Game " tvg-logo="-" group-title="VoD",Abe & Phil's Last Poker Game 
-http://tvku.live:8888/movie/Rambo1/Trial123/143.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/143.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Ace Ventura Pet Detective Jr. " tvg-logo="-" group-title="VoD",Ace Ventura Pet Detective Jr. 
-http://tvku.live:8888/movie/Rambo1/Trial123/144.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/144.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Ace Ventura: Pet Detective" tvg-logo="-" group-title="VoD",Ace Ventura: Pet Detective
-http://tvku.live:8888/movie/Rambo1/Trial123/145.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/145.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Ace Ventura: When Nature Calls " tvg-logo="-" group-title="VoD",Ace Ventura: When Nature Calls 
-http://tvku.live:8888/movie/Rambo1/Trial123/146.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/146.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="After The Wedding" tvg-logo="-" group-title="VoD",After The Wedding
-http://tvku.live:8888/movie/Rambo1/Trial123/147.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/147.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="AfterDeath " tvg-logo="-" group-title="VoD",AfterDeath 
-http://tvku.live:8888/movie/Rambo1/Trial123/148.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/148.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Age of Dinosaurs" tvg-logo="-" group-title="VoD",Age of Dinosaurs
-http://tvku.live:8888/movie/Rambo1/Trial123/149.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/149.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="American Pie " tvg-logo="-" group-title="VoD",American Pie 
-http://tvku.live:8888/movie/Rambo1/Trial123/151.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/151.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="American Pie - Reunion" tvg-logo="-" group-title="VoD",American Pie - Reunion
-http://tvku.live:8888/movie/Rambo1/Trial123/150.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/150.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="American Pie 2" tvg-logo="-" group-title="VoD",American Pie 2
-http://tvku.live:8888/movie/Rambo1/Trial123/152.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/152.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="American Pie Presents The Book of Love" tvg-logo="-" group-title="VoD",American Pie Presents The Book of Love
-http://tvku.live:8888/movie/Rambo1/Trial123/153.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/153.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Anaconda" tvg-logo="-" group-title="VoD",Anaconda
-http://tvku.live:8888/movie/Rambo1/Trial123/154.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/154.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Appleseed " tvg-logo="-" group-title="VoD",Appleseed 
-http://tvku.live:8888/movie/Rambo1/Trial123/155.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/155.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="April Story" tvg-logo="-" group-title="VoD",April Story
-http://tvku.live:8888/movie/Rambo1/Trial123/156.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/156.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Aquaman " tvg-logo="-" group-title="VoD",Aquaman 
-http://tvku.live:8888/movie/Rambo1/Trial123/157.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/157.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="August Osage County" tvg-logo="-" group-title="VoD",August Osage County
-http://tvku.live:8888/movie/Rambo1/Trial123/158.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/158.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="August Rush" tvg-logo="-" group-title="VoD",August Rush
-http://tvku.live:8888/movie/Rambo1/Trial123/159.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/159.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Bad Boys " tvg-logo="-" group-title="VoD",Bad Boys 
-http://tvku.live:8888/movie/Rambo1/Trial123/160.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/160.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Bad Boys II " tvg-logo="-" group-title="VoD",Bad Boys II 
-http://tvku.live:8888/movie/Rambo1/Trial123/161.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/161.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Bad Grandmas " tvg-logo="-" group-title="VoD",Bad Grandmas 
-http://tvku.live:8888/movie/Rambo1/Trial123/162.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/162.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Bad Times At The El Royale " tvg-logo="-" group-title="VoD",Bad Times At The El Royale 
-http://tvku.live:8888/movie/Rambo1/Trial123/163.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/163.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Below Her Mouth " tvg-logo="-" group-title="VoD",Below Her Mouth 
-http://tvku.live:8888/movie/Rambo1/Trial123/164.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/164.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Ben 10 Destroy All Aliens " tvg-logo="-" group-title="VoD",Ben 10 Destroy All Aliens 
-http://tvku.live:8888/movie/Rambo1/Trial123/165.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/165.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Ben-Hur " tvg-logo="-" group-title="VoD",Ben-Hur 
-http://tvku.live:8888/movie/Rambo1/Trial123/166.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/166.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Big Momma's House " tvg-logo="-" group-title="VoD",Big Momma's House 
-http://tvku.live:8888/movie/Rambo1/Trial123/167.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/167.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Big Momma's House 2 " tvg-logo="-" group-title="VoD",Big Momma's House 2 
-http://tvku.live:8888/movie/Rambo1/Trial123/169.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/169.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Big Mommas Like Father, Like Son " tvg-logo="-" group-title="VoD",Big Mommas Like Father, Like Son 
-http://tvku.live:8888/movie/Rambo1/Trial123/170.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/170.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Bleach" tvg-logo="-" group-title="VoD",Bleach
-http://tvku.live:8888/movie/Rambo1/Trial123/171.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/171.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Bleach The Movie 2 The Diamond Dust Rebellion " tvg-logo="-" group-title="VoD",Bleach The Movie 2 The Diamond Dust Rebellion 
-http://tvku.live:8888/movie/Rambo1/Trial123/172.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/172.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Boogie Nights " tvg-logo="-" group-title="VoD",Boogie Nights 
-http://tvku.live:8888/movie/Rambo1/Trial123/168.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/168.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Bruce Almighty" tvg-logo="-" group-title="VoD",Bruce Almighty
-http://tvku.live:8888/movie/Rambo1/Trial123/173.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/173.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Bullet to the Head " tvg-logo="-" group-title="VoD",Bullet to the Head 
-http://tvku.live:8888/movie/Rambo1/Trial123/174.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/174.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Chocolate" tvg-logo="-" group-title="VoD",Chocolate
-http://tvku.live:8888/movie/Rambo1/Trial123/175.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/175.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Chocolate Strawberry Vanilla " tvg-logo="-" group-title="VoD",Chocolate Strawberry Vanilla 
-http://tvku.live:8888/movie/Rambo1/Trial123/176.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/176.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Crazy Stupid Love " tvg-logo="-" group-title="VoD",Crazy Stupid Love 
-http://tvku.live:8888/movie/Rambo1/Trial123/177.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/177.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Creepshow" tvg-logo="-" group-title="VoD",Creepshow
-http://tvku.live:8888/movie/Rambo1/Trial123/178.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/178.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Creepshow 2 " tvg-logo="-" group-title="VoD",Creepshow 2 
-http://tvku.live:8888/movie/Rambo1/Trial123/179.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/179.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Daredevil Directors Cut" tvg-logo="-" group-title="VoD",Daredevil Directors Cut
-http://tvku.live:8888/movie/Rambo1/Trial123/180.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/180.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Daughters Of The Sexual Revolution The Untold Story Of The Dallas Cowboys Cheerleaders " tvg-logo="-" group-title="VoD",Daughters Of The Sexual Revolution The Untold Story Of The Dallas Cowboys Cheerleaders 
-http://tvku.live:8888/movie/Rambo1/Trial123/181.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/181.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Death Spa " tvg-logo="-" group-title="VoD",Death Spa 
-http://tvku.live:8888/movie/Rambo1/Trial123/182.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/182.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Elektra DIRECTORS CUT" tvg-logo="-" group-title="VoD",Elektra DIRECTORS CUT
-http://tvku.live:8888/movie/Rambo1/Trial123/183.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/183.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Fast & Furious Presents Hobbs & Shaw " tvg-logo="-" group-title="VoD",Fast & Furious Presents Hobbs & Shaw 
-http://tvku.live:8888/movie/Rambo1/Trial123/184.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/184.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="God Bless The Broken Road " tvg-logo="-" group-title="VoD",God Bless The Broken Road 
-http://tvku.live:8888/movie/Rambo1/Trial123/185.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/185.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hancock" tvg-logo="-" group-title="VoD",Hancock
-http://tvku.live:8888/movie/Rambo1/Trial123/186.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/186.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hansel and Gretel Witch Hunters" tvg-logo="-" group-title="VoD",Hansel and Gretel Witch Hunters
-http://tvku.live:8888/movie/Rambo1/Trial123/187.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/187.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hell Baby" tvg-logo="-" group-title="VoD",Hell Baby
-http://tvku.live:8888/movie/Rambo1/Trial123/188.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/188.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hellboy " tvg-logo="-" group-title="VoD",Hellboy 
-http://tvku.live:8888/movie/Rambo1/Trial123/189.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/189.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hellboy The Golden Army" tvg-logo="-" group-title="VoD",Hellboy The Golden Army
-http://tvku.live:8888/movie/Rambo1/Trial123/190.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/190.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Her Stolen Past (2018)" tvg-logo="-" group-title="VoD",Her Stolen Past (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/191.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/191.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Her Worst Nightmare " tvg-logo="-" group-title="VoD",Her Worst Nightmare 
-http://tvku.live:8888/movie/Rambo1/Trial123/192.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/192.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hercules " tvg-logo="-" group-title="VoD",Hercules 
-http://tvku.live:8888/movie/Rambo1/Trial123/193.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/193.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hereditary" tvg-logo="-" group-title="VoD",Hereditary
-http://tvku.live:8888/movie/Rambo1/Trial123/194.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/194.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Horrible Bosses 2" tvg-logo="-" group-title="VoD",Horrible Bosses 2
-http://tvku.live:8888/movie/Rambo1/Trial123/195.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/195.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hotel Artemis" tvg-logo="-" group-title="VoD",Hotel Artemis
-http://tvku.live:8888/movie/Rambo1/Trial123/196.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/196.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Hotel Mumbai" tvg-logo="-" group-title="VoD",Hotel Mumbai
-http://tvku.live:8888/movie/Rambo1/Trial123/197.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/197.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="I'll See You in My Dreams " tvg-logo="-" group-title="VoD",I'll See You in My Dreams 
-http://tvku.live:8888/movie/Rambo1/Trial123/198.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/198.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Independence Day" tvg-logo="-" group-title="VoD",Independence Day
-http://tvku.live:8888/movie/Rambo1/Trial123/199.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/199.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Interstellar" tvg-logo="-" group-title="VoD",Interstellar
-http://tvku.live:8888/movie/Rambo1/Trial123/1.mkv
+http://tvku.live:8888/movie/Syafii07/MS737/1.mkv
 #EXTINF:-1 tvg-ID="-" tvg-name="Island Zero " tvg-logo="-" group-title="VoD",Island Zero 
-http://tvku.live:8888/movie/Rambo1/Trial123/201.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/201.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="It" tvg-logo="-" group-title="VoD",It
-http://tvku.live:8888/movie/Rambo1/Trial123/202.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/202.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Jack Reacher Never Go Back " tvg-logo="-" group-title="VoD",Jack Reacher Never Go Back 
-http://tvku.live:8888/movie/Rambo1/Trial123/203.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/203.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Jack the Giant Slayer" tvg-logo="-" group-title="VoD",Jack the Giant Slayer
-http://tvku.live:8888/movie/Rambo1/Trial123/204.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/204.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Jackals " tvg-logo="-" group-title="VoD",Jackals 
-http://tvku.live:8888/movie/Rambo1/Trial123/205.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/205.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Johnny English" tvg-logo="-" group-title="VoD",Johnny English
-http://tvku.live:8888/movie/Rambo1/Trial123/206.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/206.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Johnny English Strikes Again" tvg-logo="-" group-title="VoD",Johnny English Strikes Again
-http://tvku.live:8888/movie/Rambo1/Trial123/207.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/207.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Jurassic Galaxy " tvg-logo="-" group-title="VoD",Jurassic Galaxy 
-http://tvku.live:8888/movie/Rambo1/Trial123/208.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/208.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Jurassic Park " tvg-logo="-" group-title="VoD",Jurassic Park 
-http://tvku.live:8888/movie/Rambo1/Trial123/209.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/209.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Jurassic Park III " tvg-logo="-" group-title="VoD",Jurassic Park III 
-http://tvku.live:8888/movie/Rambo1/Trial123/210.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/210.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Jurassic Park The Lost World " tvg-logo="-" group-title="VoD",Jurassic Park The Lost World 
-http://tvku.live:8888/movie/Rambo1/Trial123/211.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/211.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Matrix (1999)" tvg-logo="-" group-title="VoD",The Matrix (1999)
-http://tvku.live:8888/movie/Rambo1/Trial123/7.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/7.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Maze Runner (2014)" tvg-logo="-" group-title="VoD",The Maze Runner (2014)
-http://tvku.live:8888/movie/Rambo1/Trial123/8.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/8.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Mechanic (2011)" tvg-logo="-" group-title="VoD",The Mechanic (2011)
-http://tvku.live:8888/movie/Rambo1/Trial123/9.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/9.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Meg (2018)" tvg-logo="-" group-title="VoD",The Meg (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/10.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/10.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Messenger (2019)" tvg-logo="-" group-title="VoD",The Messenger (2019)
-http://tvku.live:8888/movie/Rambo1/Trial123/11.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/11.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Monkey King 3 (2018) " tvg-logo="-" group-title="VoD",The Monkey King 3 (2018) 
-http://tvku.live:8888/movie/Rambo1/Trial123/12.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/12.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Mountain Between Us (2017" tvg-logo="-" group-title="VoD",The Mountain Between Us (2017
-http://tvku.live:8888/movie/Rambo1/Trial123/13.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/13.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Mummy (2017)" tvg-logo="-" group-title="VoD",The Mummy (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/14.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/14.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Mummy Resurrected (2014)" tvg-logo="-" group-title="VoD",The Mummy Resurrected (2014)
-http://tvku.live:8888/movie/Rambo1/Trial123/15.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/15.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Night Comes For Us (2018)" tvg-logo="-" group-title="VoD",The Night Comes For Us (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/16.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/16.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Notebook (2004)" tvg-logo="-" group-title="VoD",The Notebook (2004)
-http://tvku.live:8888/movie/Rambo1/Trial123/17.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/17.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Nun (2018)" tvg-logo="-" group-title="VoD",The Nun (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/18.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/18.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Nutcracker And The Four Realms (2018) " tvg-logo="-" group-title="VoD",The Nutcracker And The Four Realms (2018) 
-http://tvku.live:8888/movie/Rambo1/Trial123/19.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/19.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Other Side Of The Door (2016) " tvg-logo="-" group-title="VoD",The Other Side Of The Door (2016) 
-http://tvku.live:8888/movie/Rambo1/Trial123/20.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/20.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Package (2018)" tvg-logo="-" group-title="VoD",The Package (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/21.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/21.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Party's Just Beginning (2018)" tvg-logo="-" group-title="VoD",The Party's Just Beginning (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/22.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/22.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Pastor And The Pro (2018)" tvg-logo="-" group-title="VoD",The Pastor And The Pro (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/23.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/23.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Predator (2018)" tvg-logo="-" group-title="VoD",The Predator (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/24.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/24.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Raid 2 (2014)" tvg-logo="-" group-title="VoD",The Raid 2 (2014)
-http://tvku.live:8888/movie/Rambo1/Trial123/25.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/25.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Redeemed And The Dominant Fittest On Earth (2018) " tvg-logo="-" group-title="VoD",The Redeemed And The Dominant Fittest On Earth (2018) 
-http://tvku.live:8888/movie/Rambo1/Trial123/26.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/26.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Revenant (2015)" tvg-logo="-" group-title="VoD",The Revenant (2015)
-http://tvku.live:8888/movie/Rambo1/Trial123/27.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/27.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Scorpion King Book Of Souls (2018)" tvg-logo="-" group-title="VoD",The Scorpion King Book Of Souls (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/28.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/28.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Secret Life Of Pets 2 (2019)" tvg-logo="-" group-title="VoD",The Secret Life Of Pets 2 (2019)
-http://tvku.live:8888/movie/Rambo1/Trial123/29.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/29.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Shameless (2015) " tvg-logo="-" group-title="VoD",The Shameless (2015) 
-http://tvku.live:8888/movie/Rambo1/Trial123/30.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/30.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Shape Of Water (2017)" tvg-logo="-" group-title="VoD",The Shape Of Water (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/31.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/31.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The SpongeBob Movie Sponge Out of Water (2015)" tvg-logo="-" group-title="VoD",The SpongeBob Movie Sponge Out of Water (2015)
-http://tvku.live:8888/movie/Rambo1/Trial123/32.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/32.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Star (2017)" tvg-logo="-" group-title="VoD",The Star (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/33.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/33.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Student And Mister Henri (2015) " tvg-logo="-" group-title="VoD",The Student And Mister Henri (2015) 
-http://tvku.live:8888/movie/Rambo1/Trial123/34.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/34.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Tale (2018)" tvg-logo="-" group-title="VoD",The Tale (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/35.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/35.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Tale Of Iya (2013)" tvg-logo="-" group-title="VoD",The Tale Of Iya (2013)
-http://tvku.live:8888/movie/Rambo1/Trial123/36.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/36.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Thousand Faces Of Dunjia (2017)" tvg-logo="-" group-title="VoD",The Thousand Faces Of Dunjia (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/37.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/37.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Transporter Refueled (2015) " tvg-logo="-" group-title="VoD",The Transporter Refueled (2015) 
-http://tvku.live:8888/movie/Rambo1/Trial123/38.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/38.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Visit (2015) " tvg-logo="-" group-title="VoD",The Visit (2015) 
-http://tvku.live:8888/movie/Rambo1/Trial123/39.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/39.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Wolverine (2013) " tvg-logo="-" group-title="VoD",The Wolverine (2013) 
-http://tvku.live:8888/movie/Rambo1/Trial123/40.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/40.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="The Zookeeper's Wife (2017)" tvg-logo="-" group-title="VoD",The Zookeeper's Wife (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/41.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/41.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Thelma (2017)" tvg-logo="-" group-title="VoD",Thelma (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/42.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/42.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Then Came You (2018)" tvg-logo="-" group-title="VoD",Then Came You (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/43.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/43.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Thor (2011)" tvg-logo="-" group-title="VoD",Thor (2011)
-http://tvku.live:8888/movie/Rambo1/Trial123/44.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/44.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Thor Ragnarok (2017)" tvg-logo="-" group-title="VoD",Thor Ragnarok (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/45.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/45.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Thor The Dark World (2013) " tvg-logo="-" group-title="VoD",Thor The Dark World (2013) 
-http://tvku.live:8888/movie/Rambo1/Trial123/46.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/46.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Three Billboards Outside Ebbing, Missouri (2017) " tvg-logo="-" group-title="VoD",Three Billboards Outside Ebbing, Missouri (2017) 
-http://tvku.live:8888/movie/Rambo1/Trial123/47.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/47.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Time Jumpers (2018) " tvg-logo="-" group-title="VoD",Time Jumpers (2018) 
-http://tvku.live:8888/movie/Rambo1/Trial123/48.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/48.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Tinker Bell and the Legend of the NeverBeast (2014) " tvg-logo="-" group-title="VoD",Tinker Bell and the Legend of the NeverBeast (2014) 
-http://tvku.live:8888/movie/Rambo1/Trial123/49.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/49.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Tiny Giants 3D (2014) " tvg-logo="-" group-title="VoD",Tiny Giants 3D (2014) 
-http://tvku.live:8888/movie/Rambo1/Trial123/50.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/50.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Titanic (1997) " tvg-logo="-" group-title="VoD",Titanic (1997) 
-http://tvku.live:8888/movie/Rambo1/Trial123/51.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/51.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="To All The Boys I've Loved Before (2018)" tvg-logo="-" group-title="VoD",To All The Boys I've Loved Before (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/52.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/52.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Tomb Rider 2018" tvg-logo="-" group-title="VoD",Tomb Rider 2018
-http://tvku.live:8888/movie/Rambo1/Trial123/55.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/55.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Tone Deaf" tvg-logo="-" group-title="VoD",Tone Deaf
-http://tvku.live:8888/movie/Rambo1/Trial123/56.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/56.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Toys Story 4" tvg-logo="-" group-title="VoD",Toys Story 4
-http://tvku.live:8888/movie/Rambo1/Trial123/54.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/54.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Train To Busan (2016) " tvg-logo="-" group-title="VoD",Train To Busan (2016) 
-http://tvku.live:8888/movie/Rambo1/Trial123/53.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/53.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Trainwreck" tvg-logo="-" group-title="VoD",Trainwreck
-http://tvku.live:8888/movie/Rambo1/Trial123/57.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/57.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Transformers Age of Extinction" tvg-logo="-" group-title="VoD",Transformers Age of Extinction
-http://tvku.live:8888/movie/Rambo1/Trial123/58.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/58.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Transformers The Last Knight (2017) " tvg-logo="-" group-title="VoD",Transformers The Last Knight (2017) 
-http://tvku.live:8888/movie/Rambo1/Trial123/59.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/59.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Transpecos " tvg-logo="-" group-title="VoD",Transpecos 
-http://tvku.live:8888/movie/Rambo1/Trial123/60.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/60.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Tremors A Cold Day In Hell " tvg-logo="-" group-title="VoD",Tremors A Cold Day In Hell 
-http://tvku.live:8888/movie/Rambo1/Trial123/61.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/61.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Triassic World " tvg-logo="-" group-title="VoD",Triassic World 
-http://tvku.live:8888/movie/Rambo1/Trial123/62.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/62.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Trolls " tvg-logo="-" group-title="VoD",Trolls 
-http://tvku.live:8888/movie/Rambo1/Trial123/63.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/63.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Truth Or Dare" tvg-logo="-" group-title="VoD",Truth Or Dare
-http://tvku.live:8888/movie/Rambo1/Trial123/64.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/64.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Twilight" tvg-logo="-" group-title="VoD",Twilight
-http://tvku.live:8888/movie/Rambo1/Trial123/65.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/65.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Twister" tvg-logo="-" group-title="VoD",Twister
-http://tvku.live:8888/movie/Rambo1/Trial123/66.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/66.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Two Tails " tvg-logo="-" group-title="VoD",Two Tails 
-http://tvku.live:8888/movie/Rambo1/Trial123/67.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/67.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Underworld Awakening" tvg-logo="-" group-title="VoD",Underworld Awakening
-http://tvku.live:8888/movie/Rambo1/Trial123/68.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/68.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Underworld Blood Wars (2016" tvg-logo="-" group-title="VoD",Underworld Blood Wars (2016
-http://tvku.live:8888/movie/Rambo1/Trial123/69.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/69.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Uri The Surgical Strike (2019) " tvg-logo="-" group-title="VoD",Uri The Surgical Strike (2019) 
-http://tvku.live:8888/movie/Rambo1/Trial123/70.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/70.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Valerian And The City Of A Thousand Planets (2017)" tvg-logo="-" group-title="VoD",Valerian And The City Of A Thousand Planets (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/71.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/71.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Venom" tvg-logo="-" group-title="VoD",Venom
-http://tvku.live:8888/movie/Rambo1/Trial123/72.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/72.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Walking with Dinosaurs 3D " tvg-logo="-" group-title="VoD",Walking with Dinosaurs 3D 
-http://tvku.live:8888/movie/Rambo1/Trial123/73.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/73.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="War For The Planet Of The Apes (2017) " tvg-logo="-" group-title="VoD",War For The Planet Of The Apes (2017) 
-http://tvku.live:8888/movie/Rambo1/Trial123/74.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/74.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Warcraft " tvg-logo="-" group-title="VoD",Warcraft 
-http://tvku.live:8888/movie/Rambo1/Trial123/75.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/75.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Warrior's Gate " tvg-logo="-" group-title="VoD",Warrior's Gate 
-http://tvku.live:8888/movie/Rambo1/Trial123/76.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/76.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Wave Of Crimes" tvg-logo="-" group-title="VoD",Wave Of Crimes
-http://tvku.live:8888/movie/Rambo1/Trial123/77.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/77.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="We Are What We Are " tvg-logo="-" group-title="VoD",We Are What We Are 
-http://tvku.live:8888/movie/Rambo1/Trial123/78.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/78.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Weight" tvg-logo="-" group-title="VoD",Weight
-http://tvku.live:8888/movie/Rambo1/Trial123/79.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/79.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Welcome to the Jungle " tvg-logo="-" group-title="VoD",Welcome to the Jungle 
-http://tvku.live:8888/movie/Rambo1/Trial123/80.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/80.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Western" tvg-logo="-" group-title="VoD",Western
-http://tvku.live:8888/movie/Rambo1/Trial123/81.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/81.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="What Happened To Monday " tvg-logo="-" group-title="VoD",What Happened To Monday 
-http://tvku.live:8888/movie/Rambo1/Trial123/82.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/82.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="What Lies Upstream" tvg-logo="-" group-title="VoD",What Lies Upstream
-http://tvku.live:8888/movie/Rambo1/Trial123/83.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/83.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="What Maisie Knew " tvg-logo="-" group-title="VoD",What Maisie Knew 
-http://tvku.live:8888/movie/Rambo1/Trial123/84.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/84.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="What They Had" tvg-logo="-" group-title="VoD",What They Had
-http://tvku.live:8888/movie/Rambo1/Trial123/85.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/85.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="What We Do in the Shadows " tvg-logo="-" group-title="VoD",What We Do in the Shadows 
-http://tvku.live:8888/movie/Rambo1/Trial123/86.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/86.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="What Will People Say " tvg-logo="-" group-title="VoD",What Will People Say 
-http://tvku.live:8888/movie/Rambo1/Trial123/87.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/87.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="What's For Dinner, Mom " tvg-logo="-" group-title="VoD",What's For Dinner, Mom 
-http://tvku.live:8888/movie/Rambo1/Trial123/88.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/88.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Wheely " tvg-logo="-" group-title="VoD",Wheely 
-http://tvku.live:8888/movie/Rambo1/Trial123/89.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/89.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="When Angels Sleep" tvg-logo="-" group-title="VoD",When Angels Sleep
-http://tvku.live:8888/movie/Rambo1/Trial123/90.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/90.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Where Hands Touch " tvg-logo="-" group-title="VoD",Where Hands Touch 
-http://tvku.live:8888/movie/Rambo1/Trial123/91.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/91.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Whiplash" tvg-logo="-" group-title="VoD",Whiplash
-http://tvku.live:8888/movie/Rambo1/Trial123/92.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/92.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Why Him " tvg-logo="-" group-title="VoD",Why Him 
-http://tvku.live:8888/movie/Rambo1/Trial123/93.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/93.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Wild Card " tvg-logo="-" group-title="VoD",Wild Card 
-http://tvku.live:8888/movie/Rambo1/Trial123/94.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/94.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Wild Rose " tvg-logo="-" group-title="VoD",Wild Rose 
-http://tvku.live:8888/movie/Rambo1/Trial123/95.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/95.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Wonder Woman" tvg-logo="-" group-title="VoD",Wonder Woman
-http://tvku.live:8888/movie/Rambo1/Trial123/96.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/96.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Wonderstruck " tvg-logo="-" group-title="VoD",Wonderstruck 
-http://tvku.live:8888/movie/Rambo1/Trial123/97.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/97.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="World War Z" tvg-logo="-" group-title="VoD",World War Z
-http://tvku.live:8888/movie/Rambo1/Trial123/98.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/98.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Wrath of the Titans " tvg-logo="-" group-title="VoD",Wrath of the Titans 
-http://tvku.live:8888/movie/Rambo1/Trial123/99.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/99.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="X Men Days of Future Past " tvg-logo="-" group-title="VoD",X Men Days of Future Past 
-http://tvku.live:8888/movie/Rambo1/Trial123/100.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/100.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Yesterday " tvg-logo="-" group-title="VoD",Yesterday 
-http://tvku.live:8888/movie/Rambo1/Trial123/101.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/101.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Your Name (kimino nawa)" tvg-logo="-" group-title="VoD",Your Name (kimino nawa)
-http://tvku.live:8888/movie/Rambo1/Trial123/102.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/102.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Youth (2017)" tvg-logo="-" group-title="VoD",Youth (2017)
-http://tvku.live:8888/movie/Rambo1/Trial123/5.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/5.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Yucatán (2018)" tvg-logo="-" group-title="VoD",Yucatán (2018)
-http://tvku.live:8888/movie/Rambo1/Trial123/4.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/4.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Zero Days (2016)" tvg-logo="-" group-title="VoD",Zero Days (2016)
-http://tvku.live:8888/movie/Rambo1/Trial123/3.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/3.mp4
 #EXTINF:-1 tvg-ID="-" tvg-name="Zootopia (2016)" tvg-logo="-" group-title="VoD",Zootopia (2016)
-http://tvku.live:8888/movie/Rambo1/Trial123/2.mp4
+http://tvku.live:8888/movie/Syafii07/MS737/2.mp4
