@@ -23,7 +23,7 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 #EXTINF:-1 tvg-ID="-" tvg-name="NET TV" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NET TV FHD" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV HD
-http://tvku.live:8888/live/6bl300/HTGJxKk3ph/78.ts
+http://103.122.64.40:25461/live/Syafii07/Ms737/78.m3u8?token=QhBYV0dYRg4TDQVXBlRWAwMDBQFfWwJcDlYFVQMFWFMLBABVDQkFVQIaSBAQEEJXVQhvWgIbCVIBGBJEElMTPVBWEgwWBFQGBwlGHkEQWV9RRwoDShtDDF0WChNSBFVQCxAcFFFIEFFDVgVePABVRF0GVRFcV0YJVRgSXg9pBQdUU15SFgpGBBMURlsQFBIIWhBcX0obUQxNRlFFBBRbQAwHAwcWHEZXXk0KRhEdEggWLHQRShtWHU1RXkIIWQ9AAxBdBUEIRhgTURdtEQFDRkYAUV4DSxFfGwQSHUNbABpmUV9YWlUHQFhXCkFBXhIDFkkSXglXWhFWRm9BCFJDWBsFBwEHEhk=
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/2642q4E.png" group-title="Lokal",TransTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans TV" tvg-logo="-" group-title="Lokal",Trans TV HD
