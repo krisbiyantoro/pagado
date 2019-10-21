@@ -15,27 +15,27 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV HD" tvg-logo="https://i.imgur.com/cDFlQPD.png" group-title="Lokal",MNCTV HD
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="Lokal",SCTV
-http://forsat.men:8888/live/Syafii07/Ms737/32.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/32.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="Lokal",SCTV HD
-http://forsat.men:8888/live/Syafii07/Ms737/931.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/931.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NET TV" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV
-http://forsat.men:8888/live/Syafii07/Ms737/24.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/24.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NET TV FHD" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="Lokal",NET TV FHD
-http://forsat.men:8888/live/Syafii07/Ms737/78.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/78.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans TV" tvg-logo="-" group-title="Lokal",Trans TV
-http://forsat.men:8888/live/Syafii07/Ms737/34.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/34.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans TV FHD" tvg-logo="-" group-title="Lokal",Trans TV FHD
-http://forsat.men:8888/live/Syafii07/Ms737/929.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/929.m3u8
 #EXTINF:-1 tvg-ID="trans7.id" tvg-name="Trans 7" tvg-logo="-" group-title="Lokal",Trans 7
-http://forsat.men:8888/live/Syafii07/Ms737/35.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/35.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Trans 7 FHD" tvg-logo="-" group-title="Lokal",Trans 7 FHD
-http://forsat.men:8888/live/Syafii07/Ms737/930.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/930.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="Lokal",Indosiar
-http://forsat.men:8888/live/Syafii07/Ms737/1845.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1845.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="Lokal",Indosiar HD
-http://forsat.men:8888/live/Syafii07/Ms737/33.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/33.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="Lokal",ANTV
-http://forsat.men:8888/live/Syafii07/Ms737/31.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/31.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="Lokal",ANTV
 http://203.153.218.26:9981/stream/channelid/1654354630?ticket=EF1E3EB81D783E0D087B41807DD21AC57A1883EB&profile=pass
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="Lokal",RTV
@@ -154,21 +154,21 @@ https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/playlist
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="News"
 #EXTINF:-1 tvg-id="KompasTv.id" tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="News",Kompas TV
-http://forsat.men:8888/live/Syafii07/Ms737/30.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/30.m3u8
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="News",TV One
-http://forsat.men:8888/live/Syafii07/Ms737/29.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/29.m3u8
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="News",TV One
 http://rr2.dens.tv/s/s105/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="News",Metro TV
-http://forsat.men:8888/live/Syafii07/Ms737/52.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/52.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="News",Metro TV HD
-http://forsat.men:8888/live/Syafii07/Ms737/1697.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1697.m3u8
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.imgur.com/uINlVVj.png" group-title="News",iNews TV
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com?rizkizakaria-INEWS-TV-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.imgur.com/uINlVVj.png" group-title="News",iNews TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8?rizkizakaria-INEWS-TV-join-telegram=@iptvondemand
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/Z10JtuD.jpg?1" group-title="News",Berita Satu
-http://forsat.men:8888/live/Syafii07/Ms737/136.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/136.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="News",Berita Satu
 http://210.210.155.35/session/23e03cf8-c615-11e9-8e41-c81f66f89318/uq2663/h/h41/S4/mnf.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/ARhqwUf.png" group-title="News",Berita Satu World
@@ -252,13 +252,13 @@ http://210.210.155.35/qwr9ew/s/s24/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Sports"
 #EXTINF:-1 tvg-ID="-" tvg-name="Liga 1 Indonesia" tvg-logo="-" group-title="Sports",Usee Sport
-http://forsat.men:8888/live/Syafii07/Ms737/1185.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1185.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="USEE Sport 2" tvg-logo="-" group-title="Sports",USEE Sport 2
-http://forsat.men:8888/live/Syafii07/Ms737/2408.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2408.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Champions TV 1" tvg-logo="-" group-title="Sports",Champions TV 1
-http://forsat.men:8888/live/Syafii07/Ms737/2407.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2407.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Champions TV 2" tvg-logo="-" group-title="Sports",Champions TV 2
-http://forsat.men:8888/live/Syafii07/Ms737/2409.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2409.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/7oWS4TU.png" group-title="Sports",TVRI Sports
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/NgXHaof.png" group-title="Sports",SportOne
@@ -266,21 +266,21 @@ http://203.153.218.26:9981/stream/channelid/896549830?ticket=850CB8B4F21CDAC9C37
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/V5y5TFx.png" group-title="Sports",Super Soccer TV
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sports 1 (live event only)" tvg-logo="-" group-title="Sports",Astro Super Sports 1 (live event only)
-http://forsat.men:8888/live/Syafii07/Ms737/2151.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2151.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sport 1 Backup" tvg-logo="-" group-title="Sports",Astro Super Sport 1 Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2948.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2948.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sports 2 (live event only)" tvg-logo="-" group-title="Sports",Astro Super Sports 2 (live event only)
-http://forsat.men:8888/live/Syafii07/Ms737/2152.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2152.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sport 2 Backup" tvg-logo="-" group-title="Sports",Astro Super Sport 2 Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2949.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2949.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sports 3" tvg-logo="-" group-title="Sports",Astro Super Sports 3
-http://forsat.men:8888/live/Syafii07/Ms737/2153.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2153.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sport 3 Backup" tvg-logo="-" group-title="Sports",Astro Super Sport 3 Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2950.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2950.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sports 4" tvg-logo="-" group-title="Sports",Astro Super Sports 4
-http://forsat.men:8888/live/Syafii07/Ms737/2154.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2154.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Astro Super Sport 4 Backup" tvg-logo="-" group-title="Sports",Astro Super Sport 4 Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2951.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2951.m3u8
 #EXTINF:-1 tvg-id="TenHD.in" tvg-logo="https://i.imgur.com/iFzRQ1A.png?1" group-title="Sports",Sony Ten 1
 http://103.77.252.58:8081/live/ten1/chunks.m3u8
 #EXTINF:-1 tvg-id="SonyTEN2.in" tvg-logo="https://i.imgur.com/PXSjkjt.jpg?1" group-title="Sports",Sony Ten 2
@@ -290,334 +290,334 @@ http://103.77.252.58:8081/live/ten2/chunks.m3u8
 #EXTINF:-1 tvg-id="TenCricket.in" tvg-logo="https://i.imgur.com/gT6yuwr.jpg" group-title="Sports",Sony Six
 http://103.77.252.58:8081/live/sonysix/chunks.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sony Ten 3 HD Airtel" tvg-logo="-" group-title="Sports",Sony Ten 3 HD Airtel
-http://forsat.men:8888/live/Syafii07/Ms737/623.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/623.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NBCSN HD" tvg-logo="-" group-title="Sports",NBCSN HD
-http://forsat.men:8888/live/Syafii07/Ms737/2402.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2402.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sport 1 ID" tvg-logo="-" group-title="Sports",BeIN Sport 1 ID
-http://forsat.men:8888/live/Syafii07/Ms737/728.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/728.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sport 2 ID" tvg-logo="-" group-title="Sports",BeIN Sport 2 ID
-http://forsat.men:8888/live/Syafii07/Ms737/729.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/729.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 1" tvg-logo="-" group-title="Sports",BeIN Sports 1
-http://forsat.men:8888/live/Syafii07/Ms737/10.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/10.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 1 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 1 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2986.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2986.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 2" tvg-logo="-" group-title="Sports",BeIN Sports 2
-http://forsat.men:8888/live/Syafii07/Ms737/11.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/11.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 2 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 2 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2985.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2985.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 3" tvg-logo="-" group-title="Sports",BeIN Sports 3
-http://forsat.men:8888/live/Syafii07/Ms737/12.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/12.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 3 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 3 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2984.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2984.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 4" tvg-logo="-" group-title="Sports",BeIN Sports 4
-http://forsat.men:8888/live/Syafii07/Ms737/217.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/217.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 4 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 4 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2983.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2983.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 5" tvg-logo="-" group-title="Sports",BeIN Sports 5
-http://forsat.men:8888/live/Syafii07/Ms737/218.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/218.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 5 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 5 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2982.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2982.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 6" tvg-logo="-" group-title="Sports",BeIN Sports 6
-http://forsat.men:8888/live/Syafii07/Ms737/219.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/219.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 6 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 6 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2981.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2981.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 7" tvg-logo="-" group-title="Sports",BeIN Sports 7
-http://forsat.men:8888/live/Syafii07/Ms737/220.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/220.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 7 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 7 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2980.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2980.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 8" tvg-logo="-" group-title="Sports",BeIN Sports 8
-http://forsat.men:8888/live/Syafii07/Ms737/221.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/221.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 8 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 8 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2979.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2979.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 9" tvg-logo="-" group-title="Sports",BeIN Sports 9
-http://forsat.men:8888/live/Syafii07/Ms737/222.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/222.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 9 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 9 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2978.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2978.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 10" tvg-logo="-" group-title="Sports",BeIN Sports 10
-http://forsat.men:8888/live/Syafii07/Ms737/253.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/253.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 10 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 10 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2977.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2977.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 11" tvg-logo="-" group-title="Sports",BeIN Sports 11
-http://forsat.men:8888/live/Syafii07/Ms737/254.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/254.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 11 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 11 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2976.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2976.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN Sports 12" tvg-logo="-" group-title="Sports",BeIN Sports 12
-http://forsat.men:8888/live/Syafii07/Ms737/255.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/255.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="beIN Sports 12 HD Backup" tvg-logo="-" group-title="Sports",beIN Sports 12 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2975.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2975.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 1" tvg-logo="-" group-title="Sports",Fox Sports 1
-http://forsat.men:8888/live/Syafii07/Ms737/51.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/51.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 1 HD Backup" tvg-logo="-" group-title="Sports",Fox Sports 1 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/1475.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1475.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 2" tvg-logo="-" group-title="Sports",Fox Sports 2
-http://forsat.men:8888/live/Syafii07/Ms737/102.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/102.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 2 HD Backup" tvg-logo="-" group-title="Sports",Fox Sports 2 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/1476.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1476.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 3" tvg-logo="-" group-title="Sports",Fox Sports 3
-http://forsat.men:8888/live/Syafii07/Ms737/101.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/101.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Fox Sports 3 HD Backup" tvg-logo="-" group-title="Sports",Fox Sports 3 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/1477.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1477.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports F1" tvg-logo="-" group-title="Sports",Sky Sports F1
-http://forsat.men:8888/live/Syafii07/Ms737/1507.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1507.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Arena Sport 1" tvg-logo="-" group-title="Sports",Arena Sport 1
-http://forsat.men:8888/live/Syafii07/Ms737/965.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/965.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Arena Sport 2" tvg-logo="-" group-title="Sports",Arena Sport 2
-http://forsat.men:8888/live/Syafii07/Ms737/966.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/966.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Arena Sport 3" tvg-logo="-" group-title="Sports",Arena Sport 3
-http://forsat.men:8888/live/Syafii07/Ms737/967.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/967.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Arena Sport 4" tvg-logo="-" group-title="Sports",Arena Sport 4
-http://forsat.men:8888/live/Syafii07/Ms737/968.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/968.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Sport 1 HD" tvg-logo="-" group-title="Sports",Star Sport 1 HD
-http://forsat.men:8888/live/Syafii07/Ms737/1183.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1183.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Sport 2" tvg-logo="-" group-title="Sports",Star Sport 2
-http://forsat.men:8888/live/Syafii07/Ms737/1184.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1184.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Dazn 1" tvg-logo="-" group-title="Sports",Dazn 1
-http://forsat.men:8888/live/Syafii07/Ms737/619.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/619.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Dazn 2" tvg-logo="-" group-title="Sports",Dazn 2
-http://forsat.men:8888/live/Syafii07/Ms737/621.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/621.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="PPTV HD" tvg-logo="-" group-title="Sports",PPTV HD
-http://forsat.men:8888/live/Syafii07/Ms737/605.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/605.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Eurosport 1" tvg-logo="-" group-title="Sports",Eurosport 1
-http://forsat.men:8888/live/Syafii07/Ms737/2224.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2224.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Eurosport 2" tvg-logo="-" group-title="Sports",Eurosport 2
-http://forsat.men:8888/live/Syafii07/Ms737/2225.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2225.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="MLB Network" tvg-logo="-" group-title="Sports",MLB Network
-http://forsat.men:8888/live/Syafii07/Ms737/2260.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2260.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BeIN LaLiga" tvg-logo="-" group-title="Sports",BeIN LaLiga
-http://forsat.men:8888/live/Syafii07/Ms737/416.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/416.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BT Sport 1" tvg-logo="-" group-title="Sports",BT Sport 1
-http://forsat.men:8888/live/Syafii07/Ms737/319.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/319.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BT Sport 2" tvg-logo="-" group-title="Sports",BT Sport 2
-http://forsat.men:8888/live/Syafii07/Ms737/320.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/320.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BT Sport 3" tvg-logo="-" group-title="Sports",BT Sport 3
-http://forsat.men:8888/live/Syafii07/Ms737/321.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/321.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 2 HD Backup" tvg-logo="-" group-title="Sports",UK: BT Sport 2 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2988.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2988.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 3 HD Backup" tvg-logo="-" group-title="Sports",UK: BT Sport 3 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2987.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2987.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 1 HD Backup" tvg-logo="-" group-title="Sports",UK: BT Sport 1 HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/2989.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2989.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 1 HD Backup 2" tvg-logo="-" group-title="Sports",UK: BT Sport 1 HD Backup 2
-http://forsat.men:8888/live/Syafii07/Ms737/2992.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2992.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 2 HD Backup 2" tvg-logo="-" group-title="Sports",UK: BT Sport 2 HD Backup 2
-http://forsat.men:8888/live/Syafii07/Ms737/2991.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2991.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="UK: BT Sport 3 HD Backup 2" tvg-logo="-" group-title="Sports",UK: BT Sport 3 HD Backup 2
-http://forsat.men:8888/live/Syafii07/Ms737/2990.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2990.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 12" tvg-logo="-" group-title="Sports",ZA: SuperSport 12
-http://forsat.men:8888/live/Syafii07/Ms737/2663.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2663.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 12 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 12 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2944.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2944.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 11" tvg-logo="-" group-title="Sports",ZA: SuperSport 11
-http://forsat.men:8888/live/Syafii07/Ms737/2664.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2664.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 11 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 11 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2945.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2945.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 10" tvg-logo="-" group-title="Sports",ZA: SuperSport 10
-http://forsat.men:8888/live/Syafii07/Ms737/2665.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2665.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 10 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 10 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2946.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2946.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 9" tvg-logo="-" group-title="Sports",ZA: SuperSport 9
-http://forsat.men:8888/live/Syafii07/Ms737/2666.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2666.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 9 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 9 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2936.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2936.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 8" tvg-logo="-" group-title="Sports",ZA: SuperSport 8
-http://forsat.men:8888/live/Syafii07/Ms737/2667.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2667.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 8 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 8 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2937.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2937.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 7" tvg-logo="-" group-title="Sports",ZA: SuperSport 7
-http://forsat.men:8888/live/Syafii07/Ms737/2668.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2668.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 7 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 7 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2938.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2938.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 6" tvg-logo="-" group-title="Sports",ZA: SuperSport 6
-http://forsat.men:8888/live/Syafii07/Ms737/2669.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2669.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 6 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 6 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2939.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2939.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 5" tvg-logo="-" group-title="Sports",ZA: SuperSport 5
-http://forsat.men:8888/live/Syafii07/Ms737/2670.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2670.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 5 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 5 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2940.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2940.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 4" tvg-logo="-" group-title="Sports",ZA: SuperSport 4
-http://forsat.men:8888/live/Syafii07/Ms737/2671.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2671.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 4 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 4 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2941.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2941.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 3" tvg-logo="-" group-title="Sports",ZA: SuperSport 3
-http://forsat.men:8888/live/Syafii07/Ms737/2672.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2672.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 3 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 3 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2942.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2942.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 2" tvg-logo="-" group-title="Sports",ZA: SuperSport 2
-http://forsat.men:8888/live/Syafii07/Ms737/2673.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2673.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 2 BACKUP" tvg-logo="-" group-title="Sports",ZA: SuperSport 2 BACKUP
-http://forsat.men:8888/live/Syafii07/Ms737/2943.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2943.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ZA: SuperSport 1" tvg-logo="-" group-title="Sports",ZA: SuperSport 1
-http://forsat.men:8888/live/Syafii07/Ms737/2674.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2674.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 1 HD" tvg-logo="-" group-title="Sports",TSN 1 HD
-http://forsat.men:8888/live/Syafii07/Ms737/2596.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2596.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 2 HD" tvg-logo="-" group-title="Sports",TSN 2 HD
-http://forsat.men:8888/live/Syafii07/Ms737/2597.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2597.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 3 HD" tvg-logo="-" group-title="Sports",TSN 3 HD
-http://forsat.men:8888/live/Syafii07/Ms737/2598.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2598.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 4 HD" tvg-logo="-" group-title="Sports",TSN 4 HD
-http://forsat.men:8888/live/Syafii07/Ms737/2599.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2599.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="TSN 5 HD" tvg-logo="-" group-title="Sports",TSN 5 HD
-http://forsat.men:8888/live/Syafii07/Ms737/2600.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2600.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="MU TV" tvg-logo="-" group-title="Sports",MU TV
-http://forsat.men:8888/live/Syafii07/Ms737/400.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/400.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BT Sport ESPN" tvg-logo="-" group-title="Sports",BT Sport ESPN
-http://forsat.men:8888/live/Syafii07/Ms737/399.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/399.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="ESL Indonesia" tvg-logo="-" group-title="Sports",ESL Indonesia
-http://forsat.men:8888/live/Syafii07/Ms737/1988.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1988.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Fight Sports" tvg-logo="-" group-title="Sports",Fight Sports
-http://forsat.men:8888/live/Syafii07/Ms737/784.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/784.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FIGHT BOX" tvg-logo="-" group-title="Sports",FIGHT BOX
-http://forsat.men:8888/live/Syafii07/Ms737/501.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/501.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Box Nation" tvg-logo="-" group-title="Sports",Box Nation
-http://forsat.men:8888/live/Syafii07/Ms737/499.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/499.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="WWE Network" tvg-logo="-" group-title="Sports",WWE Network
-http://forsat.men:8888/live/Syafii07/Ms737/299.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/299.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="UFC FHD" tvg-logo="-" group-title="Sports",UFC FHD
-http://forsat.men:8888/live/Syafii07/Ms737/2401.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2401.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Real Madrid TV" tvg-logo="-" group-title="Sports",Real Madrid TV
-http://forsat.men:8888/live/Syafii07/Ms737/244.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/244.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NBA HD" tvg-logo="-" group-title="Sports",NBA HD
-http://forsat.men:8888/live/Syafii07/Ms737/243.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/243.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Setanta Sport" tvg-logo="-" group-title="Sports",Setanta Sport
-http://forsat.men:8888/live/Syafii07/Ms737/1199.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1199.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Setanta Sports +" tvg-logo="-" group-title="Sports",Setanta Sports +
-http://forsat.men:8888/live/Syafii07/Ms737/2223.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2223.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Premier League HD" tvg-logo="-" group-title="Sports",Sky Sports Premier League HD
-http://forsat.men:8888/live/Syafii07/Ms737/2585.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2585.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports News HD" tvg-logo="-" group-title="Sports",Sky Sports News HD
-http://forsat.men:8888/live/Syafii07/Ms737/2586.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2586.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Mix HD" tvg-logo="-" group-title="Sports",Sky Sports Mix HD
-http://forsat.men:8888/live/Syafii07/Ms737/2587.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2587.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Main Events" tvg-logo="-" group-title="Sports",Sky Sports Main Events
-http://forsat.men:8888/live/Syafii07/Ms737/2588.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2588.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Golf HD" tvg-logo="-" group-title="Sports",Sky Sports Golf HD
-http://forsat.men:8888/live/Syafii07/Ms737/2589.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2589.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports F1 HD" tvg-logo="-" group-title="Sports",Sky Sports F1 HD
-http://forsat.men:8888/live/Syafii07/Ms737/2590.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2590.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Cricket HD" tvg-logo="-" group-title="Sports",Sky Sports Cricket HD
-http://forsat.men:8888/live/Syafii07/Ms737/2591.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2591.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Arena HD" tvg-logo="-" group-title="Sports",Sky Sports Arena HD
-http://forsat.men:8888/live/Syafii07/Ms737/2592.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2592.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sky Sports Action HD" tvg-logo="-" group-title="Sports",Sky Sports Action HD
-http://forsat.men:8888/live/Syafii07/Ms737/2593.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2593.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sports Net World HD" tvg-logo="-" group-title="Sports",Sports Net World HD
-http://forsat.men:8888/live/Syafii07/Ms737/2601.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2601.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sports Net One HD" tvg-logo="-" group-title="Sports",Sports Net One HD
-http://forsat.men:8888/live/Syafii07/Ms737/2602.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2602.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="NFL Channel HD US" tvg-logo="-" group-title="Sports",NFL Channel HD US
-http://forsat.men:8888/live/Syafii07/Ms737/2604.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2604.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Eir Sport 1" tvg-logo="-" group-title="Sports",Eir Sport 1
-http://forsat.men:8888/live/Syafii07/Ms737/2594.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2594.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Eir Sport 2" tvg-logo="-" group-title="Sports",Eir Sport 2
-http://forsat.men:8888/live/Syafii07/Ms737/2595.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2595.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Movie"
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Movies HD" tvg-logo="-" group-title="Movie",FOX Movies HD
-http://forsat.men:8888/live/Syafii07/Ms737/98.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/98.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Movies HD Backup" tvg-logo="-" group-title="Movie",FOX Movies HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/978.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/978.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Movies FHD" tvg-logo="-" group-title="Movie",FOX Movies FHD
-http://forsat.men:8888/live/Syafii07/Ms737/1205.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1205.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Action Movies HD" tvg-logo="-" group-title="Movie",FOX Action Movies HD
-http://forsat.men:8888/live/Syafii07/Ms737/99.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/99.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Action Movies HD Backup" tvg-logo="-" group-title="Movie",FOX Action Movies HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/979.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/979.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Action Movies FHD" tvg-logo="-" group-title="Movie",FOX Action Movies FHD
-http://forsat.men:8888/live/Syafii07/Ms737/1478.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1478.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Action Movies" tvg-logo="-" group-title="Movie",FOX Action Movies
-http://forsat.men:8888/live/Syafii07/Ms737/1125.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1125.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO HD" tvg-logo="-" group-title="Movie",HBO HD
-http://forsat.men:8888/live/Syafii07/Ms737/210.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/210.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO FHD" tvg-logo="-" group-title="Movie",HBO FHD
-http://forsat.men:8888/live/Syafii07/Ms737/1496.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1496.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO Hits HD" tvg-logo="-" group-title="Movie",HBO Hits HD
-http://forsat.men:8888/live/Syafii07/Ms737/591.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/591.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO Family HD" tvg-logo="-" group-title="Movie",HBO Family HD
-http://forsat.men:8888/live/Syafii07/Ms737/592.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/592.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO Signature HD" tvg-logo="-" group-title="Movie",HBO Signature HD
-http://forsat.men:8888/live/Syafii07/Ms737/873.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/873.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="HBO Signature FHD" tvg-logo="-" group-title="Movie",HBO Signature FHD
-http://forsat.men:8888/live/Syafii07/Ms737/1498.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1498.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinemax HD" tvg-logo="-" group-title="Movie",Cinemax HD
-http://forsat.men:8888/live/Syafii07/Ms737/796.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/796.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinemax FHD" tvg-logo="-" group-title="Movie",Cinemax FHD
-http://forsat.men:8888/live/Syafii07/Ms737/2156.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2156.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="Movie",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Cinema World" tvg-logo="-" group-title="Movie",Cinema World
-http://forsat.men:8888/live/Syafii07/Ms737/1194.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1194.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/zYeuqW9.png" group-title="Movie",Cinema World (alt)
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Chinese Movies Legend" tvg-logo="-" group-title="Movie",Star Chinese Movies Legend
-http://forsat.men:8888/live/Syafii07/Ms737/1859.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1859.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="CCM" tvg-logo="-" group-title="Movie",CCM
-http://forsat.men:8888/live/Syafii07/Ms737/2118.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2118.m3u8
 #EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://i.imgur.com/f9JjLMQ.png" group-title="Movie",Celestial Movies (alt)
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Celestial Movies" tvg-logo="-" group-title="Movie",Celestial Movies
-http://forsat.men:8888/live/Syafii07/Ms737/5.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/5.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Premiere" tvg-logo="-" group-title="Movie",Premiere
-http://forsat.men:8888/live/Syafii07/Ms737/2137.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2137.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Family Movies ID" tvg-logo="-" group-title="Movie",FOX Family Movies ID
-http://forsat.men:8888/live/Syafii07/Ms737/100.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/100.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Family Movies EN" tvg-logo="-" group-title="Movie",FOX Family Movies EN
-http://forsat.men:8888/live/Syafii07/Ms737/1493.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1493.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Crime HD" tvg-logo="-" group-title="Movie",FOX Crime HD
-http://forsat.men:8888/live/Syafii07/Ms737/763.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/763.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Crime HD Backup" tvg-logo="-" group-title="Movie",FOX Crime HD Backup
-http://forsat.men:8888/live/Syafii07/Ms737/1483.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1483.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX Life HD" tvg-logo="-" group-title="Movie",FOX Life HD
-http://forsat.men:8888/live/Syafii07/Ms737/94.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/94.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FOX HD" tvg-logo="-" group-title="Movie",FOX HD
-http://forsat.men:8888/live/Syafii07/Ms737/95.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/95.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="FX HD" tvg-logo="-" group-title="Movie",FX HD
-http://forsat.men:8888/live/Syafii07/Ms737/776.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/776.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Diva HD" tvg-logo="-" group-title="Movie",Diva HD
-http://forsat.men:8888/live/Syafii07/Ms737/841.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/841.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Red by HBO HD" tvg-logo="-" group-title="Movie",Red by HBO HD
-http://forsat.men:8888/live/Syafii07/Ms737/874.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/874.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eW5jriK.png" group-title="Movie",IMC
 https://dl.dropbox.com/s/0nn2z871jh2vfxg/imc.m3u8?dl=0
 IASHttpSessionId=SLB242142019082402281920833852&ztecid=ch00000090990000001695&bandwidth=1239209&ispcode=1&timeformat=Lokal&channel=ch00000090990000001695&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwODAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-ID="-" tvg-name="LifeTime" tvg-logo="-" group-title="Movie",LifeTime
-http://forsat.men:8888/live/Syafii07/Ms737/866.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/866.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Warner TV ID HD" tvg-logo="-" group-title="Movie",Warner TV ID HD
-http://forsat.men:8888/live/Syafii07/Ms737/1533.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1533.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Warner TV" tvg-logo="-" group-title="Movie",Warner TV
-http://forsat.men:8888/live/Syafii07/Ms737/865.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/865.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Star Chinese Movies HD" tvg-logo="-" group-title="Movie",Star Chinese Movies HD
-http://forsat.men:8888/live/Syafii07/Ms737/780.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/780.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Blue Ant Extreme" tvg-logo="-" group-title="Movie",Blue Ant Extreme
-http://forsat.men:8888/live/Syafii07/Ms737/811.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/811.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Hits Movie" tvg-logo="-" group-title="Movie",Hits Movie
-http://forsat.men:8888/live/Syafii07/Ms737/957.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/957.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Sinema Indonesia" tvg-logo="-" group-title="Movie",Sinema Indonesia
-http://forsat.men:8888/live/Syafii07/Ms737/1698.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1698.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="J'Go HD" tvg-logo="-" group-title="Movie",J'Go HD
-http://forsat.men:8888/live/Syafii07/Ms737/1487.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1487.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Bioskop Indonesia" tvg-logo="-" group-title="Movie",Bioskop Indonesia
-http://forsat.men:8888/live/Syafii07/Ms737/908.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/908.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S4tAfgm.png" group-title="Movie",Bioskop Indonesia (alt)
 https://dl.dropbox.com/s/3wd86dtevt6n4gw/bioskopindonesia.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="Movie",Flik
 https://dl.dropbox.com/s/pfi49oocgx0k3t9/flik.m3u8?dl=0
 #EXTINF:-1 tvg-ID="-" tvg-name="Flik HD" tvg-logo="-" group-title="Movie",Flik HD
-http://forsat.men:8888/live/Syafii07/Ms737/1497.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1497.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="HITS" tvg-logo="-" group-title="Movie",HITS
-http://forsat.men:8888/live/Syafii07/Ms737/1195.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1195.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Thrill" tvg-logo="-" group-title="Movie",Thrill
-http://forsat.men:8888/live/Syafii07/Ms737/4.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/4.m3u8
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/mQI2gyp.png" group-title="Movie",Thrilll (alt)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="KIX" tvg-logo="-" group-title="Movie",KIX
-http://forsat.men:8888/live/Syafii07/Ms737/8.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/8.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="AXN" tvg-logo="-" group-title="Movie",AXN
-http://forsat.men:8888/live/Syafii07/Ms737/9.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/9.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Star World" tvg-logo="-" group-title="Movie",Star World
-http://forsat.men:8888/live/Syafii07/Ms737/381.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/381.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Zee Bioskop" tvg-logo="-" group-title="Movie",Zee Bioskop
-http://forsat.men:8888/live/Syafii07/Ms737/7.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sVqhAup.png" group-title="Movie",Zee Bioskop (alt)
 http://rr2.dens.tv/s/s32/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDOdcXd.png" group-title="Movie",Galaxy
@@ -748,49 +748,49 @@ http://pockettv.xyz/api/zee.m3u8?c=world
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Kids"
 #EXTINF:-1 tvg-ID="-" tvg-name="Spacetoon" tvg-logo="-" group-title="Kids",Spacetoon
-http://forsat.men:8888/live/Syafii07/Ms737/1541.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1541.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Baby First" tvg-logo="-" group-title="Kids",Baby First
-http://forsat.men:8888/live/Syafii07/Ms737/1204.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1204.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Dunia Anak" tvg-logo="-" group-title="Kids",Dunia Anak
-http://forsat.men:8888/live/Syafii07/Ms737/907.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/907.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Toonmax" tvg-logo="-" group-title="Kids",Toonmax
-http://forsat.men:8888/live/Syafii07/Ms737/1116.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1116.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Disney XD" tvg-logo="-" group-title="Kids",Disney XD
-http://forsat.men:8888/live/Syafii07/Ms737/104.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/104.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Disney US" tvg-logo="-" group-title="Kids",Disney US
-http://forsat.men:8888/live/Syafii07/Ms737/2336.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2336.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Duck TV" tvg-logo="-" group-title="Kids",Duck TV
-http://forsat.men:8888/live/Syafii07/Ms737/1854.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1854.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Nick Toons" tvg-logo="-" group-title="Kids",Nick Toons
-http://forsat.men:8888/live/Syafii07/Ms737/335.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/335.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Nickelodeon ID" tvg-logo="-" group-title="Kids",Nickelodeon ID
-http://forsat.men:8888/live/Syafii07/Ms737/962.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/962.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Nick Jr ID" tvg-logo="-" group-title="Kids",Nick Jr ID
-http://forsat.men:8888/live/Syafii07/Ms737/522.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/522.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Dream Works HD" tvg-logo="-" group-title="Kids",Dream Works HD
-http://forsat.men:8888/live/Syafii07/Ms737/936.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/936.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Disney Channel ID" tvg-logo="-" group-title="Kids",Disney Channel ID
-http://forsat.men:8888/live/Syafii07/Ms737/306.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/306.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network ID HD" tvg-logo="-" group-title="Kids",Cartoon Network ID HD
-http://forsat.men:8888/live/Syafii07/Ms737/680.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/680.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Cartoon Network ID FHD" tvg-logo="-" group-title="Kids",Cartoon Network ID FHD
-http://forsat.men:8888/live/Syafii07/Ms737/1532.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1532.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Boomerang HD" tvg-logo="-" group-title="Kids",Boomerang HD
-http://forsat.men:8888/live/Syafii07/Ms737/305.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/305.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Baby TV" tvg-logo="-" group-title="Kids",Baby TV
-http://forsat.men:8888/live/Syafii07/Ms737/296.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/296.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Nick Jr 2" tvg-logo="-" group-title="Kids",Nick Jr 2
-http://forsat.men:8888/live/Syafii07/Ms737/341.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/341.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Disney Junior" tvg-logo="-" group-title="Kids",Disney Junior
-http://forsat.men:8888/live/Syafii07/Ms737/213.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/213.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Aniplus" tvg-logo="-" group-title="Kids",Aniplus
-http://forsat.men:8888/live/Syafii07/Ms737/2.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Animax" tvg-logo="-" group-title="Kids",Animax
-http://forsat.men:8888/live/Syafii07/Ms737/3.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/3.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Animax Backup" tvg-logo="-" group-title="Kids",Animax Backup
-http://forsat.men:8888/live/Syafii07/Ms737/1196.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1196.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="CBeebies" tvg-logo="-" group-title="Kids",CBeebies
-http://forsat.men:8888/live/Syafii07/Ms737/491.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/491.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gcfFdQB.png" group-title="Kids",NickToons
 http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ecAB5Mp.png" group-title="Kids",Toonmax
@@ -818,105 +818,105 @@ http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Knowledge"
 #EXTINF:-1 tvg-id="afc.id" tvg-logo="https://i.imgur.com/SpUvTmu.png" group-title="Knowledge",Asian Food Channel
-http://forsat.men:8888/live/Syafii07/Ms737/807.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/807.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Channel HD" tvg-logo="-" group-title="Knowledge",National Geographic Channel HD
-http://forsat.men:8888/live/Syafii07/Ms737/96.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/96.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Channel SD" tvg-logo="-" group-title="Knowledge",National Geographic Channel SD
-http://forsat.men:8888/live/Syafii07/Ms737/1504.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1504.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Channel Backup" tvg-logo="-" group-title="Knowledge",National Geographic Channel Backup
-http://forsat.men:8888/live/Syafii07/Ms737/1445.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1445.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Wild HD" tvg-logo="-" group-title="Knowledge",National Geographic Wild HD
-http://forsat.men:8888/live/Syafii07/Ms737/97.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/97.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic Wild Backup" tvg-logo="-" group-title="Knowledge",National Geographic Wild Backup
-http://forsat.men:8888/live/Syafii07/Ms737/1446.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1446.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic People" tvg-logo="-" group-title="Knowledge",National Geographic People
-http://forsat.men:8888/live/Syafii07/Ms737/455.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/455.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="National Geographic People Backup" tvg-logo="-" group-title="Knowledge",National Geographic People Backup
-http://forsat.men:8888/live/Syafii07/Ms737/1447.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1447.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Animal Planet HD" tvg-logo="-" group-title="Knowledge",Animal Planet HD
-http://forsat.men:8888/live/Syafii07/Ms737/358.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/358.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="BBC Earth" tvg-logo="-" group-title="Knowledge",BBC Earth
-http://forsat.men:8888/live/Syafii07/Ms737/385.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/385.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Crime Investigation" tvg-logo="-" group-title="Knowledge",Crime Investigation
-http://forsat.men:8888/live/Syafii07/Ms737/332.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/332.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/jSbJlZh.png" group-title="Knowledge",Crime Investigation [ID]
 http://210.186.80.171:9000/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Agfbih8.png" group-title="Knowledge",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/index.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Channel HD" tvg-logo="-" group-title="Knowledge",Discovery Channel HD
-http://forsat.men:8888/live/Syafii07/Ms737/165.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/165.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Asia" tvg-logo="-" group-title="Knowledge",Discovery Asia
-http://forsat.men:8888/live/Syafii07/Ms737/779.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/779.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Science HD" tvg-logo="-" group-title="Knowledge",Discovery Science HD
-http://forsat.men:8888/live/Syafii07/Ms737/408.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/408.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Shed" tvg-logo="-" group-title="Knowledge",Discovery Shed
-http://forsat.men:8888/live/Syafii07/Ms737/333.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/333.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="Discovery Turbo" tvg-logo="-" group-title="Knowledge",Discovery Turbo
-http://forsat.men:8888/live/Syafii07/Ms737/462.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/462.m3u8
 #EXTINF:-1 tvg-ID="-" tvg-name="History HD" tvg-logo="-" group-title="Knowledge",History HD
-http://forsat.men:8888/live/Syafii07/Ms737/718.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/718.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Korea"
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Korea",TvN Movies
-http://forsat.men:8888/live/Syafii07/Ms737/927.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/927.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Korea",TvN HD
-http://forsat.men:8888/live/Syafii07/Ms737/767.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/767.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lzbcVZt.png" group-title="Korea",SBS IN
-http://forsat.men:8888/live/Syafii07/Ms737/1202.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1202.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",KBS World
-http://forsat.men:8888/live/Syafii07/Ms737/1521.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1521.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",KBS DRAMA
-http://forsat.men:8888/live/Syafii07/Ms737/2630.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2630.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",KBS W
-http://forsat.men:8888/live/Syafii07/Ms737/2634.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2634.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",KBS TV1
-http://forsat.men:8888/live/Syafii07/Ms737/2627.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2627.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",KBS TV2
-http://forsat.men:8888/live/Syafii07/Ms737/2629.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2629.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",K Plus
-http://forsat.men:8888/live/Syafii07/Ms737/18.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/18.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",K DRAMA
-http://forsat.men:8888/live/Syafii07/Ms737/1699.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/1699.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",MBC
-http://forsat.men:8888/live/Syafii07/Ms737/2637.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2637.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",MBC DRAMA
-http://forsat.men:8888/live/Syafii07/Ms737/2638.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2638.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",Sony ONE
-http://forsat.men:8888/live/Syafii07/Ms737/19.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="-" group-title="Korea",S GEM
-http://forsat.men:8888/live/Syafii07/Ms737/770.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/770.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia"
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",TV1
-http://forsat.men:8888/live/Syafii07/Ms737/2262.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2262.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",TV2
-http://forsat.men:8888/live/Syafii07/Ms737/2263.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2263.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",TV3
-http://forsat.men:8888/live/Syafii07/Ms737/2264.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2264.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",TV8
-http://forsat.men:8888/live/Syafii07/Ms737/2333.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2333.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",TV9
-http://forsat.men:8888/live/Syafii07/Ms737/950.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/950.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: BBC Earth
-http://forsat.men:8888/live/Syafii07/Ms737/2379.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2379.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Fox
-http://forsat.men:8888/live/Syafii07/Ms737/2367.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2367.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Fox Life
-http://forsat.men:8888/live/Syafii07/Ms737/2366.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2366.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Fox Action Movies
-http://forsat.men:8888/live/Syafii07/Ms737/2351.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2351.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Fox Family Movies
-http://forsat.men:8888/live/Syafii07/Ms737/2350.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2350.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Fox Movies
-http://forsat.men:8888/live/Syafii07/Ms737/2349.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2349.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Now Chinese Drama
-http://forsat.men:8888/live/Syafii07/Ms737/2360.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Now International
-http://forsat.men:8888/live/Syafii07/Ms737/2361.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2361.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Now TV
-http://forsat.men:8888/live/Syafii07/Ms737/2362.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2362.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Malaysia",MY: Paramount Channel
-http://forsat.men:8888/live/Syafii07/Ms737/2363.m3u8
+http://tvku.live:8888/live/Syafii07/Ms737/2363.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHwBsEb.png?1" group-title="Religi"
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O1HPiv7.png" group-title="Religi",Daai TV
