@@ -162,9 +162,9 @@ http://tvku.live:8888/live/Syafii07/Ms737/52.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="News",Metro TV HD
 http://tvku.live:8888/live/Syafii07/Ms737/1697.m3u8
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.imgur.com/uINlVVj.png" group-title="News",iNews TV
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com?rizkizakaria-INEWS-TV-join-telegram=@iptvondemand
+https://live.rctiplus.id/rctiplus/inews_360p.m3u8
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://i.imgur.com/uINlVVj.png" group-title="News",iNews TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8?rizkizakaria-INEWS-TV-join-telegram=@iptvondemand
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/Z10JtuD.jpg?1" group-title="News",Berita Satu
 http://tvku.live:8888/live/Syafii07/Ms737/136.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="News",Berita Satu
