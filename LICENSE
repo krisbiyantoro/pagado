@@ -306,8 +306,6 @@ http://tvku.live:8888/steve/29PL8X/385
 http://tvku.live:8888/steve/29PL8X/807
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="Variety",HGTV
 http://tvku.live:8888/steve/29PL8X/537
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Food Network TH" tvg-logo="" group-title="Variety",Food Network TH
-http://tvku.live:8888/steve/29PL8X/625
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Variety",Insert
 http://tvku.live:8888/steve/29PL8X/1763
 #EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-name="Waku Waku Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety",Waku Waku Japan HD
@@ -335,15 +333,13 @@ http://tvku.live:8888/steve/29PL8X/352
 http://tvku.live:8888/steve/29PL8X/351
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://ganteng.stream/liga1.png" group-title="Sports",Liga 1 Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png?v=2.0.0.13" group-title="Sports",U SEE Sport
 http://tvku.live:8888/steve/29PL8X/1185
-#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia 2" tvg-logo="https://ganteng.stream/liga1.png" group-title="Sports",Liga 1 Indonesia 2
-http://tvku.live:8888/steve/29PL8X/1719
-#EXTINF:-1 tvg-id="" tvg-name="USEE Sport 2" tvg-logo="https://i.ibb.co/QCTH9tm/usee-sport-2.jpg" group-title="Sports",USEE Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="USEE Sport 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_big.png" group-title="Sports",USEE Sport 2
 http://tvku.live:8888/steve/29PL8X/2408
-#EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="https://i.ibb.co/kXmjWQs/champion-1.jpg" group-title="Sports",Champions TV 1
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="Sports",Champions TV 1
 http://tvku.live:8888/steve/29PL8X/2407
-#EXTINF:-1 tvg-id="" tvg-name="Champions TV 2" tvg-logo="https://i.ibb.co/n3rwXT4/champion-2.jpg" group-title="Sports",Champions TV 2
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_big.png" group-title="Sports",Champions TV 2
 http://tvku.live:8888/steve/29PL8X/2409
 #EXTINF:-1 tvg-id="" tvg-name="Super Tennis" tvg-logo="http://frocus.net/images/logotv/original/super-tennis.jpg" group-title="Sports",Super Tennis
 http://tvku.live:8888/steve/29PL8X/2259
