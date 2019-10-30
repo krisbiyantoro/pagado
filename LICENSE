@@ -44,6 +44,8 @@ http://tvku.live:8888/steve/29PL8X/33
 http://tvku.live:8888/steve/29PL8X/31
 #EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vf-gC1PdiY24JCYdYOP5-gA0ldNiCvpU0lLOa3iuzkpbJBlQ&s" group-title="Lokal",O Channel
 http://tvku.live:8888/steve/29PL8X/1727
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="News",TVRI
+http://tvku.live:8888/steve/29PL8X/36
 #EXTINF:-1 tvg-id="" tvg-name="Bandung TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="Lokal",Bandung TV
 http://tvku.live:8888/steve/29PL8X/1765
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Lokal",Rajawali TV
@@ -66,66 +68,7 @@ http://tvku.live:8888/steve/29PL8X/910
 http://tvku.live:8888/steve/29PL8X/607
 #EXTINF:-1 tvg-id="" tvg-name="Nu Channel" tvg-logo="" group-title="Lokal",Nu Channel
 http://tvku.live:8888/steve/29PL8X/611
-#EXTINF:-1 tvg-id="" tvg-name="TVRI ACEH" tvg-logo="" group-title="Lokal",TVRI ACEH
-http://tvku.live:8888/steve/29PL8X/1733
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BALI" tvg-logo="" group-title="Lokal",TVRI BALI
-http://tvku.live:8888/steve/29PL8X/1745
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BANGKA BELITUNG" tvg-logo="" group-title="Lokal",TVRI BANGKA BELITUNG
-http://tvku.live:8888/steve/29PL8X/1740
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BENGKULU" tvg-logo="" group-title="Lokal",TVRI BENGKULU
-http://tvku.live:8888/steve/29PL8X/1741
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BUDAYA" tvg-logo="" group-title="Lokal",TVRI BUDAYA
-http://tvku.live:8888/steve/29PL8X/1734
-#EXTINF:-1 tvg-id="" tvg-name="TVRI DKI" tvg-logo="" group-title="Lokal",TVRI DKI
-http://tvku.live:8888/steve/29PL8X/1762
-#EXTINF:-1 tvg-id="" tvg-name="TVRI GORONTALO" tvg-logo="" group-title="Lokal",TVRI GORONTALO
-http://tvku.live:8888/steve/29PL8X/1759
-#EXTINF:-1 tvg-id="" tvg-name="TVRI JAMBI" tvg-logo="" group-title="Lokal",TVRI JAMBI
-http://tvku.live:8888/steve/29PL8X/1739
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Tengah" tvg-logo="" group-title="Lokal",TVRI Jawa Tengah
-http://tvku.live:8888/steve/29PL8X/1743
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Timur" tvg-logo="" group-title="Lokal",TVRI Jawa Timur
-http://tvku.live:8888/steve/29PL8X/1744
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Barat" tvg-logo="" group-title="Lokal",TVRI Kalimantan Barat
-http://tvku.live:8888/steve/29PL8X/1749
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Selatan" tvg-logo="" group-title="Lokal",TVRI Kalimantan Selatan
-http://tvku.live:8888/steve/29PL8X/1752
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="" group-title="Lokal",TVRI Kalimantan Tengah
-http://tvku.live:8888/steve/29PL8X/1750
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Timur" tvg-logo="" group-title="Lokal",TVRI Kalimantan Timur
-http://tvku.live:8888/steve/29PL8X/1751
-#EXTINF:-1 tvg-id="" tvg-name="TVRI LAMPUNG" tvg-logo="" group-title="Lokal",TVRI LAMPUNG
-http://tvku.live:8888/steve/29PL8X/1742
-#EXTINF:-1 tvg-id="" tvg-name="TVRI MALUKU" tvg-logo="" group-title="Lokal",TVRI MALUKU
-http://tvku.live:8888/steve/29PL8X/1758
-#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL BANDUNG" tvg-logo="" group-title="Lokal",TVRI NASIONAL BANDUNG
-http://tvku.live:8888/steve/29PL8X/1761
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Tenggara Barat" tvg-logo="" group-title="Lokal",TVRI Nusa Tenggara Barat
-http://tvku.live:8888/steve/29PL8X/1747
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Tenggara Timur" tvg-logo="" group-title="Lokal",TVRI Nusa Tenggara Timur
-http://tvku.live:8888/steve/29PL8X/1748
-#EXTINF:-1 tvg-id="" tvg-name="TVRI PAPUA" tvg-logo="" group-title="Lokal",TVRI PAPUA
-http://tvku.live:8888/steve/29PL8X/1760
-#EXTINF:-1 tvg-id="" tvg-name="TVRI RIAU" tvg-logo="" group-title="Lokal",TVRI RIAU
-http://tvku.live:8888/steve/29PL8X/1738
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Barat" tvg-logo="" group-title="Lokal",TVRI Sulawesi Barat
-http://tvku.live:8888/steve/29PL8X/1753
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="" group-title="Lokal",TVRI Sulawesi Selatan
-http://tvku.live:8888/steve/29PL8X/1754
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tengah" tvg-logo="" group-title="Lokal",TVRI Sulawesi Tengah
-http://tvku.live:8888/steve/29PL8X/1757
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tenggara" tvg-logo="" group-title="Lokal",TVRI Sulawesi Tenggara
-http://tvku.live:8888/steve/29PL8X/1756
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Utara" tvg-logo="" group-title="Lokal",TVRI Sulawesi Utara
-http://tvku.live:8888/steve/29PL8X/1755
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Barat" tvg-logo="" group-title="Lokal",TVRI Sumatera Barat
-http://tvku.live:8888/steve/29PL8X/1736
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Selatan" tvg-logo="" group-title="Lokal",TVRI Sumatera Selatan
-http://tvku.live:8888/steve/29PL8X/1737
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Utara" tvg-logo="" group-title="Lokal",TVRI Sumatera Utara
-http://tvku.live:8888/steve/29PL8X/1735
-#EXTINF:-1 tvg-id="" tvg-name="TVRI YOGYAKARTA" tvg-logo="" group-title="Lokal",TVRI YOGYAKARTA
-http://tvku.live:8888/steve/29PL8X/1746
+
 
 #EXTINF:-1 tvg-id="FOXMovies.id" tvg-name="FOX Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies HD
 http://tvku.live:8888/steve/29PL8X/98
@@ -333,7 +276,7 @@ http://tvku.live:8888/steve/29PL8X/352
 http://tvku.live:8888/steve/29PL8X/351
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png?v=2.0.0.13" group-title="Sports",U SEE Sport
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png?v=2.0.0.13" group-title="Sports",USEE Sport
 http://tvku.live:8888/steve/29PL8X/1185
 #EXTINF:-1 tvg-id="" tvg-name="USEE Sport 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_big.png" group-title="Sports",USEE Sport 2
 http://tvku.live:8888/steve/29PL8X/2408
@@ -341,12 +284,6 @@ http://tvku.live:8888/steve/29PL8X/2408
 http://tvku.live:8888/steve/29PL8X/2407
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_big.png" group-title="Sports",Champions TV 2
 http://tvku.live:8888/steve/29PL8X/2409
-#EXTINF:-1 tvg-id="" tvg-name="Super Tennis" tvg-logo="http://frocus.net/images/logotv/original/super-tennis.jpg" group-title="Sports",Super Tennis
-http://tvku.live:8888/steve/29PL8X/2259
-#EXTINF:-1 tvg-id="" tvg-name="Piala Indonesia" tvg-logo="" group-title="Sports",Piala Indonesia
-http://tvku.live:8888/steve/29PL8X/2150
-#EXTINF:-1 tvg-id="" tvg-name="AFF Futsal Championship 2019" tvg-logo="" group-title="Sports",AFF Futsal Championship 2019
-http://tvku.live:8888/steve/29PL8X/3104
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
 http://tvku.live:8888/steve/29PL8X/728
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
@@ -852,41 +789,41 @@ http://tvku.live:8888/steve/29PL8X/3468
 #EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Cricket FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Cricket FHD
 http://tvku.live:8888/steve/29PL8X/3469
 
-#EXTINF:-1 group-title="News",INEWS TV SD
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png"group-title="News",INEWS TV SD
 https://live.rctiplus.id/rctiplus/inews_360p.m3u8
-#EXTINF:-1 group-title="News",INEWS TV HD
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png"group-title="News",INEWS TV HD
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="News",TVRI
 http://tvku.live:8888/steve/29PL8X/36
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News",TV ONE
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="News",TV ONE
 http://tvku.live:8888/steve/29PL8X/29
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="News",Kompas TV
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="News",Kompas TV
 http://tvku.live:8888/steve/29PL8X/30
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="News",Metro TV FHD
 http://tvku.live:8888/steve/29PL8X/1697
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="News",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://www.metrotvnews.com/asset/images/main/metrotv_white.png" group-title="News",Metro TV
 http://tvku.live:8888/steve/29PL8X/52
-#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="" group-title="News",Channel News Asia
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png" group-title="News",Channel News Asia
 http://tvku.live:8888/steve/29PL8X/1191
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="" group-title="News",CNBC Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png" group-title="News",CNBC Indonesia
 http://tvku.live:8888/steve/29PL8X/1512
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="News",CNN Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="News",CNN Indonesia
 http://tvku.live:8888/steve/29PL8X/44
-#EXTINF:-1 tvg-id="" tvg-name="CNN Int" tvg-logo="" group-title="News",CNN Int
+#EXTINF:-1 tvg-id="" tvg-name="CNN Int" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="News",CNN Int
 http://tvku.live:8888/steve/29PL8X/1200
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu News" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="News",Berita Satu News
 http://tvku.live:8888/steve/29PL8X/136
 #EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-ASIA-670x300.jpg" group-title="News",DW TV Asia
 http://tvku.live:8888/steve/29PL8X/205
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV Asia" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/jp-bloomberg-tv-asia.jpg" group-title="News",Bloomberg TV Asia
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV Asia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" group-title="News",Bloomberg TV Asia
 http://tvku.live:8888/steve/29PL8X/137
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera EN" tvg-logo="http://dens.tv/images/channel-logo/56.jpg" group-title="News",Aljazeera EN
 http://tvku.live:8888/steve/29PL8X/89
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" group-title="News",Bloomberg
 http://tvku.live:8888/steve/29PL8X/788
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="News",France 24
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://www.mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="News",France 24
 http://tvku.live:8888/steve/29PL8X/787
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="" group-title="News",BBC World News HD
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World News HD
 http://tvku.live:8888/steve/29PL8X/789
 
 
