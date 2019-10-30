@@ -284,11 +284,11 @@ http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/455
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1447
 #EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/History_logo_2008.png/revision/latest?cb=20091117122440" group-title="Knowledge",History HD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/718
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://www.cutcabletoday.com/wp-content/uploads/2016/05/animal-planet-loo.jpg" group-title="Knowledge",Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge",Animal Planet HD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/358
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel HD" tvg-logo="http://cdn.marketplaceimages.windowsphone.com/v8/images/c6cf7418-7242-4092-a55a-28c7dd336f40?imageType=ws_icon_large" group-title="Knowledge",Discovery Channel HD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/165
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="" group-title="Knowledge",Discovery Asia
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="Knowledge",Discovery Asia
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/779
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Discovery_Science_HD.png/revision/latest?cb=20161213133552" group-title="Knowledge",Discovery Science HD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/408
@@ -298,7 +298,7 @@ http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/333
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/462
 #EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/crime-investigation/logo/large.jpg" group-title="Knowledge",Crime Investigation
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/332
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://cms.exchange4media.com/files/article/article_extra_large_image/1501052700_eRNRXw_69831.jpg" group-title="Knowledge",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg" group-title="Knowledge",BBC Earth
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/385
 
 
@@ -312,18 +312,18 @@ http://tvku.live:8888/AgusMuliadi/
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1763
 #EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-name="Waku Waku Japan HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="Variety",Waku Waku Japan HD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/717
-#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="E!" tvg-logo="https://www.bottlerocketstudios.com/wp-content/uploads/2016/08/E-Network-Logo.png" group-title="Variety",E!
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="E!" tvg-logo="https://mncvision.id/userfiles/image/channel/E!_entertainment_150.png" group-title="Variety",E!
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/490
 4Pauhwj7qZ/625
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="Variety",Fashion TV
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/280
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" group-title="Variety",DMAX
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/483
-#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="" group-title="Variety",FMN
+#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-title="Variety",FMN
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/2138
 #EXTINF:-1 tvg-id="" tvg-name="Monde LifeStyle" tvg-logo="" group-title="Variety",Monde LifeStyle
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/794
-#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="Variety",NHK World Japan
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="https://mncvision.id/userfiles/image/channel/nhk_150.png" group-title="Variety",NHK World Japan
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/785
 #EXTINF:-1 tvg-id="" tvg-name="TV 5 Monde Asie" tvg-logo="" group-title="Variety",TV 5 Monde Asie
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/786
