@@ -22,7 +22,7 @@ https://live.rctiplus.id/rctiplus/gtv_360p.m3u8
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Lokal",GLOBAL TV Backup
 http://id6.indostreamingtv.com:80/live/tv1/index.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUqcwNquBtc37XpPlvxmVUO2vL6v6WpBR3nzHS2YVP4nPPF3ozA&s" group-title="Lokal",Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYxIFaJKXRRlTd4pc8P0wHnlX6Q_Shs8SA6Ahe6LV2eW3wgmI2fw&s" group-title="Lokal",Trans TV
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/34
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUqcwNquBtc37XpPlvxmVUO2vL6v6WpBR3nzHS2YVP4nPPF3ozA&s" group-title="Lokal",Trans TV FHD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/929
