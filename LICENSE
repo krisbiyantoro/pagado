@@ -4,31 +4,31 @@
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/24
 #EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfPzSv48wtoTIqcPle6PZTp_-4TqgjTEtZOgSDJlK3l6l5wmx&s" group-title="Lokal",NET TV FHD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/78
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTIHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5DmaZHnsByqmOaIErwG-D4TDm3IDHtuGOka5fJKuZi8Bi8a6F&s" group-title="Lokal",RCTI SD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTIHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI SD
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTIHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5DmaZHnsByqmOaIErwG-D4TDm3IDHtuGOka5fJKuZi8Bi8a6F&s" group-title="Lokal",RCTI HD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTIHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI HD
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTIHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5DmaZHnsByqmOaIErwG-D4TDm3IDHtuGOka5fJKuZi8Bi8a6F&s" group-title="Lokal",RCTI Backup
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTIHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI Backup
 http://id6.indostreamingtv.com:80/live/rcti/index.m3u8
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNC TV HD
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC TV HD
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNC TV HD
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC TV HD
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNC TV HD backup
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC TV HD backup
 http://id6.indostreamingtv.com:80/live/mnctv/index.m3u8
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Lokal",GLOBAL TV SD
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GLOBAL TV SD
 https://live.rctiplus.id/rctiplus/gtv_360p.m3u8
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Lokal",GLOBAL TV HD
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GLOBAL TV HD
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Lokal",GLOBAL TV Backup
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="Global TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GLOBAL TV Backup
 http://id6.indostreamingtv.com:80/live/tv1/index.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYxIFaJKXRRlTd4pc8P0wHnlX6Q_Shs8SA6Ahe6LV2eW3wgmI2fw&s" group-title="Lokal",Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Lokal",Trans TV
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/34
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUqcwNquBtc37XpPlvxmVUO2vL6v6WpBR3nzHS2YVP4nPPF3ozA&s" group-title="Lokal",Trans TV FHD
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Lokal",Trans TV FHD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/929
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/04/26/5c0b8b8c-08bd-4b70-ab17-9fbcd4d378eb_43.jpg?w=780&q=90" group-title="Lokal",Trans 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Lokal",Trans 7
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/35
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/04/26/5c0b8b8c-08bd-4b70-ab17-9fbcd4d378eb_43.jpg?w=780&q=90" group-title="Lokal",Trans 7 FHD
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Lokal",Trans 7 FHD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/930
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Lokal",SCTV
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/32
