@@ -30,15 +30,15 @@ http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/929
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/35
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/04/26/5c0b8b8c-08bd-4b70-ab17-9fbcd4d378eb_43.jpg?w=780&q=90" group-title="Lokal",Trans 7 FHD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/930
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Lokal",SCTV
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/32
-#EXTINF:-1 tvg-id="" tvg-name="SCTV UHF" tvg-logo="" group-title="Lokal",SCTV UHF
+#EXTINF:-1 tvg-id="" tvg-name="SCTV UHF" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Lokal",SCTV UHF
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/3332
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV FHD" tvg-logo="" group-title="Lokal",SCTV FHD
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV FHD" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Lokal",SCTV FHD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/931
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="" group-title="Lokal",Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Lokal",Indosiar
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1845
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Lokal",Indosiar HD
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://www.indosiar.com/assets/favicon.png" group-title="Lokal",Indosiar HD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/33
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Lokal",ANTV
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/31
@@ -133,7 +133,7 @@ http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/98
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/978
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies FHD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies FHD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1205
-#EXTINF:-1 tvg-id="" tvg-name="FOX Movies SD" tvg-logo="" group-title="Movie",FOX Movies SD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies SD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies SD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/3333
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX Action Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="Movie",FOX Action Movies HD
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/99
