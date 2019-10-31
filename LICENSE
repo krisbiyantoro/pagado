@@ -179,6 +179,8 @@ http://tvku.live:8888/steve/29PL8X/3479
 http://tvku.live:8888/steve/29PL8X/680
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network ID FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids",Cartoon Network ID FHD
 http://tvku.live:8888/steve/29PL8X/1532
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon ID
+http://tvku.live:8888/steve/29PL8X/962
 #EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="Kids",Spacetoon
 http://tvku.live:8888/steve/29PL8X/1541
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="Kids",Baby First
