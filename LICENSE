@@ -44,7 +44,7 @@ http://tvku.live:8888/steve/29PL8X/33
 http://tvku.live:8888/steve/29PL8X/31
 #EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0vf-gC1PdiY24JCYdYOP5-gA0ldNiCvpU0lLOa3iuzkpbJBlQ&s" group-title="Lokal",O Channel
 http://tvku.live:8888/steve/29PL8X/1727
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="News",TVRI
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="Lokal",TVRI
 http://tvku.live:8888/steve/29PL8X/36
 #EXTINF:-1 tvg-id="" tvg-name="Bandung TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="Lokal",Bandung TV
 http://tvku.live:8888/steve/29PL8X/1765
@@ -446,8 +446,6 @@ http://tvku.live:8888/steve/29PL8X/224
 http://tvku.live:8888/steve/29PL8X/1199
 #EXTINF:-1 tvg-id="" tvg-name="Setanta Sports +" tvg-logo="https://www.arax.md/assets/channels/227.png" group-title="Sports",Setanta Sports +
 http://tvku.live:8888/steve/29PL8X/2223
-#EXTINF:-1 tvg-id="" tvg-name="ESPN News" tvg-logo="http://a.espncdn.com/prod/assets/watchespn/appletv/images/channels-carousel/espnews.png" group-title="News",ESPN News
-http://tvku.live:8888/steve/29PL8X/2221
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 1 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301657_Sky_Sport_Bundesliga_1_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 1 HD 1080P
 http://tvku.live:8888/steve/29PL8X/2720
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 10 HD 1080P" tvg-logo="https://forum.team-mediaportal.com/download/2017/11/301666_Sky_Sport_Bundesliga_10_HD.png" group-title="Sports",DE: Sky Sport Bundesliga 10 HD 1080P
