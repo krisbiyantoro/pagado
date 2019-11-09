@@ -1066,7 +1066,7 @@ http://tvku.live:8888/steve/29PL8X/2873
 ########## SERVER ALT ##########
 #EXTINF:-1 tvg-ID="" tvg-name="NetTV.id" group-title="Server ALT" tvg-logo="https://macan.live/img/net.png", NET.
 https://delivery.macan.live/stream/id_nettv/index.m3u8?token=dTNAnKin
-#EXTINF:-1 tvg-ID="" tvg-name="RCTI.id" group-title="Server ALT" tvg-logo="https://macan.live/img/rcti.png", RCTI
+#EXTINF:-1 tvg-ID="" tvg-name="RCTI.id" group-title="Server ALT" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png", RCTI
 https://delivery.macan.live/stream/id_rcti/index.m3u8?token=dTNAnKin
 #EXTINF:-1 tvg-ID="" tvg-name="MNCTV.id" group-title="Server ALT" tvg-logo="https://macan.live/img/mnctv.png", MNCTV
 https://delivery.macan.live/stream/id_mnctv/index.m3u8?token=dTNAnKin
