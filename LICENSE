@@ -148,7 +148,7 @@ http://tvku.live:8888/steve/29PL8X/7
 
 ########## KIDS CHANNELS ##########
 
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="KIDS CHANNELS",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="Disney Junior" tvg-logo="https://www.mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS CHANNELS",Disney Junior
 http://tvku.live:8888/steve/29PL8X/213
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="KIDS CHANNELS",Nickelodeon ID
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="KIDS CHANNELS",Nick Jr ID
@@ -243,63 +243,63 @@ http://tvku.live:8888/steve/29PL8X/789
 http://tvku.live:8888/steve/29PL8X/36
 #EXTINF:-1 tvg-id="" tvg-name="TVRI ACEH" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="TVRI",TVRI ACEH
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1733
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BALI" tvg-logo="" group-title="TVRI",TVRI BALI
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BALI" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/BALI.png" group-title="TVRI",TVRI BALI
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1745
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BANGKA BELITUNG" tvg-logo="" group-title="TVRI",TVRI BANGKA BELITUNG
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BANGKA BELITUNG" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/BANGKA%20BELITUNG.png" group-title="TVRI",TVRI BANGKA BELITUNG
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1740
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BENGKULU" tvg-logo="" group-title="TVRI",TVRI BENGKULU
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BENGKULU" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/BENGKULU.png" group-title="TVRI",TVRI BENGKULU
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1741
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BUDAYA" tvg-logo="" group-title="TVRI",TVRI BUDAYA
+#EXTINF:-1 tvg-id="" tvg-name="TVRI BUDAYA" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/tvrilogo.png" group-title="TVRI",TVRI BUDAYA
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1734
-#EXTINF:-1 tvg-id="" tvg-name="TVRI DKI" tvg-logo="" group-title="TVRI",TVRI DKI
+#EXTINF:-1 tvg-id="" tvg-name="TVRI DKI" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png" group-title="TVRI",TVRI DKI
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1762
-#EXTINF:-1 tvg-id="" tvg-name="TVRI GORONTALO" tvg-logo="" group-title="TVRI",TVRI GORONTALO
+#EXTINF:-1 tvg-id="" tvg-name="TVRI GORONTALO" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/GORONTALO.png" group-title="TVRI",TVRI GORONTALO
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1759
-#EXTINF:-1 tvg-id="" tvg-name="TVRI JAMBI" tvg-logo="" group-title="TVRI",TVRI JAMBI
+#EXTINF:-1 tvg-id="" tvg-name="TVRI JAMBI" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAMBI.png" group-title="TVRI",TVRI JAMBI
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1739
-#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL BANDUNG" tvg-logo="https://pbs.twimg.com/profile_images/1111618951937552384/-CQaER5y_400x400.png" group-title="TVRI",TVRI Jawa Barat
+#EXTINF:-1 tvg-id="" tvg-name="TVRI NASIONAL BANDUNG" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20BARAT.png" group-title="TVRI",TVRI Jawa Barat
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1761
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Tengah" tvg-logo="" group-title="TVRI",TVRI Jawa Tengah
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Tengah" tvg-logo=""http://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TENGAH.png group-title="TVRI",TVRI Jawa Tengah
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1743
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Timur" tvg-logo="" group-title="TVRI",TVRI Jawa Timur
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Jawa Timur" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TIMUR.png" group-title="TVRI",TVRI Jawa Timur
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1744
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Barat" tvg-logo="" group-title="TVRI",TVRI Kalimantan Barat
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Barat" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20BARAT.png" group-title="TVRI",TVRI Kalimantan Barat
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1749
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Selatan" tvg-logo="" group-title="TVRI",TVRI Kalimantan Selatan
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Selatan" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20SELATAN.png" group-title="TVRI",TVRI Kalimantan Selatan
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1752
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="" group-title="TVRI",TVRI Kalimantan Tengah
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Tengah" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TENGAH.png" group-title="TVRI",TVRI Kalimantan Tengah
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1750
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Timur" tvg-logo="" group-title="TVRI",TVRI Kalimantan Timur
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kalimantan Timur" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TIMUR.png" group-title="TVRI",TVRI Kalimantan Timur
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1751
-#EXTINF:-1 tvg-id="" tvg-name="TVRI LAMPUNG" tvg-logo="" group-title="TVRI",TVRI LAMPUNG
+#EXTINF:-1 tvg-id="" tvg-name="TVRI LAMPUNG" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/LAMPUNG.png" group-title="TVRI",TVRI LAMPUNG
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1742
-#EXTINF:-1 tvg-id="" tvg-name="TVRI MALUKU" tvg-logo="" group-title="TVRI",TVRI MALUKU
+#EXTINF:-1 tvg-id="" tvg-name="TVRI MALUKU" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/MALUKU.png" group-title="TVRI",TVRI MALUKU
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1758
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Tenggara Barat" tvg-logo="" group-title="TVRI",TVRI Nusa Tenggara Barat
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Tenggara Barat" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/NTB.png" group-title="TVRI",TVRI Nusa Tenggara Barat
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1747
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Tenggara Timur" tvg-logo="" group-title="TVRI",TVRI Nusa Tenggara Timur
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Nusa Tenggara Timur" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/NTT.png" group-title="TVRI",TVRI Nusa Tenggara Timur
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1748
-#EXTINF:-1 tvg-id="" tvg-name="TVRI PAPUA" tvg-logo="" group-title="TVRI",TVRI PAPUA
+#EXTINF:-1 tvg-id="" tvg-name="TVRI PAPUA" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/PAPUA.png" group-title="TVRI",TVRI PAPUA
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1760
-#EXTINF:-1 tvg-id="" tvg-name="TVRI RIAU" tvg-logo="" group-title="TVRI",TVRI RIAU
+#EXTINF:-1 tvg-id="" tvg-name="TVRI RIAU" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/RIAU.png" group-title="TVRI",TVRI RIAU
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1738
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Barat" tvg-logo="" group-title="TVRI",TVRI Sulawesi Barat
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Barat" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20BARAT.png" group-title="TVRI",TVRI Sulawesi Barat
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1753
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="" group-title="TVRI",TVRI Sulawesi Selatan
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Selatan" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20SELATAN.png" group-title="TVRI",TVRI Sulawesi Selatan
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1754
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tengah" tvg-logo="" group-title="TVRI",TVRI Sulawesi Tengah
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tengah" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGAH.png" group-title="TVRI",TVRI Sulawesi Tengah
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1757
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tenggara" tvg-logo="" group-title="TVRI",TVRI Sulawesi Tenggara
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Tenggara" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGGARA.png" group-title="TVRI",TVRI Sulawesi Tenggara
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1756
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Utara" tvg-logo="" group-title="TVRI",TVRI Sulawesi Utara
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sulawesi Utara" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20UTARA.png" group-title="TVRI",TVRI Sulawesi Utara
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1755
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Barat" tvg-logo="" group-title="TVRI",TVRI Sumatera Barat
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Barat" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20BARAT.png" group-title="TVRI",TVRI Sumatera Barat
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1736
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Selatan" tvg-logo="" group-title="TVRI",TVRI Sumatera Selatan
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Selatan" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20SELATAN.png" group-title="TVRI",TVRI Sumatera Selatan
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1737
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Utara" tvg-logo="" group-title="TVRI",TVRI Sumatera Utara
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sumatera Utara" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20UTARA.png" group-title="TVRI",TVRI Sumatera Utara
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1735
-#EXTINF:-1 tvg-id="" tvg-name="TVRI YOGYAKARTA" tvg-logo="" group-title="TVRI",TVRI YOGYAKARTA
+#EXTINF:-1 tvg-id="" tvg-name="TVRI YOGYAKARTA" tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/YOGYAKARTA.png" group-title="TVRI",TVRI YOGYAKARTA
 http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/1746
 
 
@@ -341,6 +341,8 @@ http://tvku.live:8888/steve/29PL8X/385
 
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="AFC HD" tvg-logo="https://ddeebllgfqvx7.cloudfront.net/favicon/apple-touch-icon.png" group-title="VARIETY CHANNELS",AFC HD
 http://tvku.live:8888/steve/29PL8X/807
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="VARIETY CHANNELS",Blue Ant Entertainment
+http://tvku.live:8888/steve/29PL8X/1506
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" group-title="VARIETY CHANNELS",HGTV
 http://tvku.live:8888/steve/29PL8X/537
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="VARIETY CHANNELS",Insert
@@ -349,7 +351,6 @@ http://tvku.live:8888/steve/29PL8X/1763
 http://tvku.live:8888/steve/29PL8X/717
 #EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="E!" tvg-logo="https://mncvision.id/userfiles/image/channel/E!_entertainment_150.png" group-title="VARIETY CHANNELS",E!
 http://tvku.live:8888/steve/29PL8X/490
-4Pauhwj7qZ/625
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" group-title="VARIETY CHANNELS",Fashion TV
 http://tvku.live:8888/steve/29PL8X/280
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" group-title="VARIETY CHANNELS",DMAX
@@ -374,12 +375,20 @@ http://tvku.live:8888/steve/29PL8X/351
 
 #EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png?v=2.0.0.13" group-title="Sports",USEE Sport
 http://tvku.live:8888/steve/29PL8X/1185
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_big.png?v=2.0.0.13" group-title="SPORTS", Usee sport HD
+https://dl.dropbox.com/s/tqi79tjnbz5lamq/usee%201.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="USEE Sport 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_big.png" group-title="Sports",USEE Sport 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_big.png" group-title="SPORTS", Usee sport 2 HD
+https://dl.dropbox.com/s/7l3ux95sdwmo8r5/usee2.m3u8?dl=0
 http://tvku.live:8888/steve/29PL8X/2408
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="Sports",Champions TV 1
 http://tvku.live:8888/steve/29PL8X/2407
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_big.png" group-title="SPORTS", Champions TV 1 HD
+https://dl.dropbox.com/s/ix25yd8h8h9u887/champions1.m3u8?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Champions TV 2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_big.png" group-title="Sports",Champions TV 2
 http://tvku.live:8888/steve/29PL8X/2409
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_big.png" group-title="SPORTS", Champions TV 2 HD
+https://dl.dropbox.com/s/6vrv6280uhispnv/Champions2.m3u8?dl=0
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
 http://tvku.live:8888/steve/29PL8X/728
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
@@ -530,8 +539,6 @@ http://tvku.live:8888/steve/29PL8X/499
 http://tvku.live:8888/steve/29PL8X/299
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="https://i2.cdscdn.com/pdt2/8/8/0/1/700x700/auc3663439084880/rw/sticker-autocollant-foot-real-madrid-dimensions.jpg" group-title="Sports",Real Madrid TV
 http://tvku.live:8888/steve/29PL8X/244
-#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Variety",Blue Ant Entertainment
-http://tvku.live:8888/steve/29PL8X/1506
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="Sports",NBA TV HD
 http://tvku.live:8888/steve/29PL8X/3099
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD US" tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" group-title="Sports",NBA TV HD US
@@ -760,8 +767,6 @@ http://tvku.live:8888/steve/29PL8X/2975
 http://tvku.live:8888/steve/29PL8X/2974
 #EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="" group-title="Sports",PT: Eleven Sports 6 HD
 http://tvku.live:8888/steve/29PL8X/2973
-#EXTINF:-1 tvg-id="" tvg-name="Ted" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ExgYTRafm4kFRwHp2jH6C23Yl4.jpg" group-title="Movie On-Demand: T",Ted
-http://tvku.live:8888/movie/steve/29PL8X/2981.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Cosmote Sport 1 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065495&t=1536151167206" group-title="Sports",Cosmote Sport 1 HD
 http://tvku.live:8888/steve/29PL8X/3087
 #EXTINF:-1 tvg-id="" tvg-name="Cosmote Sport 2 HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065483&t=1536151166635" group-title="Sports",Cosmote Sport 2 HD
@@ -882,228 +887,6 @@ http://tvku.live:8888/steve/29PL8X/3467
 http://tvku.live:8888/steve/29PL8X/3468
 #EXTINF:-1 tvg-id="" tvg-name="UK Sport Backup: Sky Sports Cricket FHD" tvg-logo="" group-title="Sports",UK Sport Backup: Sky Sports Cricket FHD
 http://tvku.live:8888/steve/29PL8X/3469
-
-
-########## USEE TV CHANNELS ##########
-
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/useeinfo.png" group-title="usee", useeinfo
-https://akus.uk.to/live/kei/mdfgkmds/usee/useeinfo/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/useephoto.png" group-title="usee", useephoto
-https://akus.uk.to/live/kei/mdfgkmds/usee/useephoto/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/useeprime.png" group-title="usee", useeprime
-https://akus.uk.to/live/kei/mdfgkmds/usee/useeprime/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/useesport.png" group-title="usee", useesport
-https://akus.uk.to/live/kei/mdfgkmds/usee/useesport/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/useesports2.png" group-title="usee", useesports2
-https://akus.uk.to/live/kei/mdfgkmds/usee/useesports2/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/antv.png" group-title="usee", antv
-https://akus.uk.to/live/kei/mdfgkmds/usee/antv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/indosiar.png" group-title="usee", indosiar
-https://akus.uk.to/live/kei/mdfgkmds/usee/indosiar/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/metrotv.png" group-title="usee", metrotv
-https://akus.uk.to/live/kei/mdfgkmds/usee/metrotv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/net.png" group-title="usee", net
-https://akus.uk.to/live/kei/mdfgkmds/usee/net/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/rtv.png" group-title="usee", rtv
-https://akus.uk.to/live/kei/mdfgkmds/usee/rtv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/sctv.png" group-title="usee", sctv
-https://akus.uk.to/live/kei/mdfgkmds/usee/sctv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/trans7.png" group-title="usee", trans7
-https://akus.uk.to/live/kei/mdfgkmds/usee/trans7/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/transtv.png" group-title="usee", transtv
-https://akus.uk.to/live/kei/mdfgkmds/usee/transtv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/tvone.png" group-title="usee", tvone
-https://akus.uk.to/live/kei/mdfgkmds/usee/tvone/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/kompastv.png" group-title="usee", kompastv
-https://akus.uk.to/live/kei/mdfgkmds/usee/kompastv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/antara.png" group-title="usee", antara
-https://akus.uk.to/live/kei/mdfgkmds/usee/antara/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/idx.png" group-title="usee", idx
-https://akus.uk.to/live/kei/mdfgkmds/usee/idx/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/rrinet.png" group-title="usee", rrinet
-https://akus.uk.to/live/kei/mdfgkmds/usee/rrinet/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/tvri.png" group-title="usee", tvri
-https://akus.uk.to/live/kei/mdfgkmds/usee/tvri/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/bein1.png" group-title="usee", bein1
-https://akus.uk.to/live/kei/mdfgkmds/usee/bein1/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/bein2.png" group-title="usee", bein2
-https://akus.uk.to/live/kei/mdfgkmds/usee/bein2/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/rugby.png" group-title="usee", rugby
-https://akus.uk.to/live/kei/mdfgkmds/usee/rugby/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/champion1.png" group-title="usee", champion1
-https://akus.uk.to/live/kei/mdfgkmds/usee/champion1/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/champion2.png" group-title="usee", champion2
-https://akus.uk.to/live/kei/mdfgkmds/usee/champion2/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/foxsport1.png" group-title="usee", foxsport1
-https://akus.uk.to/live/kei/mdfgkmds/usee/foxsport1/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/foxsport2.png" group-title="usee", foxsport2
-https://akus.uk.to/live/kei/mdfgkmds/usee/foxsport2/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/foxsport3.png" group-title="usee", foxsport3
-https://akus.uk.to/live/kei/mdfgkmds/usee/foxsport3/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/natgeo.png" group-title="usee", natgeo
-https://akus.uk.to/live/kei/mdfgkmds/usee/natgeo/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/natgeopeople.png" group-title="usee", natgeopeople
-https://akus.uk.to/live/kei/mdfgkmds/usee/natgeopeople/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/natgeowild.png" group-title="usee", natgeowild
-https://akus.uk.to/live/kei/mdfgkmds/usee/natgeowild/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/disco.png" group-title="usee", disco
-https://akus.uk.to/live/kei/mdfgkmds/usee/disco/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/idku.png" group-title="usee", idku
-https://akus.uk.to/live/kei/mdfgkmds/usee/idku/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/jitv.png" group-title="usee", jitv
-https://akus.uk.to/live/kei/mdfgkmds/usee/jitv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/babyfirst.png" group-title="usee", babyfirst
-https://akus.uk.to/live/kei/mdfgkmds/usee/babyfirst/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/balitv.png" group-title="usee", balitv
-https://akus.uk.to/live/kei/mdfgkmds/usee/balitv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/beritasatu.png" group-title="usee", beritasatu
-https://akus.uk.to/live/kei/mdfgkmds/usee/beritasatu/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/celebestv.png" group-title="usee", celebestv
-https://akus.uk.to/live/kei/mdfgkmds/usee/celebestv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/cdrama.png" group-title="usee", cdrama
-https://akus.uk.to/live/kei/mdfgkmds/usee/cdrama/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/centertainment.png" group-title="usee", centertainment
-https://akus.uk.to/live/kei/mdfgkmds/usee/centertainment/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/ducktv.png" group-title="usee", ducktv
-https://akus.uk.to/live/kei/mdfgkmds/usee/ducktv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/dunialain.png" group-title="usee", dunialain
-https://akus.uk.to/live/kei/mdfgkmds/usee/dunialain/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/dwtv.png" group-title="usee", dwtv
-https://akus.uk.to/live/kei/mdfgkmds/usee/dwtv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/fajartv.png" group-title="usee", fajartv
-https://akus.uk.to/live/kei/mdfgkmds/usee/fajartv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/france24.png" group-title="usee", france24
-https://akus.uk.to/live/kei/mdfgkmds/usee/france24/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/horee.png" group-title="usee", horee
-https://akus.uk.to/live/kei/mdfgkmds/usee/horee/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/imc.png" group-title="usee", imc
-https://akus.uk.to/live/kei/mdfgkmds/usee/imc/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/jaktv.png" group-title="usee", jaktv
-https://akus.uk.to/live/kei/mdfgkmds/usee/jaktv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/jtv.png" group-title="usee", jtv
-https://akus.uk.to/live/kei/mdfgkmds/usee/jtv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/mugos.png" group-title="usee", mugos
-https://akus.uk.to/live/kei/mdfgkmds/usee/mugos/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/muitv.png" group-title="usee", muitv
-https://akus.uk.to/live/kei/mdfgkmds/usee/muitv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/mytv.png" group-title="usee", mytv
-https://akus.uk.to/live/kei/mdfgkmds/usee/mytv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/newsasia.png" group-title="usee", newsasia
-https://akus.uk.to/live/kei/mdfgkmds/usee/newsasia/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/paytrentv.png" group-title="usee", paytrentv
-https://akus.uk.to/live/kei/mdfgkmds/usee/paytrentv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/tmusic.png" group-title="usee", tmusic
-https://akus.uk.to/live/kei/mdfgkmds/usee/tmusic/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/tvedukasi.png" group-title="usee", tvedukasi
-https://akus.uk.to/live/kei/mdfgkmds/usee/tvedukasi/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/tv9.png" group-title="usee", tv9
-https://akus.uk.to/live/kei/mdfgkmds/usee/tv9/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/uchannel.png" group-title="usee", uchannel
-https://akus.uk.to/live/kei/mdfgkmds/usee/uchannel/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/aljazeera.png" group-title="usee", aljazeera
-https://akus.uk.to/live/kei/mdfgkmds/usee/aljazeera/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/alquran.png" group-title="usee", alquran
-https://akus.uk.to/live/kei/mdfgkmds/usee/alquran/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/dmi.png" group-title="usee", dmi
-https://akus.uk.to/live/kei/mdfgkmds/usee/dmi/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/khazanah.png" group-title="usee", khazanah
-https://akus.uk.to/live/kei/mdfgkmds/usee/khazanah/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/mqtv.png" group-title="usee", mqtv
-https://akus.uk.to/live/kei/mdfgkmds/usee/mqtv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/mtatv.png" group-title="usee", mtatv
-https://akus.uk.to/live/kei/mdfgkmds/usee/mtatv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/muhammadiyahtv.png" group-title="usee", muhammadiyahtv
-https://akus.uk.to/live/kei/mdfgkmds/usee/muhammadiyahtv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/rodjatv.png" group-title="usee", rodjatv
-https://akus.uk.to/live/kei/mdfgkmds/usee/rodjatv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/bioskopindonesia.png" group-title="usee", bioskopindonesia
-https://akus.uk.to/live/kei/mdfgkmds/usee/bioskopindonesia/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/chinesedrama.png" group-title="usee", chinesedrama
-https://akus.uk.to/live/kei/mdfgkmds/usee/chinesedrama/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/cnnindonesia.png" group-title="usee", cnnindonesia
-https://akus.uk.to/live/kei/mdfgkmds/usee/cnnindonesia/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/daaitv.png" group-title="usee", daaitv
-https://akus.uk.to/live/kei/mdfgkmds/usee/daaitv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/diva.png" group-title="usee", diva
-https://akus.uk.to/live/kei/mdfgkmds/usee/diva/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/duniaanak.png" group-title="usee", duniaanak
-https://akus.uk.to/live/kei/mdfgkmds/usee/duniaanak/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/eentertainment.png" group-title="usee", eentertainment
-https://akus.uk.to/live/kei/mdfgkmds/usee/eentertainment/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/eatgo.png" group-title="usee", eatgo
-https://akus.uk.to/live/kei/mdfgkmds/usee/eatgo/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/flik.png" group-title="usee", flik
-https://akus.uk.to/live/kei/mdfgkmds/usee/flik/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/galaxy.png" group-title="usee", galaxy
-https://akus.uk.to/live/kei/mdfgkmds/usee/galaxy/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/hiindo.png" group-title="usee", hiindo
-https://akus.uk.to/live/kei/mdfgkmds/usee/hiindo/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/insert.png" group-title="usee", insert
-https://akus.uk.to/live/kei/mdfgkmds/usee/insert/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/kix.png" group-title="usee", kix
-https://akus.uk.to/live/kei/mdfgkmds/usee/kix/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/pelangi.png" group-title="usee", pelangi
-https://akus.uk.to/live/kei/mdfgkmds/usee/pelangi/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/pramborstv.png" group-title="usee", pramborstv
-https://akus.uk.to/live/kei/mdfgkmds/usee/pramborstv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/sbsin.png" group-title="usee", sbsin
-https://akus.uk.to/live/kei/mdfgkmds/usee/sbsin/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/wakuwaku.png" group-title="usee", wakuwaku
-https://akus.uk.to/live/kei/mdfgkmds/usee/wakuwaku/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/warner.png" group-title="usee", warner
-https://akus.uk.to/live/kei/mdfgkmds/usee/warner/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/aniplus.png" group-title="usee", aniplus
-https://akus.uk.to/live/kei/mdfgkmds/usee/aniplus/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/bloomberg.png" group-title="usee", bloomberg
-https://akus.uk.to/live/kei/mdfgkmds/usee/bloomberg/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/cctv4.png" group-title="usee", cctv4
-https://akus.uk.to/live/kei/mdfgkmds/usee/cctv4/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/cgtndocumentary.png" group-title="usee", cgtndocumentary
-https://akus.uk.to/live/kei/mdfgkmds/usee/cgtndocumentary/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/davinci.png" group-title="usee", davinci
-https://akus.uk.to/live/kei/mdfgkmds/usee/davinci/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/dreamworks.png" group-title="usee", dreamworks
-https://akus.uk.to/live/kei/mdfgkmds/usee/dreamworks/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/euronews.png" group-title="usee", euronews
-https://akus.uk.to/live/kei/mdfgkmds/usee/euronews/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/fashionone.png" group-title="usee", fashionone
-https://akus.uk.to/live/kei/mdfgkmds/usee/fashionone/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/fashiontv.png" group-title="usee", fashiontv
-https://akus.uk.to/live/kei/mdfgkmds/usee/fashiontv/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/kplus.png" group-title="usee", kplus
-https://akus.uk.to/live/kei/mdfgkmds/usee/kplus/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/nhkworld.png" group-title="usee", nhkworld
-https://akus.uk.to/live/kei/mdfgkmds/usee/nhkworld/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/spacetoonplus.png" group-title="usee", spacetoonplus
-https://akus.uk.to/live/kei/mdfgkmds/usee/spacetoonplus/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/tv5monde.png" group-title="usee", tv5monde
-https://akus.uk.to/live/kei/mdfgkmds/usee/tv5monde/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/zbioskop.png" group-title="usee", zbioskop
-https://akus.uk.to/live/kei/mdfgkmds/usee/zbioskop/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/afc.png" group-title="usee", afc
-https://akus.uk.to/live/kei/mdfgkmds/usee/afc/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/nba.png" group-title="usee", nba
-https://akus.uk.to/live/kei/mdfgkmds/usee/nba/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/animax.png" group-title="usee", animax
-https://akus.uk.to/live/kei/mdfgkmds/usee/animax/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/axn.png" group-title="usee", axn
-https://akus.uk.to/live/kei/mdfgkmds/usee/axn/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/cartoonnetwork.png" group-title="usee", cartoonnetwork
-https://akus.uk.to/live/kei/mdfgkmds/usee/cartoonnetwork/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/history.png" group-title="usee", history
-https://akus.uk.to/live/kei/mdfgkmds/usee/history/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/nickjr.png" group-title="usee", nickjr
-https://akus.uk.to/live/kei/mdfgkmds/usee/nickjr/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/nickelodeon.png" group-title="usee", nickelodeon
-https://akus.uk.to/live/kei/mdfgkmds/usee/nickelodeon/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/egg.png" group-title="usee", egg
-https://akus.uk.to/live/kei/mdfgkmds/usee/egg/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/sgem.png" group-title="usee", sgem
-https://akus.uk.to/live/kei/mdfgkmds/usee/sgem/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/sone.png" group-title="usee", sone
-https://akus.uk.to/live/kei/mdfgkmds/usee/sone/index.m3u8
-#EXTINF: -1 tvg-logo="https://indiku.me/logo/tvn.png" group-title="usee", tvn
-https://akus.uk.to/live/kei/mdfgkmds/usee/tvn/index.m3u8
 
 
 ########## MALAYSIA CHANNELS ##########
