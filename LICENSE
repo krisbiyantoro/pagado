@@ -165,13 +165,13 @@ http://tvku.live:8888/steve/29PL8X/1532
 http://tvku.live:8888/steve/29PL8X/962
 #EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="KIDS CHANNELS",Spacetoon
 http://tvku.live:8888/steve/29PL8X/1541
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="KIDS CHANNELS",Baby First
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png" group-title="KIDS CHANNELS",Baby First
 http://tvku.live:8888/steve/29PL8X/1204
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="" group-title="KIDS CHANNELS",Dunia Anak
 http://tvku.live:8888/steve/29PL8X/907
 #EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="" group-title="KIDS CHANNELS",Toonmax
 http://tvku.live:8888/steve/29PL8X/1116
-#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/getpubliccontent?contentId=01ea7e32-190e-4088-99af-ef9842773879" group-title="KIDS CHANNELS",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="Disney XD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/DisneyXD_150x150.jpg" group-title="KIDS CHANNELS",Disney XD
 http://tvku.live:8888/steve/29PL8X/104
 #EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="" group-title="KIDS CHANNELS",Disney UK
 http://tvku.live:8888/steve/29PL8X/2336
@@ -181,7 +181,7 @@ http://tvku.live:8888/steve/29PL8X/1854
 http://tvku.live:8888/steve/29PL8X/335
 #EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/5/5b/DreamWorks_Animation_SKG_logo.png" group-title="KIDS CHANNELS",Dream Works HD
 http://tvku.live:8888/steve/29PL8X/936
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp3iSf8EJ-cop8fRkxIKeU7JnMJvDtLWjbsKlA=s900-mo-c-c0xffffffff-rj-k-no" group-title="KIDS CHANNELS",Boomerang HD
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="KIDS CHANNELS",Boomerang HD
 http://tvku.live:8888/steve/29PL8X/305
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://4.bp.blogspot.com/_WEmgbnumRFY/SO9bwY05QtI/AAAAAAAAGsY/EALyb7B2MVk/s400/Baby_tv.jpg" group-title="KIDS CHANNELS",Baby TV
 http://tvku.live:8888/steve/29PL8X/296
