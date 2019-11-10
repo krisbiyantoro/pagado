@@ -383,6 +383,8 @@ http://tvku.live:8888/steve/29PL8X/2407
 http://tvku.live:8888/steve/29PL8X/2409
 #EXTINF:-1 tvg-id="" tvg-name="Mola Sports" tvg-logo="https://pbs.twimg.com/profile_images/1130397670932008961/bFl07ZdC.png" group-title="Sports",Mola Sport 1
 https://delivery.macan.live/stream/macan_sport_7/index.m3u8?token=dTNAnKin
+EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sports",TVRI Sport HD
+http://tvku.live:8888/AgusMuliadi/4Pauhwj7qZ/3831
 #EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sports",BeIN Sport 1 ID
 http://tvku.live:8888/steve/29PL8X/728
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sports",BeIN Sport 2 ID
